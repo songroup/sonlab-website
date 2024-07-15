@@ -1,5 +1,5 @@
 
-# songroupDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# sonlab's Website
 
 Visit **[songroup.github.io/sonlab-website](https://songroup.github.io/sonlab-website)** 🚀
 
