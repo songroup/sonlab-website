@@ -15,4 +15,4 @@ nav:
 
 ## Alumni
 We will miss you guys!
-{% include list.html data="members" component="portrait" filters="role: alum-grad, alum-undergrad" %}
+{% include list.html data="members" component="portrait" filters="role: alum-postdoc, alum-phd, alum-ms, alum-undergrad" %}
