@@ -11,4 +11,4 @@ links:
   #orcid: 0000-0002-1042-0194
 ---
 
-**Junho Lim** is an undergraduate student in the Department of Chemistry at POSTECH.
+**Junho Lim** was an undergraduate student in the Department of Chemistry at POSTECH. He is currently majoring in chemistry and physics (double major) in POSTECH since 2020. He studied the cooperative migration of flexible lipids into lipid droplets via molecular dynamics simulation. His current research / academic interests focus on the stochastic processes in non-equilibrium condition.
