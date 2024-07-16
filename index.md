@@ -7,7 +7,7 @@
 
 We are computational chemistry lab at SNU Department of Chemistry.
 
-Our lab develops molecular simulations to solve problems that are critical in energy/bio applications. We use/develop statistical mechanics / molecular dynamics / coarse-grained methods / machine-learning / big data analysis to understand the mechanisms of chemical processes and help designing new functional materials.
+Our lab develops molecular simulations to solve problems that are critical in energy/bio applications. We use & develop statistical mechanics / molecular dynamics / coarse-grained methods / machine-learning / big data analysis to understand the mechanisms of chemical processes and help designing new functional materials.
 
 {%
   include button.html
