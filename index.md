@@ -4,7 +4,7 @@ title: Home
 
 # Molecular simulations
 
-Molecular simulations have become powerful tools for studying diverse range of physical/chemical systems, providing microscopic understanding of underlying mechanisms of their function. Simulation studies incorporating explicit treatment of xx
+Molecular simulations have become powerful tools for studying diverse range of physical/chemical systems, providing microscopic understanding of underlying mechanisms of their function. Despite of the benefits, performing molecular simulations of several systems brings unprecedented challenges beyond the conventional discipline of molecular modeling. The challenges are categorized into two aspects. First, some  systems require system-specific advanced technique of simulation to represent particular physics related to the properties of the system. Second, the chemical species often encounter specific local environments that are different from where the molecular models were initially developed and validated. Acquiring frameworks for predictive molecular modeling is a central quest to avoid laborious effort of constructing molecular models ad hoc for every different system, and ultimately getting predictive power to derive appropriate design principles of optimizing performance of functional materials.
 
 {:.center}
 
