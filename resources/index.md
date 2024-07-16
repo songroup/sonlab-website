@@ -1,8 +1,8 @@
 ---
 title: Resources
 nav:
-  order: 6
-  tooltip: Hardware, GPUs, CPUs
+  order: 5
+  tooltip: Hardware, GPUs/CPUs
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Resources
