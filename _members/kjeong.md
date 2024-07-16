@@ -1,7 +1,7 @@
 ---
 name: Kyeong-jun Jeong
 image: images/members/kjeong.jpeg
-role: Postdoctoral Researcher
+role: postdoc
 aliases:
   - KJ
 links: 
