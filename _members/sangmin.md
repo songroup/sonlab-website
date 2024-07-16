@@ -1,6 +1,6 @@
 ---
 name: Sangmin Lee
-image: images/members/sangmin.jpeg
+image: images/members/smlee.jpeg
 role: phd
 aliases:
   - SW
