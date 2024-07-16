@@ -3,7 +3,7 @@ name: Sangmin Lee
 image: images/members/smlee.jpeg
 role: phd
 aliases:
-  - SW
+  - SM
 links: 
   email: smlee99@postech.ac.kr
   #home-page: https://seungwon.com
