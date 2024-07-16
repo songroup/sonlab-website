@@ -1,7 +1,7 @@
 ---
 title: Awards
 nav:
-  order: 6
+  order: 5
   tooltip: Media exposure
 ---
 
