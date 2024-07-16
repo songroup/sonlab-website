@@ -1,0 +1,14 @@
+---
+name: Sangmin Lee
+image: images/members/sangmin.jpeg
+role: phd
+aliases:
+  - SW
+links: 
+  email: smlee99@postech.ac.kr
+  #home-page: https://seungwon.com
+  github: smlee99
+  orcid: 0000-0002-1042-0194
+---
+
+**Sangmin Lee** is a Ph.D. candidate in the Department of Chemistry at SNU. He received her B.S. and M.S. in chemistry from POSTECH. His current research interests focus on the computational modeling of reactive molecular dynamics and nucleation processes.
