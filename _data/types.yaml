@@ -19,7 +19,7 @@ ms:
   description: MS Student
   
 undergrad:
-  icon: fa-solid fa-user-school
+  icon: fa-solid fa-school
   description: Undergraduate Student
   
 mascot:
