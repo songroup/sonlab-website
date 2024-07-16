@@ -28,19 +28,19 @@ mascot:
 
 # alumni roles
 
-alum-postdoc:
+alum-po:
   icon: fa-solid fa-hand-spock
   description: Former Postdoctoral Researcher
 
-alum-phd:
+alum-ph:
   icon: fa-solid fa-hand-spock
   description: Former PhD Student
 
-alum-ms:
+alum-m:
   icon: fa-solid fa-hand-spock
   description: Former MS Student
   
-alum-undergrad:
+alum-ug:
   icon: fa-solid fa-hand-spock
   description: Former Undergraduate Student
   
