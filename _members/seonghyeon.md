@@ -11,4 +11,4 @@ links:
   #orcid: 0000-0002-1042-0194
 ---
 
-**Seonghyeon Kang** is a M.S.–Ph.D. integrated course student in the Department of Chemistry at SNU. He received his B.S. chemistry from DGIST. His current research interests focus on conducting polymer studied by molecular dynamics simulations.
+**Seonghyeon Kang** is a M.S.–Ph.D. integrated course student in the Department of Chemistry at SNU. He received his Integrated B.Sci (major: chemistry, minor: physics) from DGIST. His current research interests focus on conducting polymer studied by molecular dynamics simulations.
