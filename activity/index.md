@@ -1,5 +1,5 @@
 ---
-title: News
+title: Activity
 nav:
   order: 4
   tooltip: Social events
