@@ -1,7 +1,7 @@
 ---
 name: Kyeongjun Jeong
 image: images/kjeong.jpeg
-role: programmer
+role: Post Doc
 aliases:
   - KJ
 links: 
