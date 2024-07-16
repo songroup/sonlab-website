@@ -2,7 +2,7 @@
   subtitle: 
   group: featured
   image: images/research1.png
-  link: https://github.com/
+  link: https://songroup.github.io/sonlab-website/research/#understanding-polarization-effects-at-interfaces
   description: 
   repo: greenelab/lab-website-template
   tags:
@@ -11,7 +11,7 @@
   subtitle: 
   group: featured
   image: images/research2.png
-  link: https://github.com/
+  link: https://songroup.github.io/sonlab-website/research/#designing-polymer-electrolytes-with-machine-learning-corrected-force-field
   description: 
   repo: greenelab/lab-website-template
   tags:
