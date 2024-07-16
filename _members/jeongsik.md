@@ -5,7 +5,7 @@ role: ms
 aliases:
   - JS
 links: 
-  #email: jungsik@snu.ac.kr
+  email: jaysik@snu.ac.kr
   #home-page: https://jeongsik.com
   #github: jeongsik
   #orcid: 0000-0003-4125-7809
