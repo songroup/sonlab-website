@@ -1,7 +1,20 @@
 ---
+title: Home
 ---
 
+# synergize AI, machine vision and microscopy 
+
+AI-based microscopy machine vision research is a highly interdisciplinary field requiring good knowledge of machine learning, computer vision, microscopy and the associated biomedical applications. We develop new deep learning and computer vision algorithms driven by real biomedical applications for R&D. We also generalize or productionize existing algorithms for high-dimenstional microscopy images, so that biomedical researchers are accesible to more the high-end AI algorithms. Currently, our focus is applications arose from whole-body or whole-organ imaging using lightsheet flurorescence microscopy (LSFM). But, the methods and tools are mostly generalizable for other modalities. In our group, we are building a diverse team with different expertises and embrace extensive internal and external collaborations.
+
+{:.center}
+
+{% include section.html full=true %}
+
+{% include banner.html image="images/banner.png" %}
+
 {% include section.html %}
+
+# Highlights
 
 {% capture text %}
 
