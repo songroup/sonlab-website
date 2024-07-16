@@ -1,10 +1,10 @@
 # site properties and page defaults
 title: Son Research Lab
 subtitle: Computational modeling for Energy/Bio Soft Materials Research
-description: 
-header: images/background.jpg
-footer: images/background.jpg
-proofer: false
+description: We develop computational modeling to simulate energy/bio soft materials system
+# header: images/background.jpg
+# footer: images/background.jpg
+# proofer: false
 
 # site social media and other links
 links:
