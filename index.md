@@ -45,7 +45,7 @@ We're a group of graduate students, data scientists, and software engineers with
 
 {%
   include feature.html
-  image="images/lab_axe_throwing.jpg"
+  image="images/group_photo.jpeg"
   link="team"
   title="Our Team"
   text=text
