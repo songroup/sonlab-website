@@ -1,5 +1,5 @@
 ---
-name: Kyeongjun Jeong
+name: Kyeong-jun Jeong
 image: images/members/kjeong.jpeg
 role: Post Doc
 aliases:
