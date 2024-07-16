@@ -5,7 +5,6 @@
   link: https://songroup.github.io/sonlab-website/research/#understanding-polarization-effects-at-interfaces
   description: 
   repo: 
-  tags:
 
 - title: Machine-learning corrected force field
   subtitle: 
@@ -14,7 +13,6 @@
   link: https://songroup.github.io/sonlab-website/research/#designing-polymer-electrolytes-with-machine-learning-corrected-force-field
   description: 
   repo: 
-  tags:
 
 - title: Cool Tutorial
   subtitle: a subtitle
@@ -22,9 +20,6 @@
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
 
 - title: Cool Web App
   subtitle: a subtitle
@@ -32,8 +27,6 @@
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
-  tags:
-    - software
 
 - title: Cool Web Server
   subtitle: a subtitle
