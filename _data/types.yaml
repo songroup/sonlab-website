@@ -21,6 +21,16 @@ ms:
 undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
+  
+mascot:
+  icon: fa-solid fa-dog
+  description: Mascot
+
+# alumni roles
+
+alum-postdoc:
+  icon: fa-solid fa-hand-spock
+  description: Former Postdoctoral Researcher
 
 alum-phd:
   icon: fa-solid fa-hand-spock
@@ -34,10 +44,6 @@ alum-undergrad:
   icon: fa-solid fa-hand-spock
   description: Former Undergraduate Student
   
-mascot:
-  icon: fa-solid fa-dog
-  description: Mascot
-
 # general
 
 link:
