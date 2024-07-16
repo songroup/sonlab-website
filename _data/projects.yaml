@@ -14,19 +14,28 @@
   description: 
   repo: 
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Water purification
+  subtitle: 
+  group: featured
+  image: images/research3.png
+  link: https://songroup.github.io/sonlab-website/research/#graphene-oxide-go-membranes-for-water-purification
+  description:
+  repo: 
+
+- title: Role of water
+  subtitle: 
+  group: featured
+  image: images/research4.png
+  link: https://songroup.github.io/sonlab-website/research/#role-of-water-in-biology
+  description:
+  repo: 
 
 - title: Cool Web App
   subtitle: a subtitle
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: 
+  repo: 
 
 - title: Cool Web Server
   subtitle: a subtitle
