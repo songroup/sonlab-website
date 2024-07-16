@@ -40,8 +40,7 @@ Our lab develops molecular simulations to solve problems that are critical in en
 
 {% capture text %}
 
-We're a group of graduate students and post-docs with a passion for running molecular simulations and advancing computational algorithms. We are looking for motivated individuals with a passion for computational chemistry research. If you're interested, [please consider joining us](/join-us).
-
+We're a group of graduate students and post-docs with a passion for running molecular simulations and advancing computational algorithms. We are looking for motivated individuals with a passion for computational chemistry research. If you're interested, please consider joining us.
 {%
   include button.html
   link="team"
