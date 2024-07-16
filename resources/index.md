@@ -44,7 +44,9 @@ Our lab mainly utilizes massively parallel MD simulation package OpenMM using gr
 Benchmarks of simulation speed on typical biochemical systems. Solvents are treated either explicit-RF or explicit-PME (1.2nm for cutoff distance). Langevin / Drude Langevin integrators are employed with a step size of 1 fs. The length of bonds involving hydrogen were constrained, and water molecules were fully rigid. CUDA platform on NVIDIA GeForce RTX 3090/4090 GPUs are used with mixed precision.
 
 {% capture text %}
-System: NaCl 1M Solution (5nm box, 3512 water molecules, 75 pair of Na+/Cl- ions, total 10686 atoms) (model: TIP3P/SWM4-NDP)
+System: NaCl 1M Solution 
+Details: (5nm box, 3512 water molecules, 75 pair of Na+/Cl- ions, total 10686 atoms)(
+Model: TIP3P/SWM4-NDP
 {:.center}
 {% endcapture %}
 
