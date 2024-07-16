@@ -7,7 +7,7 @@ Our lab is a collective of molecular simulation research investigators with an i
 
 {%
   include figure.html
-  image="images/banner.jpg"
+  image="images/Research.png"
   width="1000px"
 %}
 
