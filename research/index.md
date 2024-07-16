@@ -37,13 +37,58 @@ Understanding electrostatic interactions across charged or dielectric interfaces
 
 # Designing polymer electrolytes with machine-learning corrected force field
 
+{% capture text %}
 Polymer gel electrolytes are emerging as safe alternative for organic electrolytes in energy storage and wearable devices. Combining polymers with electrolyte solutions or ionic liquids (ILs) enhances the electrochemical stability, mechanical strength and processability while preserving the high conductivity of liquid electrolyte. We’ll systematically study the ion transport and charging mechanisms in polymer gel electrolytes utilizing a machine-learning corrected multi-scale first principles force field.
+
+{%
+  include button.html
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/research2.png"
+  text=text
+%}
 
 # Graphene oxide (GO) membranes for water purification
 
+{% capture text %}
 Sub-micrometer sized GO membranes show highly selective water permeation, and applying small electric potential enables precisely controlled water and ion permeation. We focus on understanding previously overlooked polarization effect on the structural and transport properties near the GO surface. Through treatment of both surface and electrolyte polarization effects, we aim to find novel transport mechanisms of confined water and ions, as well as optimizing the separation property of the GO membrane.
 Image from R.R.Nair et al., Nature Nanotech.(2017)
 
+{%
+  include button.html
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/research3.png"
+  text=text
+%}
+
 # Role of water in biology
 
+{% capture text %}
 Life has its foundation on water. Not only serving as the solvent media of biology, water plays important role in functional membrane proteins such as in respiration systems, ion channels, ATP synthesis etc. Seeing dynamic pathways of water through complex protein can tell us how the amino acid sequence can communicate with each other, and how they control the reactions that are essential to maintain life. Through multi-scale simulations with the state-of-the-art enhanced sampling techniques we find unique opportunities to answer fundamental questions in life science.
+
+{%
+  include button.html
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/research4.png"
+  text=text
+%}
