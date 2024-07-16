@@ -1,6 +1,6 @@
 ---
 name: Seungwon Jeong
-image: images/members/sweong.jpeg
+image: images/members/seungwon.png
 role: phd
 aliases:
   - SW
