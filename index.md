@@ -26,7 +26,7 @@ Our lab develops molecular simulations to solve problems that are critical in en
   link="research"
   title="Our Research"
   text=text
-  width="400px"
+  width="600px"
 %}
 
 {% capture text %}
@@ -50,5 +50,5 @@ We're a group of graduate students and post-docs with a passion for running mole
   link="team"
   title="Our Team"
   text=text
-  width="400px"
+  width="600px"
 %}
