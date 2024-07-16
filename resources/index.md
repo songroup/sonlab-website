@@ -1,7 +1,7 @@
 ---
 title: Resources
 nav:
-  order: 5
+  order: 6
   tooltip: Hardware, GPUs/CPUs
 ---
 
