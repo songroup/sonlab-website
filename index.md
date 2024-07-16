@@ -26,7 +26,6 @@ Our lab develops molecular simulations to solve problems that are critical in en
   link="research"
   title="Our Research"
   text=text
-  size=full
 %}
 
 {% capture text %}
