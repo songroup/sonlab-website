@@ -7,7 +7,17 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Resources
 
+{% capture text %}
 Our lab mainly utilizes massively parallel MD simulation package OpenMM using graphical processing units (GPUs). Our lab creates a high-performance supercomputing ecosystem equipped with ~150 GPUs (mostly GeForce 30 series + 32 RTX 4090 !), which enables a single simulation across multiple GPUs, or alternatively run a different simulation on each one at the same time.
+
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/cluster.jpg"
+  text=text
+%}
 
 ## GPUs/CPUs cluster
 
