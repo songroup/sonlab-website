@@ -1,7 +1,7 @@
 ---
 name: Junho Lim
 image: images/members/junho.jpg
-role: alum-undergrad
+role: alum-ug
 aliases:
   - JH
 links: 
