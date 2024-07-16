@@ -17,7 +17,23 @@ Overall research landscape of our lab is given as follows
 
 # Understanding polarization effects at interfaces
 
+{% capture text %}
 Understanding electrostatic interactions across charged or dielectric interfaces is of critical importance in broad field of science. The interplay of electrostatic interactions through the symmetry-breaking boundaries plays the major role in thermodynamic and dynamic behavior of the system. Recent advances in surface specific spectroscopic techniques have discovered rich structural and chemical properties at interfaces that are distinct from homogeneous systems, although molecular understanding of these complex systems are still challenging. The overall goal of research in my group will be to build a versatile simulation framework for charged interfaces to aid the rational design of functional membrane materials. This includes studies of air/water interface, ion solutions at exotic conditions, polymer electrolytes for next generation batteries, protein interaction with functional bio-membranes and nanoparticles, graphene oxide membranes and its applications.
+
+{%
+  include button.html
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/research1.png"
+  text=text
+%}
+
 
 # Designing polymer electrolytes with machine-learning corrected force field
 
