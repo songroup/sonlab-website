@@ -15,7 +15,6 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: phd" %}
 {% include list.html data="members" component="portrait" filters="role: ms" %}
 {% include list.html data="members" component="portrait" filters="role: undergrad" %}
-#{% include list.html data="members" component="portrait" filters="role: ^(?!pi|alumni$)" %}
 
 ## Alumni
 Just as we dread parting when we meet, we believe that we’ll meet again when we part.  
