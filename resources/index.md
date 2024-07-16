@@ -10,7 +10,7 @@ nav:
 Our lab mainly utilizes massively parallel MD simulation package OpenMM using graphical processing units (GPUs). Our lab creates a high-performance supercomputing ecosystem equipped with >100 GPUs (mostly GeForce 30 series + 10 RTX 4090 !), which enables a single simulation across multiple GPUs, or alternatively run a different simulation on each one at the same time.
 
 |  Node  |               GPUs              |                           CPUs                      |     RAM    |
-| -------| ------------------------------: | --------------------------------------------------: | ---------: |
+| -----: | ------------------------------: | --------------------------------------------------: | ---------: |
 |   15   |   NVIDIA GeForce RTX 4090 x 10  |    Intel(R) Xeon(R) Gold 6242R CPU (40 Cores) * 2   |    250GB   |
 |   18   |   NVIDIA GeForce RTX 4090 x 6   |    Intel(R) Xeon(R) Gold 6242R CPU (40 Cores) * 2   |    250GB   |
 |   19   |   NVIDIA GeForce RTX 4090 x 6   |    Intel(R) Xeon(R) Gold 6242R CPU (40 Cores) * 2   |    250GB   |
