@@ -11,8 +11,12 @@ nav:
 
 ## Current Members
 {% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi|alumni$)" %}
+{% include list.html data="members" component="portrait" filters="role: postdoc" %}
+{% include list.html data="members" component="portrait" filters="role: phd" %}
+{% include list.html data="members" component="portrait" filters="role: ms" %}
+{% include list.html data="members" component="portrait" filters="role: undergrad" %}
+#{% include list.html data="members" component="portrait" filters="role: ^(?!pi|alumni$)" %}
 
 ## Alumni
-We will miss you guys!
-{% include list.html data="members" component="portrait" filters="role: alum-postdoc, alum-phd, alum-ms, alum-undergrad" %}
+Just as we dread parting when we meet, we believe that we’ll meet again when we part.  
+{% include list.html data="members" component="portrait" filters="role: ^(alum-)" %}
