@@ -5,7 +5,9 @@
 
 {% capture text %}
 
-Our lab develops data science methods and software tools to advance cancer research and patient care. Our areas of technical focus are computational infrastructure, cloud computing, and machine learning. Our areas of cancer research include precision oncology and early detection.
+We are computational chemistry lab at SNU Department of Chemistry.
+
+Our lab develops molecular simulations to solve problems that are critical in energy/bio applications. We use/develop statistical mechanics / molecular dynamics / coarse-grained methods / machine-learning / big data analysis to understand the mechanisms of chemical processes and help designing new functional materials.
 
 {%
   include button.html
