@@ -1,20 +1,17 @@
 ---
-title: Home
 ---
 
-# Molecular simulations
+<!-- # Son Research Lab -->
 
-Molecular simulations have become powerful tools for studying diverse range of physical/chemical systems, providing microscopic understanding of underlying mechanisms of their function. Despite of the benefits, performing molecular simulations of several systems brings unprecedented challenges beyond the conventional discipline of molecular modeling. The challenges are categorized into two aspects. First, some  systems require system-specific advanced technique of simulation to represent particular physics related to the properties of the system. Second, the chemical species often encounter specific local environments that are different from where the molecular models were initially developed and validated. Acquiring frameworks for predictive molecular modeling is a central quest to avoid laborious effort of constructing molecular models ad hoc for every different system, and ultimately getting predictive power to derive appropriate design principles of optimizing performance of functional materials.
+Our lab is a collective of molecular simulation research investigators with an interest in studying the energy/bio soft materials system. Molecular simulation is performed to quantitatively analyzing the structure, dynamics, thermody-namics and reaction kinetics of several systems from the physical models given. Our mission is not only to provide microscopic understanding of various molecular-level phenomena, but also to develop the advanced computational techniques / algorithms to properly capture the underlying physics. We have strong expertise in genome profiling analysis, a proven track record on the development of high-throughput laboratory and analytical pipelines (bioinformatics and statistical), and integrating large and complex genomic datasets. We have formed a strong network of research and clinical collaborations to pursue innovative studies in cancer research.
 
-{:.center}
-
-{% include section.html full=true %}
-
-{% include banner.html image="images/banner.png" %}
+{%
+  include figure.html
+  image="images/banner.jpg"
+  width="1000px"
+%}
 
 {% include section.html %}
-
-# Highlights
 
 {% capture text %}
 
