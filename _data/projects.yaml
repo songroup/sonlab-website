@@ -1,5 +1,5 @@
 - title: Understanding polarization effects at interfaces
-  subtitle: a subtitle
+  subtitle: 
   group: featured
   image: images/research1.png
   link: https://github.com/
@@ -8,7 +8,7 @@
   tags:
 
 - title: Design polymer electrolytes with machine-learning corrected force field
-  subtitle: a subtitle
+  subtitle: 
   group: featured
   image: images/research2.png
   link: https://github.com/
