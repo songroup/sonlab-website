@@ -7,7 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-We are located in the 502-227 Department of Chemistry, Seoul National University, Seoul 08826.
+We welcome motivated grad/undergrad/postdocs who loves coding / physical thinking / finding and solving new problems that are relevant to energy / biological applications. 
+
+Interested should email me to changyunson@postech.ac.kr.
 
 {%
   include button.html
@@ -18,6 +20,6 @@ We are located in the 502-227 Department of Chemistry, Seoul National University
 {%
   include button.html
   type="address"
-  tooltip="502 Department of Chemistry, Seoul National University"
-  link="[https://maps.app.goo.gl/ngufCMf6utwYMiVn6](https://map.naver.com/p/search/%EC%84%9C%EC%9A%B8%EB%8C%80%ED%95%99%EA%B5%90%20502%EB%8F%99/place/1689899299?c=17.13,0,0,0,dh&isCorrectAnswer=true)"
+  tooltip="502-227 Department of Chemistry, Seoul National University"
+  link="[https://map.naver.com/p/search/%EC%84%9C%EC%9A%B8%EB%8C%80%ED%95%99%EA%B5%90%20502%EB%8F%99/place/1689899299?c=17.13,0,0,0,dh&isCorrectAnswer=true]"
 %}
