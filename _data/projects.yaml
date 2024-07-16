@@ -1,22 +1,20 @@
-- title: Cool Dataset
+- title: Understanding polarization effects at interfaces
   subtitle: a subtitle
   group: featured
-  image: images/photo.jpg
+  image: images/research1.png
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: 
   repo: greenelab/lab-website-template
   tags:
-    - resource
 
-- title: Cool Package
+- title: Design polymer electrolytes with machine-learning corrected force field
   subtitle: a subtitle
   group: featured
-  image: images/photo.jpg
+  image: images/research2.png
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: 
   repo: greenelab/lab-website-template
   tags:
-    - resource
 
 - title: Cool Tutorial
   subtitle: a subtitle
