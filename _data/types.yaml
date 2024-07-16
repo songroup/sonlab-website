@@ -3,7 +3,7 @@
 # team member roles
 
 pi:
-  icon: fa-solid fa-microscope
+  icon: fa-solid fa-person-chalkboard
   description: Principal Investigator
 
 postdoc:
@@ -19,7 +19,7 @@ ms:
   description: MS Student
   
 undergrad:
-  icon: fa-solid fa-user-graduate
+  icon: fa-solid fa-user-school
   description: Undergraduate Student
   
 mascot:
