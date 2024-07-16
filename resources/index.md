@@ -46,9 +46,10 @@ Benchmarks of simulation speed on typical biochemical systems. Solvents are trea
 {% capture text %}
 System: NaCl 1M Solution 
 
-Details: (5nm box, 3512 water molecules, 75 pair of Na+/Cl- ions, total 10686 atoms)
+5nm box, 3512 water molecules, 75 pair of Na+/Cl- ions, total 10686 atoms
 
-Model: TIP3P/SWM4-NDP
+Model: TIP3P, SWM4-NDP
+
 {:.center}
 {% endcapture %}
 
@@ -61,9 +62,10 @@ Model: TIP3P/SWM4-NDP
 {% capture text %}
 System: Ionic liquid BMIM+/BF4- 
 
-Details: 8.0nm box, 1600 pair of BMIM+/BF4- ions, total 48000 atoms
+8.0nm box, 1600 pair of BMIM+/BF4- ions, total 48000 atoms
 
-Model: SAPT-nopol/SAPT-pol
+Model: SAPT, SAPT_Drude
+
 {:.center}
 {% endcapture %}
 
@@ -76,9 +78,10 @@ Model: SAPT-nopol/SAPT-pol
 {% capture text %}
 System: Dihydrofolate Reductase (DHFR) / JAC benchmark system
 
-Details: 6.2nm box, 2489 atoms protein, 7023 water molecules, total 23,558 atoms
+6.2nm box, 2489 atoms protein, 7023 water molecules, total 23,558 atoms
 
-Model: amber14ffSB, CHARMM36, CHARMM_drude2019
+Model: amber14ffSB, CHARMM36, CHARMM_Drude2019
+
 {:.center}
 {% endcapture %}
 
@@ -91,9 +94,9 @@ Model: amber14ffSB, CHARMM36, CHARMM_drude2019
 {% capture text %}
 System: Apolipoprotein A1 (ApoA1) / JAC benchmark system
 
-Details: 10.8nm box, 392 protein residues, 160 POPC lipids, 21,458 water molecules, total 92,224 atoms
+10.8nm box, 392 protein residues, 160 POPC lipids, 21,458 water molecules, total 92,224 atoms
 
-Model: amber14ffSB, CHARMM36, CHARMM_drude2019
+Model: amber14ffSB, CHARMM36, CHARMM_Drude2019
 
 {:.center}
 {% endcapture %}
