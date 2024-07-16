@@ -14,4 +14,5 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi|alumni$)" %}
 
 ## Alumni
+We will miss you guys!
 {% include list.html data="members" component="portrait" filters="role: alumni" %}
