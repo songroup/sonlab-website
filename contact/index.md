@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-We are located in the 502-221 (Professor office) and 502-208 (Student office) Department of Chemistry Building at the Seoul National University Campus.
+We are located in the 502-221 (Professor office) and 502-208 (Student office) Department of Chemistry Building at the Seoul National University.
 
 We welcome motivated grad/undergrad/postdocs who loves coding / physical thinking / finding and solving new problems that are relevant to energy / biological applications. 
 
