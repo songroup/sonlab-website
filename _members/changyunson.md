@@ -12,7 +12,7 @@ links:
   orcid: 0000-0002-0784-6565
 ---
 
-**Chang Yun Son** is an assistant professor in the Department of Chemistry at SNU. He received his B.S. and M.S. in chemistry from Seoul National University, Ph.D. in chemistry from University of Wisconsin-Madison in 2017, and worked as postdoctoral researcher at Caltech before joining POSTECH in 2020. In the Summer of 2024, he moved his research group to Seoul National University. His current interests focus on the development and application ofmultiscale simulation models for highly charged soft materials systems, including ionic liquids,polymer electrolytes, biological membranes, and biomacromolecules.
+**Chang Yun Son** is an assistant professor in the Department of Chemistry at SNU. He received his B.S. and M.S. in chemistry from Seoul National University, Ph.D. in chemistry from University of Wisconsin-Madison in 2017, and worked as postdoctoral researcher at Caltech before joining POSTECH in 2020. In the Summer of 2024, he moved his research group to Seoul National University. His current interests focus on the development and application of multiscale simulation models for highly charged soft materials systems, including ionic liquids,polymer electrolytes, biological membranes, and biomacromolecules.
 
 The overall goal of research in our group will be to build a versatile simulation framework for charged interfaces to aid the rational design of functional energy / bio soft materials.
 
