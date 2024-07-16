@@ -3,7 +3,7 @@ name: Inyong Ji
 image: images/members/inyong.jpeg
 role: phd
 aliases:
-  - SB
+  - IY
 links: 
   #email: inyong@postech.ac.kr
   #home-page: https://inyong.com
