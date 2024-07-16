@@ -5,9 +5,9 @@ role: postdoc
 aliases:
   - KJ
 links: 
-  #email: changyunson@snu.ac.kr
-  #home-page: https://janesmith.com
-  #github: scychon
+  #email: kjeong@snu.ac.kr
+  #home-page: https://kjeong.com
+  #github: kjeong
   orcid: 0000-0001-8971-3020
 ---
 
