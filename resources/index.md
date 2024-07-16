@@ -41,4 +41,21 @@ Our lab mainly utilizes massively parallel MD simulation package OpenMM using gr
 |   17   |   NVIDIA GeForce RTX 3080Ti x 12  |    Intel(R) Xeon(R) Gold 6242R CPU     x 48cores    |    250GB   |
 
 
-## Benchmark
+## Simulation speed
+
+Benchmarks of simulation speed on typical biochemical systems. Solvents are treated either explicit-RF or explicit-PME (1.2nm for cutoff distance). Langevin / Drude Langevin integrators are employed with a step size of 1 fs. The length of bonds involving hydrogen were constrained, and water molecules were fully rigid. CUDA platform on NVIDIA GeForce RTX 3090/4090 GPUs are used with mixed precision.
+
+{% capture text %}
+System: NaCl 1M Solution (5nm box, 3512 water molecules, 75 pair of Na+/Cl- ions, total 10686 atoms) (model: TIP3P/SWM4-NDP)
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/benchmark1.png"
+  text=text
+%}
+
+Ionic liquid BMIM+/BF4- (8.0nm box, 1600 pair of BMIM+/BF4- ions, total 48000 atoms) (model: SAPT-nopol/SAPT-pol)
+Joint Amber CHARMM (JAC) Dihydrofolate Reductase (DHFR) / TIP3P benchmark system (6.2nm box, 2489 atoms protein, 7023 water molecules, total 23,558 atoms) (model: amber14ffSB, CHARMM36, CHARMM_drude2019)
+Joint Amber CHARMM (JAC) Apolipoprotein A1 (ApoA1) / TIP3P benchmark system (10.8nm box, 392 protein residues, 160 POPC lipids, 21,458 water molecules, total 92,224 atoms) (model: amber14ffSB, CHARMM36, CHARMM_drude2019)
