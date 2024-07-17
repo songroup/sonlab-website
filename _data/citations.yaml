@@ -233,3 +233,291 @@
   description: null
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1073/pnas.2020615118
+  title: Image-charge effects on ion adsorption near aqueous interfaces
+  authors:
+  - Chang Yun Son
+  - Zhen-Gang Wang
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2021-05-04'
+  link: https://doi.org/gk45vf
+  type: null
+  image: https://www.pnas.org/cms/10.1073/pnas.2020615118/asset/b928b18c-674c-4716-9cdb-414b7e9316ed/assets/images/large/pnas.2020615118fig01.jpg
+  description: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1063/5.0016163
+  title: Ion transport in small-molecule and polymer electrolytes
+  authors:
+  - Chang Yun Son
+  - Zhen-Gang Wang
+  publisher: The Journal of Chemical Physics
+  date: '2020-09-09'
+  link: https://doi.org/gt4kvg
+  type: null
+  image: https://aipp.silverchair-cdn.com/aipp/content_public/journal/jcp/153/10/10.1063_5.0016163/5/m_100903_1_5.0016163.figures.online.f1.jpeg?Expires=1724236279&Signature=X6rOlumSIpa~rw7qtHVvITMvcucBECzUNTwUfRDU6aDHCSnGSPRbZRVyI0TYUOKWJjJux0DmLXDApxsBQUlrgVLGve3AkvTXyXMPBiH1X4n9I0Vy~LQtzalZxyAcfwxujGbtn3Jw6-IsNc35RZvEUKUv7xs3amjRNC-ZXGLpfEYzigQvy0sPQz9opihWlI4HElJd8YzhWrH8wtuvSCugn0iXx--fqQMGMKbxLfTwpCF-hkKpPjgZCWYFvQirWqRVjB31fBVet3u~7cyTOxRisMBjh47-hvKlnm5tmgxWmexe8nus9HZHKPv9kcIvTUz0UE~6Yy44nTeEm-sk7N7fXg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  description: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1021/acs.langmuir.0c01369
+  title: Protonation-Driven Aqueous Lyotropic Self-Assembly of Synthetic Six-Tail
+    Lipidoids
+  authors:
+  - James Jennings
+  - Matthew C. D. Carter
+  - Chang Yun Son
+  - Qiang Cui
+  - David M. Lynn
+  - Mahesh. K. Mahanthappa
+  publisher: Langmuir
+  date: '2020-07-10'
+  link: https://doi.org/gt4kvh
+  type: null
+  image: https://pubs.acs.org/cms/10.1021/acs.langmuir.0c01369/asset/images/medium/la0c01369_0007.gif
+  description: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.bbabio.2020.148239
+  title: Identifying the proton loading site cluster in the ba cytochrome c oxidase
+    that loads and traps protons
+  authors:
+  - Xiuhong Cai
+  - Chang Yun Son
+  - Junjun Mao
+  - Divya Kaur
+  - Yingying Zhang
+  - Umesh Khaniya
+  - Qiang Cui
+  - M.R. Gunner
+  publisher: Biochimica et Biophysica Acta (BBA) - Bioenergetics
+  date: '2020-10-01'
+  link: https://doi.org/gt4kvj
+  type: null
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S000527282030089X-gr1.jpg
+  description: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1021/acs.jpclett.9b02983
+  title: "Proper Thermal Equilibration of Simulations with Drude Polarizable Models:\
+    \ Temperature-Grouped Dual-Nos\xE9\u2013Hoover Thermostat"
+  authors:
+  - Chang Yun Son
+  - Jesse G. McDaniel
+  - Qiang Cui
+  - Arun Yethiraj
+  publisher: The Journal of Physical Chemistry Letters
+  date: '2019-11-14'
+  link: https://doi.org/gt4kvk
+  type: null
+  image: https://pubs.acs.org/cms/10.1021/acs.jpclett.9b02983/asset/images/medium/jz9b02983_0005.gif
+  description: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1021/acs.macromol.8b01002
+  title: "Conformational and Dynamic Properties of Poly(ethylene oxide) in BMIM<sup>+</sup>BF<sub>4</sub><sup>\u2013\
+    </sup>: A Microsecond Computer Simulation Study Using ab Initio Force Fields"
+  authors:
+  - Chang Yun Son
+  - Jesse G. McDaniel
+  - Qiang Cui
+  - Arun Yethiraj
+  publisher: Macromolecules
+  date: '2018-07-11'
+  link: https://doi.org/gd2twq
+  type: null
+  image: https://pubs.acs.org/cms/10.1021/acs.macromol.8b01002/asset/images/medium/ma-2018-010024_0013.gif
+  description: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1021/acs.jpcb.8b04886
+  title: 'Ion Correlation and Collective Dynamics in BMIM/BF<sub>4</sub>-Based Organic
+    Electrolytes: From Dilute Solutions to the Ionic Liquid Limit'
+  authors:
+  - Jesse G. McDaniel
+  - Chang Yun Son
+  publisher: The Journal of Physical Chemistry B
+  date: '2018-06-21'
+  link: https://doi.org/gdzwp8
+  type: null
+  image: https://pubs.acs.org/cms/10.1021/acs.jpcb.8b04886/asset/images/medium/jp-2018-04886z_0008.gif
+  description: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.bbabio.2018.05.010
+  title: Network analysis of a proposed exit pathway for protons to the P-side of
+    cytochrome c oxidase
+  authors:
+  - Xiuhong Cai
+  - Kamran Haider
+  - Jianxun Lu
+  - Slaven Radic
+  - Chang Yun Son
+  - Qiang Cui
+  - M.R. Gunner
+  publisher: Biochimica et Biophysica Acta (BBA) - Bioenergetics
+  date: '2018-10-01'
+  link: https://doi.org/gd95qd
+  type: null
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0005272818301257-gr1.jpg
+  description: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1021/acs.jpcb.8b01221
+  title: 'Ab Initio Force Fields for Organic Anions: Properties of [BMIM][TFSI], [BMIM][FSI],
+    and [BMIM][OTf] Ionic Liquids'
+  authors:
+  - Jesse G. McDaniel
+  - Chang Yun Son
+  - Arun Yethiraj
+  publisher: The Journal of Physical Chemistry B
+  date: '2018-03-14'
+  link: https://doi.org/gdgr6q
+  type: null
+  image: https://pubs.acs.org/cms/10.1021/acs.jpcb.8b01221/asset/images/medium/jp-2018-01221d_0014.gif
+  description: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1073/pnas.1707922114
+  title: "Cavity hydration dynamics in cytochrome\n            <i>c</i>\n        \
+    \    oxidase and functional implications"
+  authors:
+  - Chang Yun Son
+  - Arun Yethiraj
+  - Qiang Cui
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2017-10-02'
+  link: https://doi.org/gcgxzs
+  type: null
+  image: null
+  description: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1021/acs.jpcb.5b12371
+  title: "First-Principles United Atom Force Field for the Ionic Liquid BMIM<sup>+</sup>BF<sub>4</sub><sup>\u2013\
+    </sup>: An Alternative to Charge Scaling"
+  authors:
+  - Chang Yun Son
+  - Jesse G. McDaniel
+  - J. R. Schmidt
+  - Qiang Cui
+  - Arun Yethiraj
+  publisher: The Journal of Physical Chemistry B
+  date: '2016-04-01'
+  link: https://doi.org/f8n5zk
+  type: null
+  image: https://pubs.acs.org/cms/10.1021/acs.jpcb.5b12371/asset/images/medium/jp-2015-123714_0009.gif
+  description: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1021/acs.jpcb.6b05328
+  title: <i>Ab Initio</i> Force Fields for Imidazolium-Based Ionic Liquids
+  authors:
+  - Jesse G. McDaniel
+  - Eunsong Choi
+  - Chang Yun Son
+  - J. R. Schmidt
+  - Arun Yethiraj
+  publisher: The Journal of Physical Chemistry B
+  date: '2016-07-12'
+  link: https://doi.org/gt4kvm
+  type: null
+  image: https://pubs.acs.org/cms/10.1021/acs.jpcb.6b05328/asset/images/medium/jp-2016-05328u_0010.gif
+  description: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1039/C5AN00835B
+  title: 'Multiple gas-phase conformations of proline-containing peptides: is it always
+    cis/trans isomerization?'
+  authors:
+  - Christopher B. Lietz
+  - Zhengwei Chen
+  - Chang Yun Son
+  - Xueqin Pang
+  - Qiang Cui
+  - Lingjun Li
+  publisher: The Analyst
+  date: '2016-01-01'
+  link: https://doi.org/gt4kvn
+  type: null
+  image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=C5AN00835B&imageInfo.ImageIdentifier.Year=2016
+  description: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1021/acs.jpcb.5b10065
+  title: 'Conformational and Dynamic Properties of Poly(ethylene oxide) in an Ionic
+    Liquid: Development and Implementation of a First-Principles Force Field'
+  authors:
+  - Jesse G. McDaniel
+  - Eunsong Choi
+  - Chang-Yun Son
+  - J. R. Schmidt
+  - Arun Yethiraj
+  publisher: The Journal of Physical Chemistry B
+  date: '2016-01-05'
+  link: https://doi.org/f78ddg
+  type: null
+  image: https://pubs.acs.org/cms/10.1021/acs.jpcb.5b10065/asset/images/medium/jp-2015-10065s_0013.gif
+  description: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1063/1.4802584
+  title: An accurate expression for the rates of diffusion-influenced bimolecular
+    reactions with long-range reactivity
+  authors:
+  - Chang Yun Son
+  - Jaehoon Kim
+  - Ji-Hyun Kim
+  - Jun Soo Kim
+  - Sangyoub Lee
+  publisher: The Journal of Chemical Physics
+  date: '2013-04-28'
+  link: https://doi.org/gt4kvp
+  type: null
+  image: null
+  description: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1063/1.3665415
+  title: Effects of the interaction potential and hydrodynamic interaction on the
+    diffusion-influenced reaction rates
+  authors:
+  - Chang Yun Son
+  - Sangyoub Lee
+  publisher: The Journal of Chemical Physics
+  date: '2011-12-13'
+  link: https://doi.org/fphzd6
+  type: null
+  image: null
+  description: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1063/1.3565476
+  title: 'Communication: Propagator for diffusive dynamics of an interacting molecular
+    pair'
+  authors:
+  - Sangyoub Lee
+  - Chang Yun Son
+  - Jaeyoung Sung
+  - Song-Ho Chong
+  publisher: The Journal of Chemical Physics
+  date: '2011-03-22'
+  link: https://doi.org/dznn3j
+  type: null
+  image: null
+  description: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1103/PhysRevE.83.041201
+  title: Zwanzig-Mori equation for the time-dependent pair distribution function
+  authors:
+  - Song-Ho Chong
+  - Chang-Yun Son
+  - Sangyoub Lee
+  publisher: Physical Review E
+  date: '2011-04-26'
+  link: https://doi.org/fbmt4j
+  type: null
+  image: null
+  description: null
+  plugin: sources.py
+  file: sources.yaml
