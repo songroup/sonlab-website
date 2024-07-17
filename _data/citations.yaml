@@ -231,6 +231,7 @@
   link: https://doi.org/grv59s
   type: paper
   image: https://onlinelibrary.wiley.com/cms/asset/2cd08bb9-5475-484e-a661-128fc8de2262/adma202204272-gra-0001-m.jpg
+  description: Perspective article
   plugin: sources.py
   file: sources-test.yaml
 - id: doi:10.1002/adma.202203413
@@ -249,6 +250,7 @@
   link: https://doi.org/gqnffn
   type: paper
   image: https://onlinelibrary.wiley.com/cms/asset/950b3417-1493-489f-809c-5041f5bee2b7/adma202203413-gra-0001-m.jpg
+  description: null
   plugin: sources.py
   file: sources-test.yaml
 - id: doi:10.1002/adma.202303655
@@ -273,6 +275,7 @@
   link: https://doi.org/gt4kss
   type: paper
   image: https://onlinelibrary.wiley.com/cms/asset/fdb63c21-0885-4d86-bddf-bd4ba75ed8fd/adma202303655-gra-0001-m.jpg
+  description: null
   plugin: sources.py
   file: sources-test.yaml
 - id: doi:10.1002/ange.202303890
@@ -293,6 +296,7 @@
   link: https://doi.org/gt4kst
   type: paper
   image: https://onlinelibrary.wiley.com/cms/asset/61ee97e3-34c9-4678-af54-f40af80efb18/ange202303890-toc-0001-m.jpg
+  description: null
   plugin: sources.py
   file: sources-test.yaml
 - id: doi:10.1126/sciadv.abq6207
@@ -311,6 +315,140 @@
   link: https://doi.org/gq47hf
   type: paper
   image: https://www.science.org/cms/10.1126/sciadv.abq6207/asset/a61c3f68-e661-4b33-a091-465caa8bd187/assets/images/large/sciadv.abq6207-f1.jpg
+  description: null
+  plugin: sources.py
+  file: sources-test.yaml
+- id: doi:10.1002/aelm.202201293
+  title: "Effects of Connecting Polymer Structure and Morphology at Inter\u2010Tube\
+    \ Junctions on the Thermoelectric Properties of Conjugated Polymer/Carbon Nanotube\
+    \ Composites"
+  authors:
+  - Seong Hyeon Kim
+  - Seungwon Jeong
+  - Daegun Kim
+  - Chang Yun Son
+  - Kilwon Cho
+  publisher: Advanced Electronic Materials
+  date: '2023-04-29'
+  link: https://doi.org/gt4ks4
+  type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/4902a23e-da78-4597-b08b-73c7aef28541/aelm202201293-gra-0001-m.jpg
+  description: null
+  plugin: sources.py
+  file: sources-test.yaml
+- id: doi:10.1038/s41467-022-31400-6
+  title: Chain flexibility of medicinal lipids determines their selective partitioning
+    into lipid droplets
+  authors:
+  - So-Hee Son
+  - Gyuri Park
+  - Junho Lim
+  - Chang Yun Son
+  - Seung Soo Oh
+  - Ju Young Lee
+  publisher: Nature Communications
+  date: '2022-06-24'
+  link: https://doi.org/gt4ks5
+  type: paper
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-022-31400-6/MediaObjects/41467_2022_31400_Fig1_HTML.png?
+  description: null
+  plugin: sources.py
+  file: sources-test.yaml
+- id: doi:10.1021/acs.macromol.1c02461
+  title: Enhanced Electrochemical Properties of Block Copolymer Electrolytes with
+    Blended End-Functionalized Homopolymers
+  authors:
+  - Jihoon Kim
+  - Kyeong-Jun Jeong
+  - Kyoungwook Kim
+  - Chang Yun Son
+  - Moon Jeong Park
+  publisher: Macromolecules
+  date: '2022-03-02'
+  link: https://doi.org/gp2vgm
+  type: paper
+  image: https://pubs.acs.org/cms/10.1021/acs.macromol.1c02461/asset/images/medium/ma1c02461_0008.gif
+  description: null
+  plugin: sources.py
+  file: sources-test.yaml
+- id: doi:10.1038/s41586-021-04391-5
+  title: Metastable hexagonal close-packed palladium hydride in liquid cell TEM
+  authors:
+  - Jaeyoung Hong
+  - Jee-Hwan Bae
+  - Hyesung Jo
+  - Hee-Young Park
+  - Sehyun Lee
+  - Sung Jun Hong
+  - Hoje Chun
+  - Min Kyung Cho
+  - Juyoung Kim
+  - Joodeok Kim
+  - Yongju Son
+  - Haneul Jin
+  - Jin-Yoo Suh
+  - Sung-Chul Kim
+  - Ha-Kyung Roh
+  - Kyu Hyoung Lee
+  - Hyung-Seok Kim
+  - Kyung Yoon Chung
+  - Chang Won Yoon
+  - Kiryeong Lee
+  - Seo Hee Kim
+  - Jae-Pyoung Ahn
+  - Hionsuck Baik
+  - Gyeung Ho Kim
+  - Byungchan Han
+  - Sungho Jin
+  - Taeghwan Hyeon
+  - Jungwon Park
+  - Chang Yun Son
+  - Yongsoo Yang
+  - Young-Su Lee
+  - Sung Jong Yoo
+  - Dong Won Chun
+  publisher: Nature
+  date: '2022-03-23'
+  link: https://doi.org/gthvk2
+  type: paper
+  image: https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fs41586-021-04391-5/MediaObjects/41586_2021_4391_Fig2_HTML.png?
+  description: null
+  plugin: sources.py
+  file: sources-test.yaml
+- id: doi:10.1073/pnas.2107987118
+  title: 'Enhancing ion transport in charged block copolymers by stabilizing low symmetry
+    morphology: Electrostatic control of interfaces'
+  authors:
+  - Jaemin Min
+  - Ha Young Jung
+  - Seungwon Jeong
+  - Byeongdu Lee
+  - Chang Yun Son
+  - Moon Jeong Park
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2021-08-03'
+  link: https://doi.org/gmd5jr
+  type: paper
+  image: https://www.pnas.org/cms/10.1073/pnas.2107987118/asset/b6242ecf-f37a-4163-b7a3-59729847855c/assets/images/large/pnas.2107987118fig01.jpg
+  description: null
+  plugin: sources.py
+  file: sources-test.yaml
+- id: doi:10.1002/anie.202103827
+  title: "Au/Pt\u2010Egg\u2010in\u2010Nest Nanomotor for Glucose\u2010Powered Catalytic\
+    \ Motion and Enhanced Molecular Transport to Living Cells"
+  authors:
+  - Taewan Kwon
+  - Nitee Kumari
+  - Amit Kumar
+  - Jongwon Lim
+  - Chang Yun Son
+  - In Su Lee
+  publisher: Angewandte Chemie International Edition
+  date: '2021-06-26'
+  link: https://doi.org/gkhhx4
+  type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/fae32b3d-9f09-4463-b833-a7191f8e7b64/anie202103827-toc-0001-m.jpg
+  description: null
   plugin: sources.py
   file: sources-test.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
