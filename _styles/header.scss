@@ -2,8 +2,8 @@
 ---
 
 $logo-big: 80px;
-$logo: 40px;
-$big-padding: 100px;
+$logo: 60px;
+$big-padding: 80px;
 $collapse: 700px;
 $sticky: true;
 
@@ -39,11 +39,11 @@ header a {
 }
 
 .logo {
-  height: $logo;
+  height: $logo-big;
 }
 
 .logo > * {
-  height: 100%;
+  height: auto;
 }
 
 .title {
@@ -55,6 +55,7 @@ header a {
   min-width: 0;
   font-family: var(--title);
   text-align: left;
+  margin: 30px;
 }
 
 // main title
@@ -138,7 +139,7 @@ header[data-big] {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  padding: 20px;
+  padding: $big-padding 20px;
 
   @if $sticky {
     top: unset;
@@ -160,11 +161,30 @@ header[data-big] {
   }
 
   .title > *:first-child {
-    font-size: var(--xxl);
+    font-size: var(--large);
   }
 
   .title > *:last-child {
-    font-size: var(--large);
+    font-size: var(--medium);
   }
 }
 
+header:not([data-big]) {
+  @media (max-width: $collapse) {
+    justify-content: flex-end;
+    padding: 10px;
+
+    img {
+      margin-top: 24px;
+    }
+    .title > *:first-child {
+      font-size: var(--small);
+    }
+    .title > *:last-child {
+      font-size: var(--xs);
+    }
+    .title {
+      margin: 10px;
+    }
+  }
+}
