@@ -1,19 +1,54 @@
 - id: doi:10.1002/adma.202204272
   type: paper
   image: https://onlinelibrary.wiley.com/cms/asset/2cd08bb9-5475-484e-a661-128fc8de2262/adma202204272-gra-0001-m.jpg
+  description: Perspective article
 
 - id: doi:10.1002/adma.202203413
   type: paper
   image: https://onlinelibrary.wiley.com/cms/asset/950b3417-1493-489f-809c-5041f5bee2b7/adma202203413-gra-0001-m.jpg
-
+  description:
+  
 - id: doi:10.1002/adma.202303655
   type: paper
   image: https://onlinelibrary.wiley.com/cms/asset/fdb63c21-0885-4d86-bddf-bd4ba75ed8fd/adma202303655-gra-0001-m.jpg
-
+  description:
+  
 - id: doi:10.1002/ange.202303890
   type: paper
   image: https://onlinelibrary.wiley.com/cms/asset/61ee97e3-34c9-4678-af54-f40af80efb18/ange202303890-toc-0001-m.jpg
-
+  description:
+  
 - id: doi:10.1126/sciadv.abq6207
   type: paper
   image: https://www.science.org/cms/10.1126/sciadv.abq6207/asset/a61c3f68-e661-4b33-a091-465caa8bd187/assets/images/large/sciadv.abq6207-f1.jpg
+  description:
+
+- id: doi:10.1002/aelm.202201293
+  type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/4902a23e-da78-4597-b08b-73c7aef28541/aelm202201293-gra-0001-m.jpg
+  description: 
+
+- id: doi:10.1038/s41467-022-31400-6
+  type: paper
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-022-31400-6/MediaObjects/41467_2022_31400_Fig1_HTML.png?
+  description: 
+
+- id: doi:10.1021/acs.macromol.1c02461
+  type: paper
+  image: https://pubs.acs.org/cms/10.1021/acs.macromol.1c02461/asset/images/medium/ma1c02461_0008.gif
+  description: 
+
+- id: doi:10.1038/s41586-021-04391-5
+  type: paper
+  image: https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fs41586-021-04391-5/MediaObjects/41586_2021_4391_Fig2_HTML.png?
+  description: 
+
+- id: doi:10.1073/pnas.2107987118
+  type: paper
+  image: https://www.pnas.org/cms/10.1073/pnas.2107987118/asset/b6242ecf-f37a-4163-b7a3-59729847855c/assets/images/large/pnas.2107987118fig01.jpg
+  description: 
+
+- id: doi:10.1002/anie.202103827
+  type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/fae32b3d-9f09-4463-b833-a7191f8e7b64/anie202103827-toc-0001-m.jpg
+  description: 
