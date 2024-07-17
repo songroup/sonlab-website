@@ -7,15 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Publications
 
-Test
-
-{% include section.html %}
-
-## Highlighted
-
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
-
-{% include section.html %}
+For citation stats, click here to see [google scholar page](https://scholar.google.com/citations?user=jxZN0mkAAAAJ&hl=en).
 
 ## All
 
