@@ -1,6 +1,6 @@
 ---
 name: Chaemin Jeong
-image: images/members/chaemin.png
+image: images/members/chaemin.jpeg
 role: phd
 aliases:
   - CH
