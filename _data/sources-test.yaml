@@ -1,6 +1,19 @@
 - id: doi:10.1002/adma.202204272
   type: paper
-  description: Lorem ipsum _dolor sit amet_.
   image: https://onlinelibrary.wiley.com/cms/asset/2cd08bb9-5475-484e-a661-128fc8de2262/adma202204272-gra-0001-m.jpg
 
 - id: doi:10.1002/adma.202203413
+  type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/950b3417-1493-489f-809c-5041f5bee2b7/adma202203413-gra-0001-m.jpg
+
+- id: doi:10.1002/adma.202303655
+  type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/fdb63c21-0885-4d86-bddf-bd4ba75ed8fd/adma202303655-gra-0001-m.jpg
+
+- id: doi:10.1002/ange.202303890
+  type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/61ee97e3-34c9-4678-af54-f40af80efb18/ange202303890-toc-0001-m.jpg
+
+- id: doi:10.1126/sciadv.abq6207
+  type: paper
+  image: https://www.science.org/cms/10.1126/sciadv.abq6207/asset/a61c3f68-e661-4b33-a091-465caa8bd187/assets/images/large/sciadv.abq6207-f1.jpg
