@@ -46,7 +46,7 @@ header a {
   height: 100%;
 }
 
-.title-text {
+.title {
   display: flex;
   justify-content: flex-start;
   align-items: baseline;
@@ -57,11 +57,13 @@ header a {
   text-align: left;
 }
 
-.title {
+// main title
+.title > *:first-child {
   font-size: var(--large);
 }
 
-.subtitle {
+// subtitle
+.title > *:last-child {
   opacity: 0.65;
   font-weight: var(--thin);
 }
@@ -73,8 +75,9 @@ header a {
   height: 30px;
   margin: 0;
   color: var(--text);
+  -webkit-appearance: none;
   appearance: none;
-  transition: background var(--transition);
+  transition-property: background;
 }
 
 .nav-toggle:after {
@@ -135,7 +138,7 @@ header[data-big] {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  padding: $big-padding 20px;
+  padding: 20px;
 
   @if $sticky {
     top: unset;
@@ -150,17 +153,18 @@ header[data-big] {
     height: $logo-big;
   }
 
-  .title-text {
+  .title {
     flex-direction: column;
     align-items: center;
     text-align: center;
   }
 
-  .title {
+  .title > *:first-child {
     font-size: var(--xxl);
   }
 
-  .subtitle {
+  .title > *:last-child {
     font-size: var(--large);
   }
 }
+
