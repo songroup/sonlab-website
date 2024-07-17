@@ -213,7 +213,7 @@
   publisher: Advanced Materials
   date: '2022-11-14'
   link: https://doi.org/grv59s
-  type: paper
+  type: null
   image: https://onlinelibrary.wiley.com/cms/asset/2cd08bb9-5475-484e-a661-128fc8de2262/adma202204272-gra-0001-m.jpg
   description: Perspective article
   plugin: sources.py
@@ -232,7 +232,7 @@
   publisher: Advanced Materials
   date: '2022-07-30'
   link: https://doi.org/gqnffn
-  type: paper
+  type: null
   image: https://onlinelibrary.wiley.com/cms/asset/950b3417-1493-489f-809c-5041f5bee2b7/adma202203413-gra-0001-m.jpg
   description: null
   plugin: sources.py
@@ -257,7 +257,7 @@
   publisher: Advanced Materials
   date: '2023-09-15'
   link: https://doi.org/gt4kss
-  type: paper
+  type: null
   image: https://onlinelibrary.wiley.com/cms/asset/fdb63c21-0885-4d86-bddf-bd4ba75ed8fd/adma202303655-gra-0001-m.jpg
   description: null
   plugin: sources.py
@@ -278,7 +278,7 @@
   publisher: Angewandte Chemie
   date: '2023-05-05'
   link: https://doi.org/gt4kst
-  type: paper
+  type: null
   image: https://onlinelibrary.wiley.com/cms/asset/61ee97e3-34c9-4678-af54-f40af80efb18/ange202303890-toc-0001-m.jpg
   description: null
   plugin: sources.py
@@ -297,7 +297,7 @@
   publisher: Science Advances
   date: '2022-10-28'
   link: https://doi.org/gq47hf
-  type: paper
+  type: null
   image: https://www.science.org/cms/10.1126/sciadv.abq6207/asset/a61c3f68-e661-4b33-a091-465caa8bd187/assets/images/large/sciadv.abq6207-f1.jpg
   description: null
   plugin: sources.py
@@ -315,7 +315,7 @@
   publisher: Advanced Electronic Materials
   date: '2023-04-29'
   link: https://doi.org/gt4ks4
-  type: paper
+  type: null
   image: https://onlinelibrary.wiley.com/cms/asset/4902a23e-da78-4597-b08b-73c7aef28541/aelm202201293-gra-0001-m.jpg
   description: null
   plugin: sources.py
@@ -350,7 +350,7 @@
   publisher: Macromolecules
   date: '2022-03-02'
   link: https://doi.org/gp2vgm
-  type: paper
+  type: null
   image: https://pubs.acs.org/cms/10.1021/acs.macromol.1c02461/asset/images/medium/ma1c02461_0008.gif
   description: null
   plugin: sources.py
@@ -394,7 +394,7 @@
   publisher: Nature
   date: '2022-03-23'
   link: https://doi.org/gthvk2
-  type: paper
+  type: null
   image: https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fs41586-021-04391-5/MediaObjects/41586_2021_4391_Fig2_HTML.png?
   description: null
   plugin: sources.py
@@ -412,7 +412,7 @@
   publisher: Proceedings of the National Academy of Sciences
   date: '2021-08-03'
   link: https://doi.org/gmd5jr
-  type: paper
+  type: null
   image: https://www.pnas.org/cms/10.1073/pnas.2107987118/asset/b6242ecf-f37a-4163-b7a3-59729847855c/assets/images/large/pnas.2107987118fig01.jpg
   description: null
   plugin: sources.py
@@ -430,7 +430,7 @@
   publisher: Angewandte Chemie International Edition
   date: '2021-06-26'
   link: https://doi.org/gkhhx4
-  type: paper
+  type: null
   image: https://onlinelibrary.wiley.com/cms/asset/fae32b3d-9f09-4463-b833-a7191f8e7b64/anie202103827-toc-0001-m.jpg
   description: null
   plugin: sources.py
