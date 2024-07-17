@@ -230,7 +230,6 @@
   date: '2022-11-14'
   link: https://doi.org/grv59s
   type: paper
-  description: Lorem ipsum _dolor sit amet_.
   image: https://onlinelibrary.wiley.com/cms/asset/2cd08bb9-5475-484e-a661-128fc8de2262/adma202204272-gra-0001-m.jpg
   plugin: sources.py
   file: sources-test.yaml
@@ -248,6 +247,70 @@
   publisher: Advanced Materials
   date: '2022-07-30'
   link: https://doi.org/gqnffn
+  type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/950b3417-1493-489f-809c-5041f5bee2b7/adma202203413-gra-0001-m.jpg
+  plugin: sources.py
+  file: sources-test.yaml
+- id: doi:10.1002/adma.202303655
+  title: "G\u2010Quadruplex\u2010Filtered Selective Ion\u2010to\u2010Ion Current Amplification\
+    \ for Non\u2010Invasive Ion Monitoring in Real Time"
+  authors:
+  - Hyebin Yoo
+  - "Hyun\u2010Ro Lee"
+  - "Soon\u2010Bo Kang"
+  - Juhwa Lee
+  - Kunwoong Park
+  - Hyunjae Yoo
+  - Jinmin Kim
+  - Taek Dong Chung
+  - "Kyung\u2010Mi Lee"
+  - "Hyun\u2010Ho Lim"
+  - Chang Yun Son
+  - "Jeong\u2010Yun Sun"
+  - Seung Soo Oh
+  publisher: Advanced Materials
+  date: '2023-09-15'
+  link: https://doi.org/gt4kss
+  type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/fdb63c21-0885-4d86-bddf-bd4ba75ed8fd/adma202303655-gra-0001-m.jpg
+  plugin: sources.py
+  file: sources-test.yaml
+- id: doi:10.1002/ange.202303890
+  title: "Sculpting In\u2010plane Fractal Porous Patterns in Two\u2010Dimensional\
+    \ MOF Nanocrystals for Photoelectrocatalytic CO<sub>2</sub> Reduction"
+  authors:
+  - Soumen Dutta
+  - Akshay Gurumoorthi
+  - Shinbi Lee
+  - Sun Woo Jang
+  - Nitee Kumari
+  - "Yu\u2010Rim Hong"
+  - Wonyong Choi
+  - Chang Yun Son
+  - In Su Lee
+  publisher: Angewandte Chemie
+  date: '2023-05-05'
+  link: https://doi.org/gt4kst
+  type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/61ee97e3-34c9-4678-af54-f40af80efb18/ange202303890-toc-0001-m.jpg
+  plugin: sources.py
+  file: sources-test.yaml
+- id: doi:10.1126/sciadv.abq6207
+  title: De novo selected hACE2 mimics that integrate hotspot peptides with aptameric
+    scaffolds for binding tolerance of SARS-CoV-2 variants
+  authors:
+  - Minjong Lee
+  - Byunghwa Kang
+  - Juhwa Lee
+  - Jisun Lee
+  - Sang Taek Jung
+  - Chang Yun Son
+  - Seung Soo Oh
+  publisher: Science Advances
+  date: '2022-10-28'
+  link: https://doi.org/gq47hf
+  type: paper
+  image: https://www.science.org/cms/10.1126/sciadv.abq6207/asset/a61c3f68-e661-4b33-a091-465caa8bd187/assets/images/large/sciadv.abq6207-f1.jpg
   plugin: sources.py
   file: sources-test.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
