@@ -2,9 +2,9 @@
 title: Son Research Lab
 subtitle: Computational modeling for Energy/Bio Soft Materials Research
 description: We develop computational modeling to simulate energy/bio soft materials system
-# header: images/background.jpg
-# footer: images/background.jpg
-# proofer: false
+header: images/header.png
+footer: images/footer.png
+header-dark: true
 
 # site social media and other links
 links:
