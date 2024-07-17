@@ -32,7 +32,7 @@ Our lab develops molecular simulations to solve problems that are critical in en
 
 {%
   include feature.html
-  image="images/Research.png"
+  image="images/landscape.png"
   link="research"
   title="Our Research"
   text=text
