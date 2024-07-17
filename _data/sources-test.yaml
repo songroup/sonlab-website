@@ -1,2 +1,6 @@
 - id: doi:10.1002/adma.202204272
+  type: paper
+  description: Lorem ipsum _dolor sit amet_.
+  image: https://onlinelibrary.wiley.com/cms/asset/2cd08bb9-5475-484e-a661-128fc8de2262/adma202204272-gra-0001-m.jpg
+
 - id: doi:10.1002/adma.202203413
