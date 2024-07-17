@@ -38,7 +38,7 @@ Our lab mainly utilizes massively parallel MD simulation package OpenMM using gr
 |    14    |     NVIDIA GeForce RTX 3080Ti x 12    |    Intel(R) Xeon(R) Gold 6242R CPU     x 40cores    |    250GB   |        409.2       |
 |    17    |     NVIDIA GeForce RTX 3080Ti x 12    |    Intel(R) Xeon(R) Gold 6242R CPU     x 48cores    |    250GB   |        409.2       |
 
-The theoretical performance of our cluster is estimated to be **6,280 TFlops** (note that the entire KISTI-5 Supercomputer Nurion's theoretical performance is 25,700 Tflops!). Thesee faciltiies turbocharge our research by significantly boosting our simulation speed. For more, see the benchmark (below).
+The theoretical performance of our cluster is estimated to be **6,280 TFlops** (note that the entire KISTI-5 Supercomputer Nurion's theoretical performance is 25,700 Tflops!). These faciltiies turbocharge our research by significantly boosting our simulation speed. For more, see the benchmark (below).
 
 
 ## Simulation speed
