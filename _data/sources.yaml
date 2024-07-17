@@ -52,3 +52,93 @@
   type: 
   image: https://onlinelibrary.wiley.com/cms/asset/fae32b3d-9f09-4463-b833-a7191f8e7b64/anie202103827-toc-0001-m.jpg
   description: 
+
+- id: doi:10.1073/pnas.2020615118
+  type: 
+  image: https://www.pnas.org/cms/10.1073/pnas.2020615118/asset/b928b18c-674c-4716-9cdb-414b7e9316ed/assets/images/large/pnas.2020615118fig01.jpg
+  description: 
+
+- id: doi:10.1063/5.0016163
+  type: 
+  image: https://aipp.silverchair-cdn.com/aipp/content_public/journal/jcp/153/10/10.1063_5.0016163/5/m_100903_1_5.0016163.figures.online.f1.jpeg?Expires=1724236279&Signature=X6rOlumSIpa~rw7qtHVvITMvcucBECzUNTwUfRDU6aDHCSnGSPRbZRVyI0TYUOKWJjJux0DmLXDApxsBQUlrgVLGve3AkvTXyXMPBiH1X4n9I0Vy~LQtzalZxyAcfwxujGbtn3Jw6-IsNc35RZvEUKUv7xs3amjRNC-ZXGLpfEYzigQvy0sPQz9opihWlI4HElJd8YzhWrH8wtuvSCugn0iXx--fqQMGMKbxLfTwpCF-hkKpPjgZCWYFvQirWqRVjB31fBVet3u~7cyTOxRisMBjh47-hvKlnm5tmgxWmexe8nus9HZHKPv9kcIvTUz0UE~6Yy44nTeEm-sk7N7fXg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  description: 
+
+- id: doi:10.1021/acs.langmuir.0c01369
+  type: 
+  image: https://pubs.acs.org/cms/10.1021/acs.langmuir.0c01369/asset/images/medium/la0c01369_0007.gif
+  description: 
+
+- id: doi:10.1016/j.bbabio.2020.148239
+  type: 
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S000527282030089X-gr1.jpg
+  description: 
+
+- id: doi:10.1021/acs.jpclett.9b02983
+  type: 
+  image: https://pubs.acs.org/cms/10.1021/acs.jpclett.9b02983/asset/images/medium/jz9b02983_0005.gif
+  description: 
+
+- id: doi:10.1021/acs.macromol.8b01002
+  type: 
+  image: https://pubs.acs.org/cms/10.1021/acs.macromol.8b01002/asset/images/medium/ma-2018-010024_0013.gif
+  description: 
+
+- id: doi:10.1021/acs.jpcb.8b04886
+  type: 
+  image: https://pubs.acs.org/cms/10.1021/acs.jpcb.8b04886/asset/images/medium/jp-2018-04886z_0008.gif
+  description: 
+
+- id: doi:10.1016/j.bbabio.2018.05.010
+  type: 
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0005272818301257-gr1.jpg
+  description: 
+
+- id: doi:10.1021/acs.jpcb.8b01221
+  type: 
+  image: https://pubs.acs.org/cms/10.1021/acs.jpcb.8b01221/asset/images/medium/jp-2018-01221d_0014.gif
+  description: 
+
+- id: doi:10.1073/pnas.1707922114
+  type: 
+  image: 
+  description: 
+
+- id: doi:10.1021/acs.jpcb.5b12371
+  type: 
+  image: https://pubs.acs.org/cms/10.1021/acs.jpcb.5b12371/asset/images/medium/jp-2015-123714_0009.gif
+  description: 
+
+- id: doi:10.1021/acs.jpcb.6b05328
+  type: 
+  image: https://pubs.acs.org/cms/10.1021/acs.jpcb.6b05328/asset/images/medium/jp-2016-05328u_0010.gif
+  description: 
+
+- id: doi:10.1039/C5AN00835B
+  type: 
+  image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=C5AN00835B&imageInfo.ImageIdentifier.Year=2016
+  description: 
+
+- id: doi:10.1021/acs.jpcb.5b10065
+  type: 
+  image: https://pubs.acs.org/cms/10.1021/acs.jpcb.5b10065/asset/images/medium/jp-2015-10065s_0013.gif
+  description: 
+
+- id: doi:10.1063/1.4802584
+  type: 
+  image: 
+  description: 
+
+- id: doi:10.1063/1.3665415
+  type: 
+  image: 
+  description: 
+
+- id: doi:10.1063/1.3565476
+  type: 
+  image: 
+  description: 
+
+- id: doi:10.1103/PhysRevE.83.041201
+  type: 
+  image: 
+  description:
