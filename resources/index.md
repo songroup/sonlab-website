@@ -21,22 +21,24 @@ Our lab mainly utilizes massively parallel MD simulation package OpenMM using gr
 
 ## GPUs/CPUs cluster
 
-|:  Node  :|:                  GPUs               :|:                          CPUs                     :|:    RAM   :|
-|:--------:|:-------------------------------------:|:---------------------------------------------------:|:----------:|
-|    15    |   **NVIDIA GeForce RTX 4090   x 10**  |    Intel(R) Xeon(R) Gold 6242R CPU     x 40cores    |    250GB   |
-|    18    |   **NVIDIA GeForce RTX 4090   x 6**   |    Intel(R) Xeon(R) Gold 6348  CPU     x 112cores   |    500GB   |
-|    19    |   **NVIDIA GeForce RTX 4090   x 6**   |    Intel(R) Xeon(R) Gold 6348  CPU     x 112cores   |    500GB   |
-|    20    |   **NVIDIA GeForce RTX 4090   x 10**  |    Intel(R) Xeon(R) Platinum 8360Y CPU x 72cores    |    500GB   |
-|    1     |     NVIDIA GeForce RTX 3090   x 8     |    Intel(R) Xeon(R) Gold 6230  CPU     x 32cores    |    125GB   |
-|    3     |     NVIDIA GeForce RTX 3090   x 10    |    Intel(R) Xeon(R) CPU E5-2680 v4     x 28cores    |    250GB   |
-|    11    |     NVIDIA GeForce RTX 3090   x 12    |    Intel(R) Xeon(R) Gold 6242R CPU     x 40cores    |    250GB   |
-|    12    |     NVIDIA GeForce RTX 3090   x 12    |    Intel(R) Xeon(R) Gold 6242R CPU     x 40cores    |    250GB   |
-|    13    |     NVIDIA GeForce RTX 3090   x 8     |    Intel(R) Xeon(R) Gold 6230R CPU     x 52cores    |    125GB   |
-|    16    |     NVIDIA GeForce RTX 3090   x 10    |    Intel(R) Xeon(R) Gold 6242R CPU     x 40cores    |    250GB   |
-|    5     |     NVIDIA GeForce RTX 3080Ti x 8     |    Intel(R) Xeon(R) Gold 6242R CPU     x 40cores    |    250GB   |
-|    6     |     NVIDIA GeForce RTX 3080Ti x 8     |    Intel(R) Xeon(R) CPU E5-2699 v4     x 44cores    |    250GB   |
-|    14    |     NVIDIA GeForce RTX 3080Ti x 12    |    Intel(R) Xeon(R) Gold 6242R CPU     x 40cores    |    250GB   |
-|    17    |     NVIDIA GeForce RTX 3080Ti x 12    |    Intel(R) Xeon(R) Gold 6242R CPU     x 48cores    |    250GB   |
+|:  Node  :|:                  GPUs               :|:                          CPUs                     :|:    RAM   :|:   TFlops (FP32)  :|
+|:--------:|:-------------------------------------:|:---------------------------------------------------:|:----------:|:------------------:|
+|    15    |   **NVIDIA GeForce RTX 4090   x 10**  |    Intel(R) Xeon(R) Gold 6242R CPU     x 40cores    |    250GB   |        825.8       |
+|    18    |   **NVIDIA GeForce RTX 4090   x 6**   |    Intel(R) Xeon(R) Gold 6348  CPU     x 112cores   |    500GB   |       495.48       |
+|    19    |   **NVIDIA GeForce RTX 4090   x 6**   |    Intel(R) Xeon(R) Gold 6348  CPU     x 112cores   |    500GB   |       495.48       |
+|    20    |   **NVIDIA GeForce RTX 4090   x 10**  |    Intel(R) Xeon(R) Platinum 8360Y CPU x 72cores    |    500GB   |        825.8       |
+|    1     |     NVIDIA GeForce RTX 3090   x 8     |    Intel(R) Xeon(R) Gold 6230  CPU     x 32cores    |    125GB   |       284.64       | 
+|    3     |     NVIDIA GeForce RTX 3090   x 10    |    Intel(R) Xeon(R) CPU E5-2680 v4     x 28cores    |    250GB   |        355.8       |
+|    11    |     NVIDIA GeForce RTX 3090   x 12    |    Intel(R) Xeon(R) Gold 6242R CPU     x 40cores    |    250GB   |       426.96       |
+|    12    |     NVIDIA GeForce RTX 3090   x 12    |    Intel(R) Xeon(R) Gold 6242R CPU     x 40cores    |    250GB   |       426.96       |
+|    13    |     NVIDIA GeForce RTX 3090   x 8     |    Intel(R) Xeon(R) Gold 6230R CPU     x 52cores    |    125GB   |       284.64       | 
+|    16    |     NVIDIA GeForce RTX 3090   x 10    |    Intel(R) Xeon(R) Gold 6242R CPU     x 40cores    |    250GB   |        355.8       |
+|    5     |     NVIDIA GeForce RTX 3080Ti x 8     |    Intel(R) Xeon(R) Gold 6242R CPU     x 40cores    |    250GB   |        272.8       |
+|    6     |     NVIDIA GeForce RTX 3080Ti x 12    |    Intel(R) Xeon(R) CPU E5-2699 v4     x 44cores    |    250GB   |        409.2       |
+|    14    |     NVIDIA GeForce RTX 3080Ti x 12    |    Intel(R) Xeon(R) Gold 6242R CPU     x 40cores    |    250GB   |        409.2       |
+|    17    |     NVIDIA GeForce RTX 3080Ti x 12    |    Intel(R) Xeon(R) Gold 6242R CPU     x 48cores    |    250GB   |        409.2       |
+
+The theoretical performance of our cluster is estimated to be 6,280 TFlops (the entire KISTI-5 Supercomputer (Nurion)'s theoretical performance is 25,700 Tflops!). Thesee faciltiies turbocharge our research by significantly boosting our simulation speed. For more, see the benchmark (below).
 
 
 ## Simulation speed
