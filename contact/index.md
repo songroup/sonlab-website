@@ -21,9 +21,9 @@ Interested should email me to changyunson@snu.ac.kr
 %}
 {%
   include button.html
-  type="+82-2-880-6652"
-  tooltip="+82-2-880-6652"
-  link="https://songroup.github.io/sonlab-website/"
+  type="phone"
+  text="+82-2-880-6652"
+  link=""
 %}
 {%
   include button.html
