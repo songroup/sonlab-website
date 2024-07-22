@@ -21,13 +21,13 @@ Interested should email me to changyunson@snu.ac.kr
 %}
 {%
   include button.html
-  type="address"
-  tooltip="502-221 Department of Chemistry, Seoul National University"
-  link="https://map.naver.com/p/search/%EC%84%9C%EC%9A%B8%EB%8C%80%ED%95%99%EA%B5%90%20502%EB%8F%99/place/1689899299?c=17.13,0,0,0,dh&isCorrectAnswer=true"
-%}
-{%
-  include button.html
   type="+82-2-880-6652"
   tooltip="+82-2-880-6652"
   link="+82-2-880-6652"
+%}
+{%
+  include button.html
+  type="address"
+  tooltip="502-221 Department of Chemistry, Seoul National University"
+  link="https://map.naver.com/p/search/%EC%84%9C%EC%9A%B8%EB%8C%80%ED%95%99%EA%B5%90%20502%EB%8F%99/place/1689899299?c=17.13,0,0,0,dh&isCorrectAnswer=true"
 %}
