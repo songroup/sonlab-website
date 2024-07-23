@@ -5,7 +5,7 @@ role: phd
 aliases:
   - JH
 links: 
-  #email: juhwa@snu.ac.kr
+  email: juhwalee@postech.ac.kr
   #home-page: https://juhwa.com
   #github: juhwa
   #orcid: 0000-0003-4125-7809
