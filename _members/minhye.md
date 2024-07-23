@@ -5,7 +5,7 @@ role: phd
 aliases:
   - MH
 links: 
-  #email: minhye@snu.ac.kr
+  email: posimine@postech.ac.kr
   #home-page: https://minhye.com
   #github: minhye
   #orcid: 0000-0003-4125-7809
