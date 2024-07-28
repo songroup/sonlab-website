@@ -1,7 +1,7 @@
 ---
 name: Inyong Ji
 image: images/members/inyong.jpeg
-role: phd
+role: phd2024
 aliases:
   - IY
 links: 
