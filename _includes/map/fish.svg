@@ -12,7 +12,7 @@
     />
     <path
       fill="#ffffff"
-      transform="translate(0,-20) scale(0.05) translate(-288,-256)"
+      transform="translate(0,-20) scale(0.005) translate(-288,-256)"
         d="M 23.50,26.50
            C 23.50,23.46 25.96,21.00 29.00,21.00
              32.04,21.00 34.50,23.46 34.50,26.50
