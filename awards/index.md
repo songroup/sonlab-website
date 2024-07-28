@@ -2,7 +2,7 @@
 title: Awards
 nav:
   order: 5
-  tooltip: media exposure
+  tooltip: Media exposure, prize
 ---
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Awards
