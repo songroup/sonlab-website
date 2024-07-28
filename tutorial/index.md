@@ -1,7 +1,7 @@
 ---
 title: Tutorial
 nav:
-  order: 8
+  order: 7
   tooltip: Learn things
 ---
 
