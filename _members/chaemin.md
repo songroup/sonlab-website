@@ -1,7 +1,7 @@
 ---
 name: Chaemin Jeong
 image: images/members/chaemin.jpeg
-role: phd
+role: phd2020
 aliases:
   - CH
 links: 
