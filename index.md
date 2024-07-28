@@ -79,6 +79,8 @@ We are a group of graduate students and post-docs with a passion for running mol
 
 # {% include icon.html icon="fa-solid fa-bullhorn" %}News
 
+See below for the latest Son Research Lab news!
+
 {% include search-box.html %}
 
 {% include tags.html tags=site.tags %}
