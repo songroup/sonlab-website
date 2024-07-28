@@ -1,7 +1,7 @@
 ---
 name: Jeongsik Lee
 image: images/members/jeongsik.jpeg
-role: ms
+role: ms2024
 aliases:
   - JS
 links: 
