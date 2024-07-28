@@ -1,7 +1,7 @@
 ---
 name: Sangmin Lee
 image: images/members/smlee2.jpeg
-role: phd
+role: phd2022
 aliases:
   - SM
 links: 
