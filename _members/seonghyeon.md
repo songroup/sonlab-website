@@ -1,7 +1,7 @@
 ---
 name: Seonghyeon Kang
 image: images/members/seonghyeon.png
-role: phd
+role: phd2023
 aliases:
   - SH
 links: 
