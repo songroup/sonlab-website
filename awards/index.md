@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Awards
 
-Test
+You are proud of our lab!
 
 {% include section.html %}
 
