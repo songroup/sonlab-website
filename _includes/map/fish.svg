@@ -12,7 +12,7 @@
     />
     <path
       fill="none" stroke="white" stroke-width="10"
-      transform="translate(0,-20) scale(0.2) translate(-200,-150)"
+      transform="translate(0,-20) scale(0.05) translate(-200,-150)"
                 d="M 0.00,0.00
            C 0.00,0.00 800.00,0.00 800.00,0.00
              800.00,0.00 800.00,800.00 800.00,800.00
