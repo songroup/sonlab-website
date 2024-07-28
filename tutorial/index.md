@@ -5,6 +5,6 @@ nav:
   tooltip: Learn things
 ---
 
-# {% include icon.html%}Tutorial
+# {% include icon.html icon="fa-solid fa-chalkboard-user" %}Tutorial
 
 -
