@@ -1,0 +1,537 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<style>
+  body {
+  --rotateX: 70deg;
+  --rotateZ: 0deg;
+
+  position: absolute;
+  margin: 0;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -45%) scale(1.25);
+  overflow: hidden;
+  touch-action: none;
+}
+
+@media (max-width: 800px) {
+  body {
+    transform: translate(-50%, -45%) scale(1);
+  }
+}
+
+@media (max-width: 500px) {
+  body {
+    transform: translate(-50%, -47.5%) scale(0.5);
+  }
+}
+
+#map {
+  position: relative;
+  width: 1000px;
+  height: 1000px;
+  perspective: 1000px;
+}
+
+#view {
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  transform-style: preserve-3d;
+  transform: rotateX(var(--rotateX)) rotateZ(var(--rotateZ));
+  /* transition: transform 0.1s linear; */
+}
+
+#view > * {
+  position: absolute;
+  overflow: visible;
+}
+
+@keyframes fade {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+  .pin {
+  width: 100px;
+  transform-origin: top left;
+  transform: rotateZ(calc(-1 * var(--rotateZ)))
+    rotateX(calc(-1 * var(--rotateX))) translate(-50%, -100%) !important;
+  /* transition: transform 0.1s linear; */
+}
+
+#fish {
+  left: 300px;
+  top: 500px;
+}
+#virus {
+  left: 400px;
+  top: 400px;
+}
+#bird {
+  left: 500px;
+  top: 500px;
+}
+#brain {
+  left: 600px;
+  top: 600px;
+}
+#frog {
+  left: 700px;
+  top: 500px;
+}
+
+.drop {
+  opacity: 0;
+  animation: drop 0.5s ease forwards;
+}
+
+#fish .drop {
+  animation-delay: 2.5s;
+}
+#virus .drop {
+  animation-delay: 2.75s;
+}
+#bird .drop {
+  animation-delay: 3s;
+}
+#brain .drop {
+  animation-delay: 3.25s;
+}
+#frog .drop {
+  animation-delay: 3.5s;
+}
+
+@keyframes drop {
+  0% {
+    opacity: 0;
+    transform: translateY(-100px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+</style>
+
+</head>
+<body>
+<div id="map">
+  <div id="view">
+    <svg xmlns="http://www.w3.org/2000/svg" viewbox="-500 -500 1000 1000" id="grid">
+  <style>
+    .grid {
+      fill: none;
+      stroke-width: 5;
+      opacity: 0;
+      transform: scale(0.70711) rotate(45deg);
+      animation: fade 1s linear forwards;
+    }
+  </style>
+
+  <defs>
+    <radialgradient id="grid_gradient" r="50%">
+      <stop offset="0%" stop-color="#e0e0e0" stop-opacity="1"></stop>
+      <stop offset="100%" stop-color="#e0e0e0" stop-opacity="0"></stop>
+    </radialgradient>
+  </defs>
+
+  <!-- grid boundaries, left/top/right/bottom -->
+  
+  
+  
+  
+  
+  <!-- grid step size -->
+  
+
+  <path class="grid" stroke="url(#grid_gradient)" d="
+      
+      M -1000 -1000 L -1000 1000
+      
+      M -900 -1000 L -900 1000
+      
+      M -800 -1000 L -800 1000
+      
+      M -700 -1000 L -700 1000
+      
+      M -600 -1000 L -600 1000
+      
+      M -500 -1000 L -500 1000
+      
+      M -400 -1000 L -400 1000
+      
+      M -300 -1000 L -300 1000
+      
+      M -200 -1000 L -200 1000
+      
+      M -100 -1000 L -100 1000
+      
+      M 0 -1000 L 0 1000
+      
+      M 100 -1000 L 100 1000
+      
+      M 200 -1000 L 200 1000
+      
+      M 300 -1000 L 300 1000
+      
+      M 400 -1000 L 400 1000
+      
+      M 500 -1000 L 500 1000
+      
+      M 600 -1000 L 600 1000
+      
+      M 700 -1000 L 700 1000
+      
+      M 800 -1000 L 800 1000
+      
+      M 900 -1000 L 900 1000
+      
+      M 1000 -1000 L 1000 1000
+      
+      
+      M -1000 -1000 L 1000 -1000
+      
+      M -1000 -900 L 1000 -900
+      
+      M -1000 -800 L 1000 -800
+      
+      M -1000 -700 L 1000 -700
+      
+      M -1000 -600 L 1000 -600
+      
+      M -1000 -500 L 1000 -500
+      
+      M -1000 -400 L 1000 -400
+      
+      M -1000 -300 L 1000 -300
+      
+      M -1000 -200 L 1000 -200
+      
+      M -1000 -100 L 1000 -100
+      
+      M -1000 0 L 1000 0
+      
+      M -1000 100 L 1000 100
+      
+      M -1000 200 L 1000 200
+      
+      M -1000 300 L 1000 300
+      
+      M -1000 400 L 1000 400
+      
+      M -1000 500 L 1000 500
+      
+      M -1000 600 L 1000 600
+      
+      M -1000 700 L 1000 700
+      
+      M -1000 800 L 1000 800
+      
+      M -1000 900 L 1000 900
+      
+      M -1000 1000 L 1000 1000
+      
+    "></path>
+</svg>
+
+    <svg xmlns="http://www.w3.org/2000/svg" viewbox="-500 -500 1000 1000" id="lines">
+  <style>
+    .line {
+      fill: none;
+      stroke-width: 5;
+      stroke-linejoin: round;
+      opacity: 0;
+      animation: fade 1s linear forwards;
+      animation-delay: 0.5s;
+    }
+
+  </style>
+
+  <defs>
+    <radialgradient id="red_line_gradient" r="100%" cx="0" cy="0" gradientunits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#e91e63" stop-opacity="1"></stop>
+      <stop offset="100%" stop-color="#e91e63" stop-opacity="0"></stop>
+    </radialgradient>
+
+    <radialgradient id="yellow_line_gradient" r="100%" cx="0" cy="0" gradientunits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#ffc107" stop-opacity="1"></stop>
+      <stop offset="100%" stop-color="#ffc107" stop-opacity="0"></stop>
+    </radialgradient>
+
+    <radialgradient id="green_line_gradient" r="100%" cx="0" cy="0" gradientunits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#009688" stop-opacity="1"></stop>
+      <stop offset="100%" stop-color="#009688" stop-opacity="0"></stop>
+    </radialgradient>
+
+    <radialgradient id="blue_line_gradient" r="100%" cx="0" cy="0" gradientunits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#2196f3" stop-opacity="1"></stop>
+      <stop offset="100%" stop-color="#2196f3" stop-opacity="0"></stop>
+    </radialgradient>
+
+    <radialgradient id="purple_line_gradient" r="100%" cx="0" cy="0" gradientunits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#9c27b0" stop-opacity="1"></stop>
+      <stop offset="100%" stop-color="#9c27b0" stop-opacity="0"></stop>
+    </radialgradient>
+  </defs>
+
+  <path class="line" stroke="url(#red_line_gradient)" d="
+      M -1500 -200
+      L -200 -200
+      L -100 -100
+      L 100 100
+      L 1000 1000
+    "></path>
+
+  <path class="line" stroke="url(#purple_line_gradient)" d="
+      M -700 500
+      L -200 0
+      L -100 -100
+      L -100 -1500
+    "></path>
+
+  <path class="line" stroke="url(#green_line_gradient)" d="
+      M -100 -100
+      L 0 -200
+      L 0 -1500
+    "></path>
+
+  <path class="line" stroke="url(#yellow_line_gradient)" d="
+      M -1000 1000
+      L 0 0
+      L 200 -200
+      L 1500 -200
+    "></path>
+
+  <path class="line" stroke="url(#blue_line_gradient)" d="
+      M -900 1000
+      L 0 100
+      L 0 -100
+      L 1400 -1500
+    "></path>
+
+  <path class="line" stroke="url(#red_line_gradient)" d="
+      M 1000 800
+      L 200 0
+      L 200 -1500
+    "></path>
+</svg>
+
+    <svg xmlns="http://www.w3.org/2000/svg" viewbox="-500 -500 1000 1000" id="route">
+  <style>
+    #path {
+      fill: none;
+      stroke-width: 10;
+      stroke-dasharray: 2166;
+      stroke-dashoffset: 2166;
+      stroke-linejoin: round;
+      animation: draw 2s cubic-bezier(0, 0.5, 1, 0.5) forwards;
+      animation-delay: 2s;
+    }
+
+    @keyframes draw {
+      0% {
+        stroke-dashoffset: 2166;
+      }
+      100% {
+        stroke-dashoffset: 0;
+      }
+    }
+
+    .grow {
+      transform: scale(0);
+      animation: grow 0.5s ease forwards;
+    }
+
+    .dot:nth-of-type(1) > g {
+      animation-delay: 1s;
+    }
+    .dot:nth-of-type(2) > g {
+      animation-delay: 1.25s;
+    }
+    .dot:nth-of-type(3) > g {
+      animation-delay: 1.5s;
+    }
+    .dot:nth-of-type(4) > g {
+      animation-delay: 1.75s;
+    }
+    .dot:nth-of-type(5) > g {
+      animation-delay: 2s;
+    }
+
+    @keyframes grow {
+      0% {
+        transform: scale(0);
+      }
+      50% {
+        transform: scale(2);
+      }
+      100% {
+        transform: scale(1);
+      }
+    }
+
+    .outer {
+      fill: #202020;
+    }
+
+    .inner {
+      fill: #ffffff;
+    }
+  </style>
+
+  <defs>
+    <lineargradient id="route_gradient">
+      <stop offset="0%" stop-color="#202020" stop-opacity="0"></stop>
+      <stop offset="33%" stop-color="#202020" stop-opacity="1"></stop>
+      <stop offset="66%" stop-color="#202020" stop-opacity="1"></stop>
+      <stop offset="100%" stop-color="#202020" stop-opacity="0"></stop>
+    </lineargradient>
+  </defs>
+
+  <path id="path" stroke="url(#route_gradient)" d="
+      M -1000 0
+      L -200 0
+      L -100 -100
+      L 0 0
+      L 100 100
+      L 200 0
+      L 1000 0
+    "></path>
+
+  <g class="dot" transform="translate(-200,0)">
+    <g class="grow">
+      <circle class="outer" cx="0" cy="0" r="10"></circle>
+      <circle class="inner" cx="0" cy="0" r="5"></circle>
+    </g>
+  </g>
+
+  <g class="dot" transform="translate(-100,-100)">
+    <g class="grow">
+      <circle class="outer" cx="0" cy="0" r="10"></circle>
+      <circle class="inner" cx="0" cy="0" r="5"></circle>
+    </g>
+  </g>
+
+  <g class="dot" transform="translate(0,0)">
+    <g class="grow">
+      <circle class="outer" cx="0" cy="0" r="10"></circle>
+      <circle class="inner" cx="0" cy="0" r="5"></circle>
+    </g>
+  </g>
+
+  <g class="dot" transform="translate(100,100)">
+    <g class="grow">
+      <circle class="outer" cx="0" cy="0" r="10"></circle>
+      <circle class="inner" cx="0" cy="0" r="5"></circle>
+    </g>
+  </g>
+
+  <g class="dot" transform="translate(200,0)">
+    <g class="grow">
+      <circle class="outer" cx="0" cy="0" r="10"></circle>
+      <circle class="inner" cx="0" cy="0" r="5"></circle>
+    </g>
+  </g>
+</svg>
+
+    <svg xmlns="http://www.w3.org/2000/svg" viewbox="-64 -64 128 128" id="fish" class="pin">
+  <g class="drop">
+    <path fill="#2196f3" transform="scale(0.25) translate(-192,-256)" d="M172.268 501.67C26.97 291.031 0 269.413 0 192 0 85.961 85.961 0 192 0s192 85.961 192 192c0 77.413-26.97 99.031-172.268 309.67-9.535 13.774-29.93 13.773-39.464 0z"></path>
+    <path fill="#ffffff" transform="translate(0,-20) scale(0.1) translate(-288,-256)" d="M327.1 96c-89.97 0-168.54 54.77-212.27 101.63L27.5 131.58c-12.13-9.18-30.24.6-27.14 14.66L24.54 256 .35 365.77c-3.1 14.06 15.01 23.83 27.14 14.66l87.33-66.05C158.55 361.23 237.13 416 327.1 416 464.56 416 576 288 576 256S464.56 96 327.1 96zm87.43 184c-13.25 0-24-10.75-24-24 0-13.26 10.75-24 24-24 13.26 0 24 10.74 24 24 0 13.25-10.75 24-24 24z"></path>
+  </g>
+</svg>
+
+    <svg xmlns="http://www.w3.org/2000/svg" viewbox="-64 -64 128 128" id="virus" class="pin">
+  <g class="drop">
+    <path fill="#9c27b0" transform="scale(0.25) translate(-192,-256)" d="M172.268 501.67C26.97 291.031 0 269.413 0 192 0 85.961 85.961 0 192 0s192 85.961 192 192c0 77.413-26.97 99.031-172.268 309.67-9.535 13.774-29.93 13.773-39.464 0z"></path>
+    <path fill="#ffffff" transform="translate(0,-20) scale(0.1) translate(-256,-256)" d="M483.55,227.55H462c-50.68,0-76.07-61.27-40.23-97.11L437,115.19A28.44,28.44,0,0,0,396.8,75L381.56,90.22c-35.84,35.83-97.11,10.45-97.11-40.23V28.44a28.45,28.45,0,0,0-56.9,0V50c0,50.68-61.27,76.06-97.11,40.23L115.2,75A28.44,28.44,0,0,0,75,115.19l15.25,15.25c35.84,35.84,10.45,97.11-40.23,97.11H28.45a28.45,28.45,0,1,0,0,56.89H50c50.68,0,76.07,61.28,40.23,97.12L75,396.8A28.45,28.45,0,0,0,115.2,437l15.24-15.25c35.84-35.84,97.11-10.45,97.11,40.23v21.54a28.45,28.45,0,0,0,56.9,0V462c0-50.68,61.27-76.07,97.11-40.23L396.8,437A28.45,28.45,0,0,0,437,396.8l-15.25-15.24c-35.84-35.84-10.45-97.12,40.23-97.12h21.54a28.45,28.45,0,1,0,0-56.89ZM224,272a48,48,0,1,1,48-48A48,48,0,0,1,224,272Zm80,56a24,24,0,1,1,24-24A24,24,0,0,1,304,328Z"></path>
+  </g>
+</svg>
+
+    <svg xmlns="http://www.w3.org/2000/svg" viewbox="-64 -64 128 128" id="bird" class="pin">
+  <g class="drop">
+    <path fill="#ffc107" transform="scale(0.25) translate(-192,-256)" d="M172.268 501.67C26.97 291.031 0 269.413 0 192 0 85.961 85.961 0 192 0s192 85.961 192 192c0 77.413-26.97 99.031-172.268 309.67-9.535 13.774-29.93 13.773-39.464 0z"></path>
+    <path fill="#ffffff" transform="translate(0,-20) scale(0.1) translate(-320,-256)" d="M544 32h-16.36C513.04 12.68 490.09 0 464 0c-44.18 0-80 35.82-80 80v20.98L12.09 393.57A30.216 30.216 0 0 0 0 417.74c0 22.46 23.64 37.07 43.73 27.03L165.27 384h96.49l44.41 120.1c2.27 6.23 9.15 9.44 15.38 7.17l22.55-8.21c6.23-2.27 9.44-9.15 7.17-15.38L312.94 384H352c1.91 0 3.76-.23 5.66-.29l44.51 120.38c2.27 6.23 9.15 9.44 15.38 7.17l22.55-8.21c6.23-2.27 9.44-9.15 7.17-15.38l-41.24-111.53C485.74 352.8 544 279.26 544 192v-80l96-16c0-35.35-42.98-64-96-64zm-80 72c-13.25 0-24-10.75-24-24 0-13.26 10.75-24 24-24s24 10.74 24 24c0 13.25-10.75 24-24 24z"></path>
+  </g>
+</svg>
+
+    <svg xmlns="http://www.w3.org/2000/svg" viewbox="-64 -64 128 128" id="brain" class="pin">
+  <g class="drop">
+    <path fill="#e91e63" transform="scale(0.25) translate(-192,-256)" d="M172.268 501.67C26.97 291.031 0 269.413 0 192 0 85.961 85.961 0 192 0s192 85.961 192 192c0 77.413-26.97 99.031-172.268 309.67-9.535 13.774-29.93 13.773-39.464 0z"></path>
+    <path fill="#ffffff" transform="translate(0,-20) scale(0.1) translate(-288,-256)" d="M208 0c-29.9 0-54.7 20.5-61.8 48.2-.8 0-1.4-.2-2.2-.2-35.3 0-64 28.7-64 64 0 4.8.6 9.5 1.7 14C52.5 138 32 166.6 32 200c0 12.6 3.2 24.3 8.3 34.9C16.3 248.7 0 274.3 0 304c0 33.3 20.4 61.9 49.4 73.9-.9 4.6-1.4 9.3-1.4 14.1 0 39.8 32.2 72 72 72 4.1 0 8.1-.5 12-1.2 9.6 28.5 36.2 49.2 68 49.2 39.8 0 72-32.2 72-72V64c0-35.3-28.7-64-64-64zm368 304c0-29.7-16.3-55.3-40.3-69.1 5.2-10.6 8.3-22.3 8.3-34.9 0-33.4-20.5-62-49.7-74 1-4.5 1.7-9.2 1.7-14 0-35.3-28.7-64-64-64-.8 0-1.5.2-2.2.2C422.7 20.5 397.9 0 368 0c-35.3 0-64 28.6-64 64v376c0 39.8 32.2 72 72 72 31.8 0 58.4-20.7 68-49.2 3.9.7 7.9 1.2 12 1.2 39.8 0 72-32.2 72-72 0-4.8-.5-9.5-1.4-14.1 29-12 49.4-40.6 49.4-73.9z"></path>
+  </g>
+</svg>
+
+    <svg xmlns="http://www.w3.org/2000/svg" viewbox="-64 -64 128 128" id="frog" class="pin">
+  <g class="drop">
+    <path fill="#009688" transform="scale(0.25) translate(-192,-256)" d="M172.268 501.67C26.97 291.031 0 269.413 0 192 0 85.961 85.961 0 192 0s192 85.961 192 192c0 77.413-26.97 99.031-172.268 309.67-9.535 13.774-29.93 13.773-39.464 0z"></path>
+    <path fill="#ffffff" transform="translate(0,-20) scale(0.1) translate(-288,-256)" d="M446.53 97.43C439.67 60.23 407.19 32 368 32c-39.23 0-71.72 28.29-78.54 65.54C126.75 112.96-.5 250.12 0 416.98.11 451.9 29.08 480 64 480h304c8.84 0 16-7.16 16-16 0-17.67-14.33-32-32-32h-79.49l35.8-48.33c24.14-36.23 10.35-88.28-33.71-106.6-23.89-9.93-51.55-4.65-72.24 10.88l-32.76 24.59c-7.06 5.31-17.09 3.91-22.41-3.19-5.3-7.08-3.88-17.11 3.19-22.41l34.78-26.09c36.84-27.66 88.28-27.62 125.13 0 10.87 8.15 45.87 39.06 40.8 93.21L469.62 480H560c8.84 0 16-7.16 16-16 0-17.67-14.33-32-32-32h-53.63l-98.52-104.68 154.44-86.65A58.16 58.16 0 0 0 576 189.94c0-21.4-11.72-40.95-30.48-51.23-40.56-22.22-98.99-41.28-98.99-41.28zM368 136c-13.26 0-24-10.75-24-24 0-13.26 10.74-24 24-24 13.25 0 24 10.74 24 24 0 13.25-10.75 24-24 24z"></path>
+  </g>
+</svg>
+
+  </div>
+</div>
+
+<script>
+  let rotateX;
+let rotateZ;
+
+const resetView = () => {
+  rotateX = 70;
+  rotateZ = 0;
+
+  updateView();
+};
+
+const rotateView = (event) => {
+  let x = 0;
+  let y = 0;
+  if (event.type === "mousemove") {
+    x = event.clientX;
+    y = event.clientY;
+  }
+  if (event.type === "touchmove") {
+    x = event.touches[0].clientX;
+    y = event.touches[0].clientY;
+  }
+  const { left, top, width, height } = document.body.getBoundingClientRect();
+
+  rotateX = 80 - 20 * ((y - top) / height);
+  rotateZ = 10 - 20 * ((x - left) / width);
+
+  updateView();
+};
+
+const updateView = () => {
+  document.body.style.setProperty("--rotateX", rotateX + "deg");
+  document.body.style.setProperty("--rotateZ", rotateZ + "deg");
+};
+
+resetView();
+
+const replayAnimations = () => {
+  document.getAnimations().forEach((anim) => {
+    anim.finish();
+    anim.play();
+  });
+};
+
+document.documentElement.addEventListener("mouseleave", resetView);
+document.documentElement.addEventListener("mousemove", rotateView);
+document.documentElement.addEventListener("touchmove", rotateView);
+document.documentElement.addEventListener("click", replayAnimations);
+
+</script>
+
+</body>
+</html>
