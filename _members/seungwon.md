@@ -1,7 +1,7 @@
 ---
 name: Seungwon Jeong
 image: images/members/seungwon.png
-role: phd
+role: phd2020
 aliases:
   - SW
 links: 
