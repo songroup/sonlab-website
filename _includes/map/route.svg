@@ -1,0 +1,125 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="-500 -500 1000 1000"
+  id="route"
+>
+  <style>
+    #path {
+      fill: none;
+      stroke-width: 10;
+      stroke-dasharray: 2166;
+      stroke-dashoffset: 2166;
+      stroke-linejoin: round;
+      animation: draw 2s cubic-bezier(0, 0.5, 1, 0.5) forwards;
+      animation-delay: 2s;
+    }
+
+    @keyframes draw {
+      0% {
+        stroke-dashoffset: 2166;
+      }
+      100% {
+        stroke-dashoffset: 0;
+      }
+    }
+
+    .grow {
+      transform: scale(0);
+      animation: grow 0.5s ease forwards;
+    }
+
+    .dot:nth-of-type(1) > g {
+      animation-delay: 1s;
+    }
+    .dot:nth-of-type(2) > g {
+      animation-delay: 1.25s;
+    }
+    .dot:nth-of-type(3) > g {
+      animation-delay: 1.5s;
+    }
+    .dot:nth-of-type(4) > g {
+      animation-delay: 1.75s;
+    }
+    .dot:nth-of-type(5) > g {
+      animation-delay: 2s;
+    }
+
+    @keyframes grow {
+      0% {
+        transform: scale(0);
+      }
+      50% {
+        transform: scale(2);
+      }
+      100% {
+        transform: scale(1);
+      }
+    }
+
+    .outer {
+      fill: #202020;
+    }
+
+    .inner {
+      fill: #ffffff;
+    }
+  </style>
+
+  <defs>
+    <linearGradient id="route_gradient">
+      <stop offset="0%" stop-color="#202020" stop-opacity="0" />
+      <stop offset="33%" stop-color="#202020" stop-opacity="1" />
+      <stop offset="66%" stop-color="#202020" stop-opacity="1" />
+      <stop offset="100%" stop-color="#202020" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+
+  <path
+    id="path"
+    stroke="url(#route_gradient)"
+    d="
+      M -1000 0
+      L -200 0
+      L -100 -100
+      L 0 0
+      L 100 100
+      L 200 0
+      L 1000 0
+    "
+  />
+
+  <g class="dot" transform="translate(-200,0)">
+    <g class="grow">
+      <circle class="outer" cx="0" cy="0" r="10" />
+      <circle class="inner" cx="0" cy="0" r="5" />
+    </g>
+  </g>
+
+  <g class="dot" transform="translate(-100,-100)">
+    <g class="grow">
+      <circle class="outer" cx="0" cy="0" r="10" />
+      <circle class="inner" cx="0" cy="0" r="5" />
+    </g>
+  </g>
+
+  <g class="dot" transform="translate(0,0)">
+    <g class="grow">
+      <circle class="outer" cx="0" cy="0" r="10" />
+      <circle class="inner" cx="0" cy="0" r="5" />
+    </g>
+  </g>
+
+  <g class="dot" transform="translate(100,100)">
+    <g class="grow">
+      <circle class="outer" cx="0" cy="0" r="10" />
+      <circle class="inner" cx="0" cy="0" r="5" />
+    </g>
+  </g>
+
+  <g class="dot" transform="translate(200,0)">
+    <g class="grow">
+      <circle class="outer" cx="0" cy="0" r="10" />
+      <circle class="inner" cx="0" cy="0" r="5" />
+    </g>
+  </g>
+</svg>
