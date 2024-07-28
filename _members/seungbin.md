@@ -1,7 +1,7 @@
 ---
 name: Seungbin Hong
 image: images/members/seungbin.png
-role: phd
+role: phd2023
 aliases:
   - SB
 links: 
