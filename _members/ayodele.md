@@ -1,7 +1,7 @@
 ---
 name: Ayodele Faleti
 image: images/members/ayodele.jpeg
-role: ms
+role: ms2024
 aliases:
   - AY
 links: 
