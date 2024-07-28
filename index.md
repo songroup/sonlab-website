@@ -15,11 +15,13 @@
 
 Our lab is a collective of molecular simulation research investigators with an interest in studying the energy/bio soft materials system. Molecular simulation is performed to quantitatively analyze the structure, dynamics, thermodynamics and reaction kinetics of several systems from the physical models given. Our mission is not only to provide the microscopic understanding of various molecular-level phenomena, but also to develop the advanced computational techniques / algorithms to properly capture the underlying physics and enhance the predictive power of molecular simulation. We have strong expertise in running molecular dynamics simulation, as well as high-performance supercomputing ecosystem equipped with ~150 GPUs for highly efficient computation. We have formed a strong network of research and experimental collaborations to pursue innovative studies in computational chemistry research.
 
+<!--
 {%
   include figure.html
   image="images/Research.png"
   width="1000px"
 %}
+-->
 
 {% include section.html %}
 
@@ -39,6 +41,7 @@ Our lab develops molecular simulations to solve problems that are critical in en
 %}
 
 {% endcapture %}
+
 
 {%
   include feature.html
