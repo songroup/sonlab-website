@@ -5,7 +5,7 @@ nav:
   tooltip: About our team
 ---
 
-# <i class="fas fa-person-chalkboard"></i> Principal Investigators
+# <i class="fas fa-person-chalkboard"></i> Principal Investigator
 
 {% include section.html %}
 
