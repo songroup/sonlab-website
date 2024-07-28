@@ -10,11 +10,51 @@ postdoc:
   icon: fa-solid fa-graduation-cap
   description: Postdoctoral Researcher
 
-phd:
+phd2020:
   icon: fa-solid fa-user-graduate
   description: PhD Student
 
-ms:
+phd2021:
+  icon: fa-solid fa-user-graduate
+  description: PhD Student
+
+phd2022:
+  icon: fa-solid fa-user-graduate
+  description: PhD Student
+
+phd2023:
+  icon: fa-solid fa-user-graduate
+  description: PhD Student
+
+phd2024:
+  icon: fa-solid fa-user-graduate
+  description: PhD Student
+
+phd2025:
+  icon: fa-solid fa-user-graduate
+  description: PhD Student
+  
+ms2020:
+  icon: fa-solid fa-user-graduate
+  description: MS Student
+
+ms2021:
+  icon: fa-solid fa-user-graduate
+  description: MS Student
+
+ms2022:
+  icon: fa-solid fa-user-graduate
+  description: MS Student
+
+ms2023:
+  icon: fa-solid fa-user-graduate
+  description: MS Student
+
+ms2024:
+  icon: fa-solid fa-user-graduate
+  description: MS Student
+
+ms2025:
   icon: fa-solid fa-user-graduate
   description: MS Student
   
