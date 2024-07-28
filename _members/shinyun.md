@@ -1,7 +1,7 @@
 ---
 name: Yun Shin
 image: images/members/shinyun.jpeg
-role: phd2024
+role: phd2025
 aliases:
   - SY
 links: 
