@@ -30,7 +30,7 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: ms2025" %}
 {% include list.html data="members" component="portrait" filters="role: undergrad" %}
 
-# Formal Researchers
+# Alumni
 
 <p style="text-align:center">“ Just as we dread parting when we meet, we believe that we’ll meet again when we part. ”</p>
 {% include list.html data="members" component="portrait" filters="role: ^(alum-)" %}
