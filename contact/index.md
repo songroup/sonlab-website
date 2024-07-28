@@ -1,7 +1,7 @@
 ---
 title: Contact
 nav:
-  order: 9
+  order: 7
   tooltip: Email, address, and location
 ---
 
