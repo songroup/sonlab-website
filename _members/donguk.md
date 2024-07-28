@@ -1,7 +1,7 @@
 ---
 name: Donguk Shin
 image: images/members/dongyuk.jpeg
-role: phd
+role: phd2024
 aliases:
   - DY
 links: 
