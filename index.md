@@ -74,3 +74,12 @@ We are a group of graduate students and post-docs with a passion for running mol
   text=text
   width="600px"
 %}
+
+{% include search-box.html %}
+
+{% include tags.html tags=site.tags %}
+
+{% include search-info.html %}
+
+{% include list.html data="posts" component="post-excerpt" %}
+
