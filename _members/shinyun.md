@@ -3,7 +3,7 @@ name: Yun Shin
 image: images/members/shinyun.jpeg
 role: phd2024
 aliases:
-  - CH
+  - SY
 links: 
   #email: shinyun@snu.ac.kr
   #home-page: https://shinyun.com
