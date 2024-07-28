@@ -77,7 +77,7 @@ We are a group of graduate students and post-docs with a passion for running mol
 
 {% include section.html %}
 
-# {% include icon.html icon="fa-solid fa-feather-pointed" %}News
+# {% include icon.html icon="fa-solid fa-bullhorn" %}News
 
 {% include search-box.html %}
 
