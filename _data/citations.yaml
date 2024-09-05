@@ -1,5 +1,32 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1002/advs.202309786
+  title: Hydrophilic Photocrosslinkers as a Universal Solution to Endow Water Affinity
+    to a Polymer Photocatalyst for an Enhanced Hydrogen Evolution Rate
+  authors:
+  - Sanghyeok An
+  - "Kyeong\u2010Jun Jeong"
+  - Syed Zahid Hassan
+  - Gayoung Ham
+  - Seonghyeon Kang
+  - Juhyeok Lee
+  - Hyeonjong Ma
+  - Jieun Kwon
+  - Sang Young Jeong
+  - Jiwoong Yang
+  - Han Young Woo
+  - "Han\u2010Hee Cho"
+  - Hyojung Cha
+  - Chang Yun Son
+  - Dae Sung Chung
+  publisher: Advanced Science
+  date: '2024-05-17'
+  link: https://doi.org/gt9z7n
+  type: null
+  image: https://onlinelibrary.wiley.com/cms/asset/ab1c947b-015b-4795-8024-986abd6a06cd/advs8338-fig-0007-m.jpg
+  description: null
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1002/adma.202204272
   title: 'Predictive Molecular Models for Charged Materials Systems: From Energy Materials
     to Biomacromolecules'
