@@ -21,8 +21,6 @@ Jeong, K.-J.; Son, C.Y. “Topologically Controlled Collective Lithium Ion Trans
 
 Min, J.†; Jeong, K.-J.†; Im, J.; Choi, H.H.; Son, C.Y.; Cho, K. “Stabilization of Charge Carriers in Highly Brønsted Acid-Doped Conjugated Polymers with a Low-Dielectric-Constant Solvent” submitted
 
-An, S.†; Jeong, K.-J.†; Syed, Z.H.; Ham, G.; Kang, S.; Lee, J.; Ma, H.; Kwon, J.; Jeong, S.Y.; Yang, J.; Woo, H.Y.; Cho, H.-H.; Cha, H.; Son, C.Y.; Chung, D.S. “Hydrophilic Photocrosslinkers as a Universal Solution to Endow Water Affinity to a Polymer Photocatalyst for an Enhanced Hydrogen Evolution Rate” Adv. Sci., accepted
-
 ## Published
 
 {% include search-box.html %}
