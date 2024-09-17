@@ -27,4 +27,4 @@ Min, J.†; Jeong, K.-J.†; Im, J.; Choi, H.H.; Son, C.Y.; Cho, K. “Stabiliza
 
 {% include search-info.html %}
 
-{% include list.html data="citations" component="citation" style="rich" %}
+{% include list.html data="citations_corr" component="citation" style="rich" %}
