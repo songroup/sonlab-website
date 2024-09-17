@@ -10,7 +10,7 @@
   - "<u>Kyeong\u2010Jun Jeong</u>"
   - Jieun Kwon
   - "<strong>Chang Yun Son</strong>"
-  - "Dae Sung Chung\u002a"
+  - "Dae Sung Chung<sup>\u002a</sup>"
   publisher: Advanced Materials
   date: accepted
   type: null
@@ -35,8 +35,8 @@
   - Han Young Woo
   - "Han\u2010Hee Cho"
   - ""Hyojung Cha*""
-  - "<strong>Chang Yun Son</strong>\u002a"
-  - "Dae Sung Chung\u002a"
+  - "<strong>Chang Yun Son</strong><sup>\u002a</sup>"
+  - "Dae Sung Chung<sup>\u002a</sup>"
   publisher: Advanced Science
   date: '2024-05-17'
   link: https://doi.org/gt9z7n
@@ -52,7 +52,7 @@
   - "<u>Kyeong\u2010jun Jeong</u>\u2020"
   - "<u>Seungwon Jeong</u>\u2020"
   - "<u>Sangmin Lee</u>\u2020"
-  - "<strong>Chang Yun Son</strong>\u002a"
+  - "<strong>Chang Yun Son</strong><sup>\u002a</sup>"
   publisher: Advanced Materials
   date: '2022-11-14'
   link: https://doi.org/grv59s
@@ -70,8 +70,8 @@
   - Hyeonseong Ham
   - Jihoon Kim
   - Hojun Lee
-  - "<strong>Chang Yun Son</strong>\u002a"
-  - "Moon Jeong Park\u002a"
+  - "<strong>Chang Yun Son</strong><sup>\u002a</sup>"
+  - "Moon Jeong Park<sup>\u002a</sup>"
   publisher: Advanced Materials
   date: '2022-07-30'
   link: https://doi.org/gqnffn
@@ -92,10 +92,10 @@
   - Jinmin Kim
   - Taek Dong Chung
   - "Kyung\u2010Mi Lee"
-  - "Hyun\u2010Ho Lim\u002a"
-  - "<strong>Chang Yun Son</strong>\u002a"
-  - "Jeong\u2010Yun Sun\u002a"
-  - "Seung Soo Oh\u002a"
+  - "Hyun\u2010Ho Lim<sup>\u002a</sup>"
+  - "<strong>Chang Yun Son</strong><sup>\u002a</sup>"
+  - "Jeong\u2010Yun Sun<sup>\u002a</sup>"
+  - "Seung Soo Oh<sup>\u002a</sup>"
   publisher: Advanced Materials
   date: '2023-09-15'
   link: https://doi.org/gt4kss
@@ -115,8 +115,8 @@
   - Nitee Kumari
   - "Yu\u2010Rim Hong"
   - Wonyong Choi
-  - "<strong>Chang Yun Son</strong>\u002a"
-  - "In Su Lee\u002a"
+  - "<strong>Chang Yun Son</strong><sup>\u002a</sup>"
+  - "In Su Lee<sup>\u002a</sup>"
   publisher: Angewandte Chemie
   date: '2023-05-05'
   link: https://doi.org/gt4kst
@@ -135,7 +135,7 @@
   - Jisun Lee
   - Sang Taek Jung
   - Chang Yun Son
-  - "Seung Soo Oh\u002a"
+  - "Seung Soo Oh<sup>\u002a</sup>"
   publisher: Science Advances
   date: '2022-10-28'
   link: https://doi.org/gq47hf
@@ -152,8 +152,8 @@
   - "Seong Hyeon Kim\u2020"
   - "<u>Seungwon Jeong</u>\u2020"
   - Daegun Kim
-  - "<strong>Chang Yun Son</strong>\u002a"
-  - "Kilwon Cho\u002a"
+  - "<strong>Chang Yun Son</strong><sup>\u002a</sup>"
+  - "Kilwon Cho<sup>\u002a</sup>"
   publisher: Advanced Electronic Materials
   date: '2023-04-29'
   link: https://doi.org/gt4ks4
@@ -169,9 +169,9 @@
   - So-Hee Son
   - Gyuri Park
   - "<u>Junho Lim</u>"
-  - "<strong>Chang Yun Son</strong>\u002a"
-  - "Seung Soo Oh\u002a"
-  - "Ju Young Lee\u002a"
+  - "<strong>Chang Yun Son</strong><sup>\u002a</sup>"
+  - "Seung Soo Oh<sup>\u002a</sup>"
+  - "Ju Young Lee<sup>\u002a</sup>"
   publisher: Nature Communications
   date: '2022-06-24'
   link: https://doi.org/gt4ks5
@@ -188,7 +188,7 @@
   - "<u>Kyeong-Jun Jeong</u>"
   - Kyoungwook Kim
   - "<strong>Chang Yun Son</strong>"
-  - "Moon Jeong Park\u002a"
+  - "Moon Jeong Park<sup>\u002a</sup>"
   publisher: Macromolecules
   date: '2022-03-02'
   link: https://doi.org/gp2vgm
@@ -228,11 +228,11 @@
   - Sungho Jin
   - Taeghwan Hyeon
   - Jungwon Park
-  - "<strong>Chang Yun Son</strong>\u002a"
-  - "Yongsoo Yang\u002a"
-  - "Young-Su Lee\u002a"
-  - "Sung Jong Yoo\u002a"
-  - "Dong Won Chun\u002a"
+  - "<strong>Chang Yun Son</strong><sup>\u002a</sup>"
+  - "Yongsoo Yang<sup>\u002a</sup>"
+  - "Young-Su Lee<sup>\u002a</sup>"
+  - "Sung Jong Yoo<sup>\u002a</sup>"
+  - "Dong Won Chun<sup>\u002a</sup>"
   publisher: Nature
   date: '2022-03-23'
   link: https://doi.org/gthvk2
@@ -249,8 +249,8 @@
   - Ha Young Jung
   - "<u>Seungwon Jeong</u>"
   - Byeongdu Lee
-  - "<strong>Chang Yun Son</strong>\u002a"
-  - "Moon Jeong Park\u002a"
+  - "<strong>Chang Yun Son</strong><sup>\u002a</sup>"
+  - "Moon Jeong Park<sup>\u002a</sup>"
   publisher: Proceedings of the National Academy of Sciences
   date: '2021-08-03'
   link: https://doi.org/gmd5jr
@@ -267,8 +267,8 @@
   - Nitee Kumari
   - Amit Kumar
   - Jongwon Lim
-  - "<strong>Chang Yun Son</strong>\u002a"
-  - "In Su Lee\u002a"
+  - "<strong>Chang Yun Son</strong><sup>\u002a</sup>"
+  - "In Su Lee<sup>\u002a</sup>"
   publisher: Angewandte Chemie International Edition
   date: '2021-06-26'
   link: https://doi.org/gkhhx4
@@ -281,7 +281,7 @@
   title: Image-charge effects on ion adsorption near aqueous interfaces
   authors:
   - "<strong>Chang Yun Son</strong>"
-  - "Zhen-Gang Wang\u002a"
+  - "Zhen-Gang Wang<sup>\u002a</sup>"
   publisher: Proceedings of the National Academy of Sciences
   date: '2021-05-04'
   link: https://doi.org/gk45vf
@@ -293,8 +293,8 @@
 - id: doi:10.1063/5.0016163
   title: Ion transport in small-molecule and polymer electrolytes
   authors:
-  - "<strong>Chang Yun Son</strong>\u002a"
-  - "Zhen-Gang Wang\u002a"
+  - "<strong>Chang Yun Son</strong><sup>\u002a</sup>"
+  - "Zhen-Gang Wang<sup>\u002a</sup>"
   publisher: The Journal of Chemical Physics
   date: '2020-09-09'
   link: https://doi.org/gt4kvg
