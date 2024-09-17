@@ -15,8 +15,6 @@ Jo, H.; Ju, S.; Kim, M.; Beon, J.; Jang, S.-Y.; Pack, S.P.; Son, C.Y.; Kim, J.-S
 
 Kim, S.H.; Kang, S.; Jeong, M.; Jeong, S.; Son, C.Y.; Cho, K. “Effects of Energetic Disorder on Free Charge Generation in Doped Conjugated Polymers” submitted
 
-Lee, J.; Hassan, S.Z.; Jeong, K.-J.; Lee, S.; Sim, H.R.; Son, C.Y.; Chung, D.S. “Molecular Engineering of Coordination Ligand for Multifunctional Sol-gel Oxides” submitted
-
 Jeong, K.-J.; Son, C.Y. “Topologically Controlled Collective Lithium Ion Transport in Block Copolymer Electrolytes” submitted
 
 Min, J.†; Jeong, K.-J.†; Im, J.; Choi, H.H.; Son, C.Y.; Cho, K. “Stabilization of Charge Carriers in Highly Brønsted Acid-Doped Conjugated Polymers with a Low-Dielectric-Constant Solvent” submitted
