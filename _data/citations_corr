@@ -1,0 +1,567 @@
+# DO NOT EDIT, GENERATED AUTOMATICALLY
+
+- id: doi:10.1002/adma.202409906
+  title: Molecular Engineering of Coordination Ligand for Multifunctional Sol-gel Oxides
+  authors:
+  - "Juhyeok Lee\u2020"
+  - "Syed Zahid Hassan\u2020"
+  - Hye Ryun Sim
+  - Sangjun Lee
+  - "<u>Kyeong\u2010Jun Jeong</u>"
+  - Jieun Kwon
+  - "<strong>Chang Yun Son</strong>"
+  - "Dae Sung Chung<sup>\u002a</sup>"
+  publisher: Advanced Materials
+  date: accepted
+  type: null
+  image: https://onlinelibrary.wiley.com/cms/asset/0639657c-358e-40e7-bc25-fc93d3d1e092/adma.v36.36.cover.jpg
+  description: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/advs.202309786
+  title: Hydrophilic Photocrosslinkers as a Universal Solution to Endow Water Affinity
+    to a Polymer Photocatalyst for an Enhanced Hydrogen Evolution Rate
+  authors:
+  - "Sanghyeok An\u2020"
+  - "<u>Kyeong\u2010Jun Jeong</u>\u2020"
+  - Syed Zahid Hassan
+  - Gayoung Ham
+  - "<u>Seonghyeon Kang</u>"
+  - Juhyeok Lee
+  - Hyeonjong Ma
+  - Jieun Kwon
+  - Sang Young Jeong
+  - Jiwoong Yang
+  - Han Young Woo
+  - "Han\u2010Hee Cho"
+  - "Hyojung Cha<sup>\u002a</sup>"
+  - "<strong>Chang Yun Son</strong><sup>\u002a</sup>"
+  - "Dae Sung Chung<sup>\u002a</sup>"
+  publisher: Advanced Science
+  date: '2024-05-17'
+  link: https://doi.org/gt9z7n
+  type: null
+  image: https://onlinelibrary.wiley.com/cms/asset/ab1c947b-015b-4795-8024-986abd6a06cd/advs8338-fig-0007-m.jpg
+  description: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/adma.202204272
+  title: 'Predictive Molecular Models for Charged Materials Systems: From Energy Materials
+    to Biomacromolecules'
+  authors:
+  - "<u>Kyeong\u2010jun Jeong</u>\u2020"
+  - "<u>Seungwon Jeong</u>\u2020"
+  - "<u>Sangmin Lee</u>\u2020"
+  - "<strong>Chang Yun Son</strong><sup>\u002a</sup>"
+  publisher: Advanced Materials
+  date: '2022-11-14'
+  link: https://doi.org/grv59s
+  type: null
+  image: https://onlinelibrary.wiley.com/cms/asset/2cd08bb9-5475-484e-a661-128fc8de2262/adma202204272-gra-0001-m.jpg
+  description: Perspective article
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/adma.202203413
+  title: "Superionic Bifunctional Polymer Electrolytes for Solid\u2010State Energy\
+    \ Storage and Conversion"
+  authors:
+  - "Rui\u2010Yang Wang"
+  - "<u>Seungwon Jeong</u>"
+  - Hyeonseong Ham
+  - Jihoon Kim
+  - Hojun Lee
+  - "<strong>Chang Yun Son</strong><sup>\u002a</sup>"
+  - "Moon Jeong Park<sup>\u002a</sup>"
+  publisher: Advanced Materials
+  date: '2022-07-30'
+  link: https://doi.org/gqnffn
+  type: null
+  image: https://onlinelibrary.wiley.com/cms/asset/950b3417-1493-489f-809c-5041f5bee2b7/adma202203413-gra-0001-m.jpg
+  description: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/adma.202303655
+  title: "G\u2010Quadruplex\u2010Filtered Selective Ion\u2010to\u2010Ion Current Amplification for Non\u2010Invasive Ion Monitoring in Real Time"
+  authors:
+  - Hyebin Yoo
+  - "Hyun\u2010Ro Lee"
+  - "Soon\u2010Bo Kang"
+  - "<u>Juhwa Lee</u>"
+  - Kunwoong Park
+  - Hyunjae Yoo
+  - Jinmin Kim
+  - Taek Dong Chung
+  - "Kyung\u2010Mi Lee"
+  - "Hyun\u2010Ho Lim<sup>\u002a</sup>"
+  - "<strong>Chang Yun Son</strong><sup>\u002a</sup>"
+  - "Jeong\u2010Yun Sun<sup>\u002a</sup>"
+  - "Seung Soo Oh<sup>\u002a</sup>"
+  publisher: Advanced Materials
+  date: '2023-09-15'
+  link: https://doi.org/gt4kss
+  type: null
+  image: https://onlinelibrary.wiley.com/cms/asset/fdb63c21-0885-4d86-bddf-bd4ba75ed8fd/adma202303655-gra-0001-m.jpg
+  description: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/ange.202303890
+  title: "Sculpting In\u2010plane Fractal Porous Patterns in Two\u2010Dimensional\
+    \ MOF Nanocrystals for Photoelectrocatalytic CO<sub>2</sub> Reduction"
+  authors:
+  - Soumen Dutta
+  - "<u>Akshay Gurumoorthi</u>"
+  - Shinbi Lee
+  - Sun Woo Jang
+  - Nitee Kumari
+  - "Yu\u2010Rim Hong"
+  - Wonyong Choi
+  - "<strong>Chang Yun Son</strong><sup>\u002a</sup>"
+  - "In Su Lee<sup>\u002a</sup>"
+  publisher: Angewandte Chemie
+  date: '2023-05-05'
+  link: https://doi.org/gt4kst
+  type: null
+  image: https://onlinelibrary.wiley.com/cms/asset/61ee97e3-34c9-4678-af54-f40af80efb18/ange202303890-toc-0001-m.jpg
+  description: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1126/sciadv.abq6207
+  title: De novo selected hACE2 mimics that integrate hotspot peptides with aptameric
+    scaffolds for binding tolerance of SARS-CoV-2 variants
+  authors:
+  - Minjong Lee
+  - Byunghwa Kang
+  - "<u>Juhwa Lee</u>"
+  - Jisun Lee
+  - Sang Taek Jung
+  - Chang Yun Son
+  - "Seung Soo Oh<sup>\u002a</sup>"
+  publisher: Science Advances
+  date: '2022-10-28'
+  link: https://doi.org/gq47hf
+  type: null
+  image: https://www.science.org/cms/10.1126/sciadv.abq6207/asset/a61c3f68-e661-4b33-a091-465caa8bd187/assets/images/large/sciadv.abq6207-f1.jpg
+  description: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/aelm.202201293
+  title: "Effects of Connecting Polymer Structure and Morphology at Inter\u2010Tube\
+    \ Junctions on the Thermoelectric Properties of Conjugated Polymer/Carbon Nanotube\
+    \ Composites"
+  authors:
+  - "Seong Hyeon Kim\u2020"
+  - "<u>Seungwon Jeong</u>\u2020"
+  - Daegun Kim
+  - "<strong>Chang Yun Son</strong><sup>\u002a</sup>"
+  - "Kilwon Cho<sup>\u002a</sup>"
+  publisher: Advanced Electronic Materials
+  date: '2023-04-29'
+  link: https://doi.org/gt4ks4
+  type: null
+  image: https://onlinelibrary.wiley.com/cms/asset/4902a23e-da78-4597-b08b-73c7aef28541/aelm202201293-gra-0001-m.jpg
+  description: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41467-022-31400-6
+  title: Chain flexibility of medicinal lipids determines their selective partitioning
+    into lipid droplets
+  authors:
+  - So-Hee Son
+  - Gyuri Park
+  - "<u>Junho Lim</u>"
+  - "<strong>Chang Yun Son</strong><sup>\u002a</sup>"
+  - "Seung Soo Oh<sup>\u002a</sup>"
+  - "Ju Young Lee<sup>\u002a</sup>"
+  publisher: Nature Communications
+  date: '2022-06-24'
+  link: https://doi.org/gt4ks5
+  type: paper
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-022-31400-6/MediaObjects/41467_2022_31400_Fig1_HTML.png?
+  description: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1021/acs.macromol.1c02461
+  title: Enhanced Electrochemical Properties of Block Copolymer Electrolytes with
+    Blended End-Functionalized Homopolymers
+  authors:
+  - Jihoon Kim
+  - "<u>Kyeong-Jun Jeong</u>"
+  - Kyoungwook Kim
+  - "<strong>Chang Yun Son</strong>"
+  - "Moon Jeong Park<sup>\u002a</sup>"
+  publisher: Macromolecules
+  date: '2022-03-02'
+  link: https://doi.org/gp2vgm
+  type: null
+  image: https://pubs.acs.org/cms/10.1021/acs.macromol.1c02461/asset/images/medium/ma1c02461_0008.gif
+  description: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41586-021-04391-5
+  title: Metastable hexagonal close-packed palladium hydride in liquid cell TEM
+  authors:
+  - Jaeyoung Hong
+  - Jee-Hwan Bae
+  - Hyesung Jo
+  - Hee-Young Park
+  - Sehyun Lee
+  - Sung Jun Hong
+  - Hoje Chun
+  - Min Kyung Cho
+  - Juyoung Kim
+  - Joodeok Kim
+  - Yongju Son
+  - Haneul Jin
+  - Jin-Yoo Suh
+  - Sung-Chul Kim
+  - Ha-Kyung Roh
+  - Kyu Hyoung Lee
+  - Hyung-Seok Kim
+  - Kyung Yoon Chung
+  - Chang Won Yoon
+  - Kiryeong Lee
+  - Seo Hee Kim
+  - Jae-Pyoung Ahn
+  - Hionsuck Baik
+  - Gyeung Ho Kim
+  - Byungchan Han
+  - Sungho Jin
+  - Taeghwan Hyeon
+  - Jungwon Park
+  - "<strong>Chang Yun Son</strong><sup>\u002a</sup>"
+  - "Yongsoo Yang<sup>\u002a</sup>"
+  - "Young-Su Lee<sup>\u002a</sup>"
+  - "Sung Jong Yoo<sup>\u002a</sup>"
+  - "Dong Won Chun<sup>\u002a</sup>"
+  publisher: Nature
+  date: '2022-03-23'
+  link: https://doi.org/gthvk2
+  type: null
+  image: https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fs41586-021-04391-5/MediaObjects/41586_2021_4391_Fig2_HTML.png?
+  description: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1073/pnas.2107987118
+  title: 'Enhancing ion transport in charged block copolymers by stabilizing low symmetry
+    morphology: Electrostatic control of interfaces'
+  authors:
+  - Jaemin Min
+  - Ha Young Jung
+  - "<u>Seungwon Jeong</u>"
+  - Byeongdu Lee
+  - "<strong>Chang Yun Son</strong><sup>\u002a</sup>"
+  - "Moon Jeong Park<sup>\u002a</sup>"
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2021-08-03'
+  link: https://doi.org/gmd5jr
+  type: null
+  image: https://www.pnas.org/cms/10.1073/pnas.2107987118/asset/b6242ecf-f37a-4163-b7a3-59729847855c/assets/images/large/pnas.2107987118fig01.jpg
+  description: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/anie.202103827
+  title: "Au/Pt\u2010Egg\u2010in\u2010Nest Nanomotor for Glucose\u2010Powered Catalytic\
+    \ Motion and Enhanced Molecular Transport to Living Cells"
+  authors:
+  - Taewan Kwon
+  - Nitee Kumari
+  - Amit Kumar
+  - Jongwon Lim
+  - "<strong>Chang Yun Son</strong><sup>\u002a</sup>"
+  - "In Su Lee<sup>\u002a</sup>"
+  publisher: Angewandte Chemie International Edition
+  date: '2021-06-26'
+  link: https://doi.org/gkhhx4
+  type: null
+  image: https://onlinelibrary.wiley.com/cms/asset/fae32b3d-9f09-4463-b833-a7191f8e7b64/anie202103827-toc-0001-m.jpg
+  description: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1073/pnas.2020615118
+  title: Image-charge effects on ion adsorption near aqueous interfaces
+  authors:
+  - "<strong>Chang Yun Son</strong>"
+  - "Zhen-Gang Wang<sup>\u002a</sup>"
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2021-05-04'
+  link: https://doi.org/gk45vf
+  type: null
+  image: https://www.pnas.org/cms/10.1073/pnas.2020615118/asset/b928b18c-674c-4716-9cdb-414b7e9316ed/assets/images/large/pnas.2020615118fig01.jpg
+  description: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1063/5.0016163
+  title: Ion transport in small-molecule and polymer electrolytes
+  authors:
+  - "<strong>Chang Yun Son</strong><sup>\u002a</sup>"
+  - "Zhen-Gang Wang<sup>\u002a</sup>"
+  publisher: The Journal of Chemical Physics
+  date: '2020-09-09'
+  link: https://doi.org/gt4kvg
+  type: null
+  image: https://aipp.silverchair-cdn.com/aipp/content_public/journal/jcp/153/10/10.1063_5.0016163/5/m_100903_1_5.0016163.figures.online.f1.jpeg?Expires=1724236279&Signature=X6rOlumSIpa~rw7qtHVvITMvcucBECzUNTwUfRDU6aDHCSnGSPRbZRVyI0TYUOKWJjJux0DmLXDApxsBQUlrgVLGve3AkvTXyXMPBiH1X4n9I0Vy~LQtzalZxyAcfwxujGbtn3Jw6-IsNc35RZvEUKUv7xs3amjRNC-ZXGLpfEYzigQvy0sPQz9opihWlI4HElJd8YzhWrH8wtuvSCugn0iXx--fqQMGMKbxLfTwpCF-hkKpPjgZCWYFvQirWqRVjB31fBVet3u~7cyTOxRisMBjh47-hvKlnm5tmgxWmexe8nus9HZHKPv9kcIvTUz0UE~6Yy44nTeEm-sk7N7fXg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  description: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1021/acs.langmuir.0c01369
+  title: Protonation-Driven Aqueous Lyotropic Self-Assembly of Synthetic Six-Tail
+    Lipidoids
+  authors:
+  - James Jennings
+  - Matthew C. D. Carter
+  - "<strong>Chang Yun Son</strong>"
+  - Qiang Cui
+  - David M. Lynn
+  - Mahesh. K. Mahanthappa
+  publisher: Langmuir
+  date: '2020-07-10'
+  link: https://doi.org/gt4kvh
+  type: null
+  image: https://pubs.acs.org/cms/10.1021/acs.langmuir.0c01369/asset/images/medium/la0c01369_0007.gif
+  description: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.bbabio.2020.148239
+  title: Identifying the proton loading site cluster in the ba cytochrome c oxidase
+    that loads and traps protons
+  authors:
+  - Xiuhong Cai
+  - "<strong>Chang Yun Son</strong>"
+  - Junjun Mao
+  - Divya Kaur
+  - Yingying Zhang
+  - Umesh Khaniya
+  - Qiang Cui
+  - M.R. Gunner
+  publisher: Biochimica et Biophysica Acta (BBA) - Bioenergetics
+  date: '2020-10-01'
+  link: https://doi.org/gt4kvj
+  type: null
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S000527282030089X-gr1.jpg
+  description: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1021/acs.jpclett.9b02983
+  title: "Proper Thermal Equilibration of Simulations with Drude Polarizable Models:\
+    \ Temperature-Grouped Dual-Nos\xE9\u2013Hoover Thermostat"
+  authors:
+  - "<strong>Chang Yun Son</strong>"
+  - Jesse G. McDaniel
+  - Qiang Cui
+  - Arun Yethiraj
+  publisher: The Journal of Physical Chemistry Letters
+  date: '2019-11-14'
+  link: https://doi.org/gt4kvk
+  type: null
+  image: https://pubs.acs.org/cms/10.1021/acs.jpclett.9b02983/asset/images/medium/jz9b02983_0005.gif
+  description: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1021/acs.macromol.8b01002
+  title: "Conformational and Dynamic Properties of Poly(ethylene oxide) in BMIM<sup>+</sup>BF<sub>4</sub><sup>\u2013\
+    </sup>: A Microsecond Computer Simulation Study Using ab Initio Force Fields"
+  authors:
+  - "<strong>Chang Yun Son</strong>"
+  - Jesse G. McDaniel
+  - Qiang Cui
+  - Arun Yethiraj
+  publisher: Macromolecules
+  date: '2018-07-11'
+  link: https://doi.org/gd2twq
+  type: null
+  image: https://pubs.acs.org/cms/10.1021/acs.macromol.8b01002/asset/images/medium/ma-2018-010024_0013.gif
+  description: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1021/acs.jpcb.8b04886
+  title: 'Ion Correlation and Collective Dynamics in BMIM/BF<sub>4</sub>-Based Organic
+    Electrolytes: From Dilute Solutions to the Ionic Liquid Limit'
+  authors:
+  - Jesse G. McDaniel
+  - "<strong>Chang Yun Son</strong>"
+  publisher: The Journal of Physical Chemistry B
+  date: '2018-06-21'
+  link: https://doi.org/gdzwp8
+  type: null
+  image: https://pubs.acs.org/cms/10.1021/acs.jpcb.8b04886/asset/images/medium/jp-2018-04886z_0008.gif
+  description: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.bbabio.2018.05.010
+  title: Network analysis of a proposed exit pathway for protons to the P-side of
+    cytochrome c oxidase
+  authors:
+  - Xiuhong Cai
+  - Kamran Haider
+  - Jianxun Lu
+  - Slaven Radic
+  - "<strong>Chang Yun Son</strong>"
+  - Qiang Cui
+  - M.R. Gunner
+  publisher: Biochimica et Biophysica Acta (BBA) - Bioenergetics
+  date: '2018-10-01'
+  link: https://doi.org/gd95qd
+  type: null
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0005272818301257-gr1.jpg
+  description: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1021/acs.jpcb.8b01221
+  title: 'Ab Initio Force Fields for Organic Anions: Properties of [BMIM][TFSI], [BMIM][FSI],
+    and [BMIM][OTf] Ionic Liquids'
+  authors:
+  - Jesse G. McDaniel
+  - "<strong>Chang Yun Son</strong>"
+  - Arun Yethiraj
+  publisher: The Journal of Physical Chemistry B
+  date: '2018-03-14'
+  link: https://doi.org/gdgr6q
+  type: null
+  image: https://pubs.acs.org/cms/10.1021/acs.jpcb.8b01221/asset/images/medium/jp-2018-01221d_0014.gif
+  description: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1073/pnas.1707922114
+  title: "Cavity hydration dynamics in cytochrome\n            <i>c</i>\n        \
+    \    oxidase and functional implications"
+  authors:
+  - "<strong>Chang Yun Son</strong>"
+  - Arun Yethiraj
+  - Qiang Cui
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2017-10-02'
+  link: https://doi.org/gcgxzs
+  type: null
+  image: null
+  description: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1021/acs.jpcb.5b12371
+  title: "First-Principles United Atom Force Field for the Ionic Liquid BMIM<sup>+</sup>BF<sub>4</sub><sup>\u2013\
+    </sup>: An Alternative to Charge Scaling"
+  authors:
+  - "<strong>Chang Yun Son</strong>"
+  - Jesse G. McDaniel
+  - J. R. Schmidt
+  - Qiang Cui
+  - Arun Yethiraj
+  publisher: The Journal of Physical Chemistry B
+  date: '2016-04-01'
+  link: https://doi.org/f8n5zk
+  type: null
+  image: https://pubs.acs.org/cms/10.1021/acs.jpcb.5b12371/asset/images/medium/jp-2015-123714_0009.gif
+  description: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1021/acs.jpcb.6b05328
+  title: <i>Ab Initio</i> Force Fields for Imidazolium-Based Ionic Liquids
+  authors:
+  - Jesse G. McDaniel
+  - Eunsong Choi
+  - "<strong>Chang Yun Son</strong>"
+  - J. R. Schmidt
+  - Arun Yethiraj
+  publisher: The Journal of Physical Chemistry B
+  date: '2016-07-12'
+  link: https://doi.org/gt4kvm
+  type: null
+  image: https://pubs.acs.org/cms/10.1021/acs.jpcb.6b05328/asset/images/medium/jp-2016-05328u_0010.gif
+  description: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1039/C5AN00835B
+  title: 'Multiple gas-phase conformations of proline-containing peptides: is it always
+    cis/trans isomerization?'
+  authors:
+  - Christopher B. Lietz
+  - Zhengwei Chen
+  - "<strong>Chang Yun Son</strong>"
+  - Xueqin Pang
+  - Qiang Cui
+  - Lingjun Li
+  publisher: The Analyst
+  date: '2016-01-01'
+  link: https://doi.org/gt4kvn
+  type: null
+  image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=C5AN00835B&imageInfo.ImageIdentifier.Year=2016
+  description: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1021/acs.jpcb.5b10065
+  title: 'Conformational and Dynamic Properties of Poly(ethylene oxide) in an Ionic
+    Liquid: Development and Implementation of a First-Principles Force Field'
+  authors:
+  - Jesse G. McDaniel
+  - Eunsong Choi
+  - "<strong>Chang Yun Son</strong>"
+  - J. R. Schmidt
+  - Arun Yethiraj
+  publisher: The Journal of Physical Chemistry B
+  date: '2016-01-05'
+  link: https://doi.org/f78ddg
+  type: null
+  image: https://pubs.acs.org/cms/10.1021/acs.jpcb.5b10065/asset/images/medium/jp-2015-10065s_0013.gif
+  description: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1063/1.4802584
+  title: An accurate expression for the rates of diffusion-influenced bimolecular
+    reactions with long-range reactivity
+  authors:
+  - "<strong>Chang Yun Son</strong>"
+  - Jaehoon Kim
+  - Ji-Hyun Kim
+  - Jun Soo Kim
+  - Sangyoub Lee
+  publisher: The Journal of Chemical Physics
+  date: '2013-04-28'
+  link: https://doi.org/gt4kvp
+  type: null
+  image: null
+  description: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1063/1.3665415
+  title: Effects of the interaction potential and hydrodynamic interaction on the
+    diffusion-influenced reaction rates
+  authors:
+  - "<strong>Chang Yun Son</strong>"
+  - Sangyoub Lee
+  publisher: The Journal of Chemical Physics
+  date: '2011-12-13'
+  link: https://doi.org/fphzd6
+  type: null
+  image: null
+  description: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1063/1.3565476
+  title: 'Communication: Propagator for diffusive dynamics of an interacting molecular
+    pair'
+  authors:
+  - Sangyoub Lee
+  - "<strong>Chang Yun Son</strong>"
+  - Jaeyoung Sung
+  - Song-Ho Chong
+  publisher: The Journal of Chemical Physics
+  date: '2011-03-22'
+  link: https://doi.org/dznn3j
+  type: null
+  image: null
+  description: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1103/PhysRevE.83.041201
+  title: Zwanzig-Mori equation for the time-dependent pair distribution function
+  authors:
+  - Song-Ho Chong
+  - "<strong>Chang Yun Son</strong>"
+  - Sangyoub Lee
+  publisher: Physical Review E
+  date: '2011-04-26'
+  link: https://doi.org/fbmt4j
+  type: null
+  image: null
+  description: null
+  plugin: sources.py
+  file: sources.yaml
