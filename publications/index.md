@@ -9,7 +9,7 @@ nav:
 
 For citation stats, click here to see [google scholar page](https://scholar.google.com/citations?user=jxZN0mkAAAAJ&hl=en).
 
-*: corresponding authors, †:equal contribution, name: group members
+*: corresponding authors, †:equal contribution, <u>name</u>: group members
 
 ## Submitted
 
