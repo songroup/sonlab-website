@@ -9,7 +9,7 @@
   - Sangjun Lee
   - "<u>Kyeong\u2010Jun Jeong</u>"
   - Jieun Kwon
-  - "<b>Chang Yun Son</b>"
+  - "<strong>Chang Yun Son</strong>"
   - "Dae Sung Chung\u002a"
   publisher: Advanced Materials
   date: accepted
@@ -35,7 +35,7 @@
   - Han Young Woo
   - "Han\u2010Hee Cho"
   - "Hyojung Cha\u002a"
-  - "<b>Chang Yun Son</b>\u002a"
+  - "<strong>Chang Yun Son</strong>\u002a"
   - "Dae Sung Chung\u002a"
   publisher: Advanced Science
   date: '2024-05-17'
@@ -52,7 +52,7 @@
   - "<u>Kyeong\u2010jun Jeong</u>\u2020"
   - "<u>Seungwon Jeong</u>\u2020"
   - "<u>Sangmin Lee</u>\u2020"
-  - "<b>Chang Yun Son</b>\u002a"
+  - "<strong>Chang Yun Son</strong>\u002a"
   publisher: Advanced Materials
   date: '2022-11-14'
   link: https://doi.org/grv59s
@@ -70,7 +70,7 @@
   - Hyeonseong Ham
   - Jihoon Kim
   - Hojun Lee
-  - "<b>Chang Yun Son</b>\u002a"
+  - "<strong>Chang Yun Son</strong>\u002a"
   - "Moon Jeong Park\u002a"
   publisher: Advanced Materials
   date: '2022-07-30'
@@ -81,8 +81,7 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/adma.202303655
-  title: "G\u2010Quadruplex\u2010Filtered Selective Ion\u2010to\u2010Ion Current Amplification\
-    \ for Non\u2010Invasive Ion Monitoring in Real Time"
+  title: "G\u2010Quadruplex\u2010Filtered Selective Ion\u2010to\u2010Ion Current Amplification for Non\u2010Invasive Ion Monitoring in Real Time"
   authors:
   - Hyebin Yoo
   - "Hyun\u2010Ro Lee"
@@ -94,7 +93,7 @@
   - Taek Dong Chung
   - "Kyung\u2010Mi Lee"
   - "Hyun\u2010Ho Lim\u002a"
-  - "<b>Chang Yun Son</b>\u002a"
+  - "<strong>Chang Yun Son</strong>\u002a"
   - "Jeong\u2010Yun Sun\u002a"
   - "Seung Soo Oh\u002a"
   publisher: Advanced Materials
@@ -116,7 +115,7 @@
   - Nitee Kumari
   - "Yu\u2010Rim Hong"
   - Wonyong Choi
-  - "<b>Chang Yun Son</b>\u002a"
+  - "<strong>Chang Yun Son</strong>\u002a"
   - "In Su Lee\u002a"
   publisher: Angewandte Chemie
   date: '2023-05-05'
@@ -153,7 +152,7 @@
   - "Seong Hyeon Kim\u2020"
   - "<u>Seungwon Jeong</u>\u2020"
   - Daegun Kim
-  - "<b>Chang Yun Son</b>\u002a"
+  - "<strong>Chang Yun Son</strong>\u002a"
   - "Kilwon Cho\u002a"
   publisher: Advanced Electronic Materials
   date: '2023-04-29'
@@ -170,7 +169,7 @@
   - So-Hee Son
   - Gyuri Park
   - "<u>Junho Lim</u>"
-  - "<b>Chang Yun Son</b>\u002a"
+  - "<strong>Chang Yun Son</strong>\u002a"
   - "Seung Soo Oh\u002a"
   - "Ju Young Lee\u002a"
   publisher: Nature Communications
@@ -188,7 +187,7 @@
   - Jihoon Kim
   - "<u>Kyeong-Jun Jeong</u>"
   - Kyoungwook Kim
-  - "<b>Chang Yun Son</b>"
+  - "<strong>Chang Yun Son</strong>"
   - "Moon Jeong Park\u002a"
   publisher: Macromolecules
   date: '2022-03-02'
@@ -229,7 +228,7 @@
   - Sungho Jin
   - Taeghwan Hyeon
   - Jungwon Park
-  - "<b>Chang Yun Son</b>\u002a"
+  - "<strong>Chang Yun Son</strong>\u002a"
   - "Yongsoo Yang\u002a"
   - "Young-Su Lee\u002a"
   - "Sung Jong Yoo\u002a"
@@ -250,7 +249,7 @@
   - Ha Young Jung
   - "<u>Seungwon Jeong</u>"
   - Byeongdu Lee
-  - "<b>Chang Yun Son</b>\u002a"
+  - "<strong>Chang Yun Son</strong>\u002a"
   - "Moon Jeong Park\u002a"
   publisher: Proceedings of the National Academy of Sciences
   date: '2021-08-03'
@@ -268,7 +267,7 @@
   - Nitee Kumari
   - Amit Kumar
   - Jongwon Lim
-  - "<b>Chang Yun Son</b>\u002a"
+  - "<strong>Chang Yun Son</strong>\u002a"
   - "In Su Lee\u002a"
   publisher: Angewandte Chemie International Edition
   date: '2021-06-26'
@@ -281,7 +280,7 @@
 - id: doi:10.1073/pnas.2020615118
   title: Image-charge effects on ion adsorption near aqueous interfaces
   authors:
-  - "<b>Chang Yun Son</b>"
+  - "<strong>Chang Yun Son</strong>"
   - "Zhen-Gang Wang\u002a"
   publisher: Proceedings of the National Academy of Sciences
   date: '2021-05-04'
@@ -294,7 +293,7 @@
 - id: doi:10.1063/5.0016163
   title: Ion transport in small-molecule and polymer electrolytes
   authors:
-  - "<b>Chang Yun Son</b>\u002a"
+  - "<strong>Chang Yun Son</strong>\u002a"
   - "Zhen-Gang Wang\u002a"
   publisher: The Journal of Chemical Physics
   date: '2020-09-09'
@@ -310,7 +309,7 @@
   authors:
   - James Jennings
   - Matthew C. D. Carter
-  - "<b>Chang Yun Son</b>"
+  - "<strong>Chang Yun Son</strong>"
   - Qiang Cui
   - David M. Lynn
   - Mahesh. K. Mahanthappa
@@ -327,7 +326,7 @@
     that loads and traps protons
   authors:
   - Xiuhong Cai
-  - "<b>Chang Yun Son</b>"
+  - "<strong>Chang Yun Son</strong>"
   - Junjun Mao
   - Divya Kaur
   - Yingying Zhang
@@ -346,7 +345,7 @@
   title: "Proper Thermal Equilibration of Simulations with Drude Polarizable Models:\
     \ Temperature-Grouped Dual-Nos\xE9\u2013Hoover Thermostat"
   authors:
-  - "<b>Chang Yun Son</b>"
+  - "<strong>Chang Yun Son</strong>"
   - Jesse G. McDaniel
   - Qiang Cui
   - Arun Yethiraj
@@ -362,7 +361,7 @@
   title: "Conformational and Dynamic Properties of Poly(ethylene oxide) in BMIM<sup>+</sup>BF<sub>4</sub><sup>\u2013\
     </sup>: A Microsecond Computer Simulation Study Using ab Initio Force Fields"
   authors:
-  - "<b>Chang Yun Son</b>"
+  - "<strong>Chang Yun Son</strong>"
   - Jesse G. McDaniel
   - Qiang Cui
   - Arun Yethiraj
@@ -379,7 +378,7 @@
     Electrolytes: From Dilute Solutions to the Ionic Liquid Limit'
   authors:
   - Jesse G. McDaniel
-  - "<b>Chang Yun Son</b>"
+  - "<strong>Chang Yun Son</strong>"
   publisher: The Journal of Physical Chemistry B
   date: '2018-06-21'
   link: https://doi.org/gdzwp8
@@ -396,7 +395,7 @@
   - Kamran Haider
   - Jianxun Lu
   - Slaven Radic
-  - "<b>Chang Yun Son</b>"
+  - "<strong>Chang Yun Son</strong>"
   - Qiang Cui
   - M.R. Gunner
   publisher: Biochimica et Biophysica Acta (BBA) - Bioenergetics
@@ -412,7 +411,7 @@
     and [BMIM][OTf] Ionic Liquids'
   authors:
   - Jesse G. McDaniel
-  - "<b>Chang Yun Son</b>"
+  - "<strong>Chang Yun Son</strong>"
   - Arun Yethiraj
   publisher: The Journal of Physical Chemistry B
   date: '2018-03-14'
@@ -426,7 +425,7 @@
   title: "Cavity hydration dynamics in cytochrome\n            <i>c</i>\n        \
     \    oxidase and functional implications"
   authors:
-  - "<b>Chang Yun Son</b>"
+  - "<strong>Chang Yun Son</strong>"
   - Arun Yethiraj
   - Qiang Cui
   publisher: Proceedings of the National Academy of Sciences
@@ -441,7 +440,7 @@
   title: "First-Principles United Atom Force Field for the Ionic Liquid BMIM<sup>+</sup>BF<sub>4</sub><sup>\u2013\
     </sup>: An Alternative to Charge Scaling"
   authors:
-  - "<b>Chang Yun Son</b>"
+  - "<strong>Chang Yun Son</strong>"
   - Jesse G. McDaniel
   - J. R. Schmidt
   - Qiang Cui
@@ -459,7 +458,7 @@
   authors:
   - Jesse G. McDaniel
   - Eunsong Choi
-  - "<b>Chang Yun Son</b>"
+  - "<strong>Chang Yun Son</strong>"
   - J. R. Schmidt
   - Arun Yethiraj
   publisher: The Journal of Physical Chemistry B
@@ -476,7 +475,7 @@
   authors:
   - Christopher B. Lietz
   - Zhengwei Chen
-  - "<b>Chang Yun Son</b>"
+  - "<strong>Chang Yun Son</strong>"
   - Xueqin Pang
   - Qiang Cui
   - Lingjun Li
@@ -494,7 +493,7 @@
   authors:
   - Jesse G. McDaniel
   - Eunsong Choi
-  - "<b>Chang Yun Son</b>"
+  - "<strong>Chang Yun Son</strong>"
   - J. R. Schmidt
   - Arun Yethiraj
   publisher: The Journal of Physical Chemistry B
@@ -509,7 +508,7 @@
   title: An accurate expression for the rates of diffusion-influenced bimolecular
     reactions with long-range reactivity
   authors:
-  - "<b>Chang Yun Son</b>"
+  - "<strong>Chang Yun Son</strong>"
   - Jaehoon Kim
   - Ji-Hyun Kim
   - Jun Soo Kim
@@ -526,7 +525,7 @@
   title: Effects of the interaction potential and hydrodynamic interaction on the
     diffusion-influenced reaction rates
   authors:
-  - "<b>Chang Yun Son</b>"
+  - "<strong>Chang Yun Son</strong>"
   - Sangyoub Lee
   publisher: The Journal of Chemical Physics
   date: '2011-12-13'
@@ -541,7 +540,7 @@
     pair'
   authors:
   - Sangyoub Lee
-  - "<b>Chang Yun Son</b>"
+  - "<strong>Chang Yun Son</strong>"
   - Jaeyoung Sung
   - Song-Ho Chong
   publisher: The Journal of Chemical Physics
@@ -556,7 +555,7 @@
   title: Zwanzig-Mori equation for the time-dependent pair distribution function
   authors:
   - Song-Ho Chong
-  - "<b>Chang Yun Son</b>"
+  - "<strong>Chang Yun Son</strong>"
   - Sangyoub Lee
   publisher: Physical Review E
   date: '2011-04-26'
