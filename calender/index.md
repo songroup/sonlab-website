@@ -5,7 +5,7 @@ nav:
   tooltip: Scheduler
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}Calender
+# {% include icon.html icon="fa-solid fa-chalkboard-user" %}Calender
 
 
 <div style="position: relative; padding-bottom: 75%; height: 0; overflow: hidden;">
