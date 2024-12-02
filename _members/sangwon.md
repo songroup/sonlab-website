@@ -1,6 +1,6 @@
 ---
 name: Sangwon Bae
-image: images/members/sangwon.jpeg
+image: images/members/sangwon.png
 role: phd2025
 aliases:
   - SW
