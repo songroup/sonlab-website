@@ -1,5 +1,5 @@
 ---
-name: Sangwon Bae
+name: Ho-hyeon Ann
 image: images/members/hohyeon.jpeg
 role: phd2025
 aliases:
