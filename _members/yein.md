@@ -1,6 +1,6 @@
 ---
 name: Yein Lim
-image: images/members/yein.jpeg
+image: images/members/yeinlim.jpg
 role: postdoc
 aliases:
   - KJ
