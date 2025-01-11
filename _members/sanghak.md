@@ -1,6 +1,6 @@
 ---
 name: Sanghak Kim
-image: images/members/sanghak.png
+image: images/members/sanghak.jpeg
 role: undergrad
 aliases:
   - SH
