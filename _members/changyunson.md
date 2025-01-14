@@ -6,7 +6,7 @@ affiliation: SNU
 aliases:
   - CYS
 links:
-  email: changyunson@snu.ac.kr
+  email: changyunson (at) snu dot ac dot kr
   #home-page: https://janesmith.com
   github: scychon
   orcid: 0000-0002-0784-6565
