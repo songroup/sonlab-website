@@ -5,7 +5,7 @@ role: phd2020
 aliases:
   - SW
 links: 
-  email: tmddnjs33@postech.ac.kr
+  email: tmddnjs33 (at) postech dot ac dot kr
   #home-page: https://seungwon.com
   #github: seungwon
   orcid: 0000-0003-4125-7809
