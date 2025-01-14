@@ -5,7 +5,7 @@ role: alum-ug
 aliases:
   - JH
 links: 
-  email: junholim@postech.ac.kr
+  email: junholim at postech dot ac dot kr
   #home-page: https://junho.com
   #github: junho
   #orcid: 0000-0002-1042-0194
