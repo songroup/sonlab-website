@@ -5,7 +5,7 @@ role: phd2020
 aliases:
   - CH
 links: 
-  #email: chaemmin (at) snu dot ac dot kr
+  email: chaemmin (at) snu dot ac dot kr
   #home-page: https://chaemin.com
   #github: chaemin
   #orcid: 0000-0003-4125-7809
