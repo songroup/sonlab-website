@@ -5,7 +5,7 @@ role: ms2024
 aliases:
   - AY
 links: 
-  #email: ayodele dot postech dot ac dot kr
+  #email: ayodele (at) postech dot ac dot kr
   #home-page: https://jeongsik.com
   #github: ayodele
   #orcid: 0000-0003-4125-7809
