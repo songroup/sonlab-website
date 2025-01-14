@@ -5,7 +5,7 @@ role: alum-m
 aliases:
   - AK
 links: 
-  email: akshay1999.iitd dot gmail dot com
+  email: akshay1999 dot iitd (at) gmail dot com
   #home-page: https://akshay.com
   #github: jungsik
   #orcid: 0000-0003-4125-7809
