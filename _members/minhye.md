@@ -5,7 +5,7 @@ role: phd2022
 aliases:
   - MH
 links: 
-  email: posimine@postech.ac.kr
+  email: posimine (at) posteech dot ac dot kr
   #home-page: https://minhye.com
   #github: minhye
   #orcid: 0000-0003-4125-7809
