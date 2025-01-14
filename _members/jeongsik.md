@@ -5,7 +5,7 @@ role: ms2024
 aliases:
   - JS
 links: 
-  email: jaysik@snu.ac.kr
+  email: jaysik (at) snu dot ac dot kr
   #home-page: https://jeongsik.com
   #github: jeongsik
   #orcid: 0000-0003-4125-7809
