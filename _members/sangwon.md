@@ -5,7 +5,7 @@ role: phd2025
 aliases:
   - SW
 links: 
-  #email: sangwon@postech.ac.kr
+  email: sangwon (at) snu dot ac dot kr
   #home-page: https://inyong.com
   #github: inyong
   #orcid: 0000-0002-1042-0194
