@@ -5,7 +5,7 @@ role: phd2023
 aliases:
   - SH
 links: 
-  #email: seonghyeon@postech.ac.kr
+  email: kshksh3151 (at) snu dot ac dot kr
   #home-page: https://seonghyeon.com
   #github: seonghyeon
   #orcid: 0000-0002-1042-0194
