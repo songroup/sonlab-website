@@ -5,7 +5,7 @@ role: phd2024
 aliases:
   - IY
 links: 
-  #email: inyong@postech.ac.kr
+  email: wdy38ei (at) snu dot ac dot kr
   #home-page: https://inyong.com
   #github: inyong
   #orcid: 0000-0002-1042-0194
