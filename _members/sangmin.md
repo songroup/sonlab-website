@@ -5,7 +5,7 @@ role: phd2022
 aliases:
   - SM
 links: 
-  email: smlee99@snu.ac.kr
+  email: smlee99 (at) snu dot ac dot kr
   #home-page: https://seungwon.com
   github: smlee99
   orcid: 0000-0002-1042-0194
