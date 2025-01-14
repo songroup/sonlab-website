@@ -5,7 +5,7 @@ role: phd2023
 aliases:
   - SB
 links: 
-  #email: sbhong@postech.ac.kr
+  email: hsv1472 (at) snu dot ac dot kr
   #home-page: https://sbhong.com
   #github: sbhong
   #orcid: 0000-0002-1042-0194
