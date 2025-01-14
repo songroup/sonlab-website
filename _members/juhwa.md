@@ -5,7 +5,7 @@ role: phd2022
 aliases:
   - JH
 links: 
-  email: juhwalee@postech.ac.kr
+  email: juhwalee at postech dot ac dot kr
   #home-page: https://juhwa.com
   #github: juhwa
   #orcid: 0000-0003-4125-7809
