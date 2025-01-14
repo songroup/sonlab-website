@@ -5,7 +5,7 @@ role: phd2025
 aliases:
   - SY
 links: 
-  #email: shinyun@snu.ac.kr
+  email: qbread (at) snu dot ac dot kr
   #home-page: https://shinyun.com
   #github: shinyun
   #orcid: 0000-0003-4125-7809
