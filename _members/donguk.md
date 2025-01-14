@@ -5,7 +5,7 @@ role: phd2024
 aliases:
   - DY
 links: 
-  #email: donguk@postech.ac.kr
+  email: dushin1106 (at) snu dot ac dot kr
   #home-page: https://dongyuk.com
   #github: dongyuk
   #orcid: 0000-0002-1042-0194
