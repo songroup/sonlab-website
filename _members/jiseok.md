@@ -5,7 +5,7 @@ role: phd2025
 aliases:
   - JS
 links: 
-  email: jskang@postech.ac.kr
+  email: jskang622 (at) snu dot ac dot kr
   #home-page: https://jskang.com
   #github: jskang
   #orcid: 0000-0002-1042-0194
