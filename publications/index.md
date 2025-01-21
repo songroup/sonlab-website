@@ -22,14 +22,13 @@ Kim, D.†; Min, J.†; <ins>Jeong, K.-J.†</ins>; Ok, E.; Im, J.; Choi, H.H.; 
 
 ## Published
 
+{% include search-box.html %}
+
+{% include search-info.html %}
+
 ### 2025
 Jo, H.; Ju, S.; <ins>Kim, M.</ins>; Beon, J.; Jang, S.-Y.; Pack, S.P.; <ins>Son, C.Y.</ins>; Kim, J.-S.; Oh, S.S.\* “Aptamer-guided deoxyoxanosine positioning for epitope- and moiety-selective conjugation to non-engineered proteins”,  *J. Am. Chem. Soc.* [accepted]
 
 Choi, J.†; <ins>Jeong, K.-J.†</ins>; Choi, Y.; Kim, W.-S.; Lee. M.\*; <ins>Son, C. Y.\*</ins>; Kim, Y.-K.\* "Tailoring of Selective Chemo-Responsiveness in Liquid Crystals via Organic Ionic Plastic Crystals", *Small*, [accepted]
-
-
-{% include search-box.html %}
-
-{% include search-info.html %}
 
 {% include list.html data="citations_corr" component="citation" style="rich" %}
