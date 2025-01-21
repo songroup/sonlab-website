@@ -12,9 +12,9 @@ For citation stats, click here to see [google scholar page](https://scholar.goog
 *: corresponding authors, †:equal contribution, <u>name</u>: group members
 
 ## Accepted
-Jo, H.; Ju, S.; Kim, M.; Beon, J.; Jang, S.-Y.; Pack, S.P.; Son, C.Y.; Kim, J.-S.; Oh, S.S. “Aptamer-guided deoxyoxanosine positioning for epitope- and moiety-selective conjugation to non-engineered proteins”,  J. Am. Chem. Soc. accepted
+Jo, H.; Ju, S.; Kim, M.; Beon, J.; Jang, S.-Y.; Pack, S.P.; Son, C.Y.; Kim, J.-S.; Oh, S.S. “Aptamer-guided deoxyoxanosine positioning for epitope- and moiety-selective conjugation to non-engineered proteins”,  *J. Am. Chem. Soc.* [accepted]
 
-Choi, J.†; Jeong, K.-J.†; Choi, Y.; Kim, W.-S.; Lee. M.; Son, C. Y.; Kim, Y.-K. "Tailoring of Selective Chemo-Responsiveness in Liquid Crystals via Organic Ionic Plastic Crystals", Small, accepted
+Choi, J.†; Jeong, K.-J.†; Choi, Y.; Kim, W.-S.; Lee. M.; Son, C. Y.; Kim, Y.-K. "Tailoring of Selective Chemo-Responsiveness in Liquid Crystals via Organic Ionic Plastic Crystals", *Small*, [accepted]
 
 ## Submitted
 Kim, S.H.†; Kang, S.†; Jeong, M.; Park, J.; Jeong, S.; Son, C.Y.; Cho, K. “Effects of Energetic Disorder on Free Charge Generation in Doped Conjugated Polymers” submitted
