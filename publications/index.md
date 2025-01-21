@@ -23,7 +23,6 @@ Jeong, K.-J.; Son, C.Y. “Topologically Controlled Collective Lithium Ion Trans
 
 Kim, D.†; Min, J.†; Jeong, K.-J.†; Ok, E.; Im, J.; Choi, H.H.; Lee, G.; Son, C.Y.; Cho, K. "Stoichiometric Anion Exchange by Low-Dielectric-Constant Solvent for Highly-Doped Conjugated Polymers with Enhanced Environmental Stability", submitted
 
-Choi, J.†; Jeong, K.-J.†; Choi, Y.; Kim, W.-S.; Lee. M.; Son, C. Y.; Kim, Y.-K. "Tailoring of Selective Chemo-Responsiveness in Liquid Crystals via Organic Ionic Plastic Crystals", submitted
 
 ## Published
 
