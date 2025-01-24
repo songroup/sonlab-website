@@ -13,7 +13,7 @@ For citation stats, click here to see [google scholar page](https://scholar.goog
 
 
 ## Submitted
-Kim, S.H.†; <ins>Kang, S.†</ins>; Jeong, M.; Park, J.; <ins>Jeong, S.</ins>; <ins>Son, C.Y.\*</ins>; Cho, K.\* “Effects of Energetic Disorder on Free Charge Generation in Doped Conjugated Polymers” submitted
+Kim, S.H.; <ins>Kang, S.</ins>; Jeong, M.; Park, J.; <ins>Jeong, S.</ins>; <ins>Son, C.Y.</ins>; Cho, K.\* “Effects of Energetic Disorder on Free Charge Generation in Doped Conjugated Polymers” submitted
 
 <ins>Jeong, K.-J.</ins>; <ins>Son, C.Y\*</ins>. “Topologically Controlled Collective Lithium Ion Transport in Block Copolymer Electrolytes” submitted
 
