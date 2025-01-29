@@ -1,5 +1,26 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
-
+- id: https://onlinelibrary.wiley.com/doi/10.1002/smll.202410079
+  title: "Tailoring of Selective Chemo\u2010Responsiveness in Liquid Crystals via\
+    \ Organic Ionic Plastic Crystals"
+  authors:
+  - "Jin\u2010Kang Choi\u2020"
+  - "<u>Kyeong\u2010Jun Jeong\u2020</u>"
+  - Yena Choi
+  - "Won\u2010Sik Kim"
+  - Jong Chan Shin
+  - "Jun\u2010Hyung Im"
+  - Hyein Kim
+  - "Minjae Lee<sup>\u002a</sup>"
+  - "<strong>Chang Yun Son<sup>\u002a</sup></strong>"
+  - "Young\u2010Ki Kim<sup>\u002a</sup>"
+  publisher: Small
+  date: '2025-01-28'
+  link: https://onlinelibrary.wiley.com/doi/10.1002/smll.202410079
+  type: null
+  image: https://onlinelibrary.wiley.com/cms/asset/a3e30952-fe88-4e78-bb80-5708783e8d0b/smll202410079-fig-0004-m.jpg
+  description: null
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1002/adma.202409906
   title: Molecular Engineering of Coordination Ligand for Multifunctional Sol-gel Oxides
   authors:
