@@ -1,5 +1,24 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id : 
+  title: Aptamer-guided deoxyoxanosine positioning for epitope- and moiety-selective conjugation to non-engineered proteins
+  authors: 
+  - Jo, H.
+  - Ju, S.
+  - "<u>Kim, M.</u>"
+  - Beon, J.
+  - Jang, S.-Y.
+  - Pack, S.P.
+  -"<strong>Chang Yun Son<sup>\u002a</sup></strong>"
+  - Kim, J.-S.
+  - "Oh, S.S.<sup>\u002a</sup>"
+  publisher: Journal of the American Chemical Society
+  date: null
+  link: null 
+  image: null
+  descriptioon: null
+  plugin: sources.py
+  file: sources.yaml  
 - id: doi:10.1002/smll.202410079
   title: "Tailoring of Selective Chemo\u2010Responsiveness in Liquid Crystals via\
     \ Organic Ionic Plastic Crystals"
