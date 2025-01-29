@@ -26,7 +26,7 @@ Kim, D.†; Min, J.†; <ins>Jeong, K.-J.†</ins>; Ok, E.; Im, J.; Choi, H.H.; 
 
 {% include search-info.html %}
 
-### accepted
+### Accepted
 Jo, H.; Ju, S.; <ins>Kim, M.</ins>; Beon, J.; Jang, S.-Y.; Pack, S.P.; **Son, C.Y.**; Kim, J.-S.; Oh, S.S.\* “Aptamer-guided deoxyoxanosine positioning for epitope- and moiety-selective conjugation to non-engineered proteins”,  *J. Am. Chem. Soc.* [accepted]
 
 {% include list.html data="citations_corr" component="citation" style="rich" %}
