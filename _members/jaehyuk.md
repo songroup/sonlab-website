@@ -1,6 +1,6 @@
 ---
 name: Jaehyuk Lee
-image: images/members/jaehyuk.jpeg
+image: images/members/jaehyuk.jpg
 role: undergrad
 aliases:
   - JH
