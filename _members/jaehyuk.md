@@ -3,7 +3,7 @@ name: Jaehyuk Lee
 image: images/members/jaehyuk.jpg
 role: undergrad
 aliases:
-  - JH
+  - JA
 links: 
   email: jaehyuk0101 (at) khu dot ac dot kr
   #home-page: https://jaehyuk.com
