@@ -9,7 +9,7 @@
 {% endif %}
 
 <div class="citation-container">
-  <div style=class="citation">
+  <div class="citation">
     {% if include.style == "rich" %}
       <a
         {% if citation.link %}
@@ -27,7 +27,7 @@
       </a>
     {% endif %}
 
-    <span class="citation-text">
+    <div class="citation-text">
       {% assign type = site.data.types[citation.type] %}
       {% include icon.html icon=type.icon %}
 
@@ -40,7 +40,7 @@
         {{ citation.title | default: "[no title info]" }}
       </a>
 
-      <span
+      <div
         class="citation-authors"
         {% if citation.authors.size > 10 %}
           data-tooltip="{{ citation.authors | join: ", " }} "
@@ -55,18 +55,23 @@
           | join: ", "
           | markdownify
           | remove: "<p>" | remove: "</p>"
-          | remove: "<br>
           | default: "[no author info]"
         }}
-      </span> <span class="citation-details">
+      </div>
+
+      <div class="citation-details">
         <span class="citation-publisher">
           {{- citation.publisher | default: "[no publisher info]" -}}
-        </span>, <span class="citation-date">
+        </span>
+        &nbsp;·&nbsp;
+        <span class="citation-date">
           {{- citation.date | default: "[no date info]" | date: "%d %b %Y" -}}
-        </span>, <span class="citation-id">
+        </span>
+        &nbsp;·&nbsp;
+        <span class="citation-id">
           {{- citation.id | default: "[no id info]" -}}
         </span>
-      </span>
+      </div>
 
       {% if include.style == "rich" %}
         {% if citation.description %}
