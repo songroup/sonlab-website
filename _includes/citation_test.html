@@ -11,6 +11,25 @@
 <div class="citation-container">
   <div class="citation">
     {% if include.style == "rich" %}
+      <span
+        class="citation-authors"
+        {% if citation.authors.size > 10 %}
+          data-tooltip="{{ citation.authors | join: ", " }} "
+        {% endif %}
+        tabindex="0"
+      >
+        {{
+          citation.authors
+          | join: ","
+          | split: ","
+          | array_carve: 5
+          | join: ", "
+          | markdownify
+          | remove: "<p>" | remove: "</p>"
+          | remove: "<br>
+          | default: "[no author info]"
+        }}
+      </span>
       <a
         {% if citation.link %}
           href="{{ citation.link | relative_url }}"
@@ -18,6 +37,15 @@
         class="citation-image"
         aria-label="{{ citation.title | default: "citation link" }}"
       >
+      <span class="citation-details">
+        <span class="citation-publisher">
+          {{- citation.publisher | default: "[no publisher info]" -}}
+        </span>, <span class="citation-date">
+          {{- citation.date | default: "[no date info]" | date: "%Y" -}}
+        </span>, <span class="citation-id">
+          {{- citation.id | default: "[no id info]" -}}
+        </span>
+      </span>
         <img
           src="{{ citation.image | relative_url }}"
           alt="{{ citation.title | default: "citation image" }}"
