@@ -58,7 +58,7 @@
           | default: "[no author info]"
         }}
       </span> <span class="citation-publisher">
-        {{- citation.publisher | default: "[no publisher info]" -}}
+        <i>{{- citation.publisher | default: "[no publisher info]" -}}</i>
       </span>,<span class="citation-date">
         <b>{{- citation.date | default: "[no date info]" | date: "%Y" -}}</b>
       </span>,<span class="citation-id">
