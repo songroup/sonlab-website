@@ -11,6 +11,7 @@ For citation stats, click here to see [google scholar page](https://scholar.goog
 
 *: corresponding authors, †:equal contribution, <u>name</u>: group members
 
+testing this page
 
 ## Submitted
 Kim, S.H.; <ins>Kang, S.</ins>; Jeong, M.; Park, J.; <ins>Jeong, S.</ins>; **Son, C.Y.**; Cho, K.\* “Effects of Energetic Disorder on Free Charge Generation in Doped Conjugated Polymers” submitted
