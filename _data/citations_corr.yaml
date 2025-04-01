@@ -100,7 +100,7 @@
   link: https://doi.org/gqnffn
   type: null
   image: https://onlinelibrary.wiley.com/cms/asset/950b3417-1493-489f-809c-5041f5bee2b7/adma202203413-gra-0001-m.jpg
-  description: 35, 2203413
+  description: <i>35</i>(4), 2203413
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/adma.202303655
@@ -124,7 +124,7 @@
   link: https://doi.org/gt4kss
   type: null
   image: https://onlinelibrary.wiley.com/cms/asset/fdb63c21-0885-4d86-bddf-bd4ba75ed8fd/adma202303655-gra-0001-m.jpg
-  description: 35(42), 2303655
+  description: <i>35</i>(42), 2303655
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/ange.202303890
@@ -145,7 +145,7 @@
   link: https://doi.org/gt4kst
   type: null
   image: https://onlinelibrary.wiley.com/cms/asset/61ee97e3-34c9-4678-af54-f40af80efb18/ange202303890-toc-0001-m.jpg
-  description: 62(28), e202303890
+  description: <i>62</i>(28), e202303890
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1126/sciadv.abq6207
@@ -164,7 +164,7 @@
   link: https://doi.org/gq47hf
   type: null
   image: https://www.science.org/cms/10.1126/sciadv.abq6207/asset/a61c3f68-e661-4b33-a091-465caa8bd187/assets/images/large/sciadv.abq6207-f1.jpg
-  description: 8(43), eabq6207
+  description: <i>8</i>(43), eabq6207
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/aelm.202201293
@@ -182,7 +182,7 @@
   link: https://doi.org/gt4ks4
   type: null
   image: https://onlinelibrary.wiley.com/cms/asset/4902a23e-da78-4597-b08b-73c7aef28541/aelm202201293-gra-0001-m.jpg
-  description: null
+  description: <i>9</i>(7), 2201293
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41467-022-31400-6
@@ -200,7 +200,7 @@
   link: https://doi.org/gt4ks5
   type: paper
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-022-31400-6/MediaObjects/41467_2022_31400_Fig1_HTML.png?
-  description: null
+  description: <i>13</i>(1), 3612
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acs.macromol.1c02461
@@ -217,7 +217,7 @@
   link: https://doi.org/gp2vgm
   type: null
   image: https://pubs.acs.org/cms/10.1021/acs.macromol.1c02461/asset/images/medium/ma1c02461_0008.gif
-  description: 55(6), 2028-2040
+  description: <i>55</i>(6), 2028-2040
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41586-021-04391-5
@@ -261,7 +261,7 @@
   link: https://doi.org/gthvk2
   type: null
   image: https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fs41586-021-04391-5/MediaObjects/41586_2021_4391_Fig2_HTML.png?
-  description: null
+  description: <i>603</i>, 631-636
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1073/pnas.2107987118
@@ -279,7 +279,7 @@
   link: https://doi.org/gmd5jr
   type: null
   image: https://www.pnas.org/cms/10.1073/pnas.2107987118/asset/b6242ecf-f37a-4163-b7a3-59729847855c/assets/images/large/pnas.2107987118fig01.jpg
-  description: null
+  description: <i>118</i>,(32), e2107987118
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/anie.202103827
@@ -297,7 +297,7 @@
   link: https://doi.org/gkhhx4
   type: null
   image: https://onlinelibrary.wiley.com/cms/asset/fae32b3d-9f09-4463-b833-a7191f8e7b64/anie202103827-toc-0001-m.jpg
-  description: null
+  description: <i>60</i>(32), 17579–17586
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1073/pnas.2020615118
@@ -310,7 +310,7 @@
   link: https://doi.org/gk45vf
   type: null
   image: https://www.pnas.org/cms/10.1073/pnas.2020615118/asset/b928b18c-674c-4716-9cdb-414b7e9316ed/assets/images/large/pnas.2020615118fig01.jpg
-  description: null
+  description: <i>118</i>,(19), e2020615118
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1063/5.0016163
@@ -323,7 +323,7 @@
   link: https://doi.org/gt4kvg
   type: null
   image: https://aipp.silverchair-cdn.com/aipp/content_public/journal/jcp/153/10/10.1063_5.0016163/5/m_100903_1_5.0016163.figures.online.f1.jpeg?Expires=1724236279&Signature=X6rOlumSIpa~rw7qtHVvITMvcucBECzUNTwUfRDU6aDHCSnGSPRbZRVyI0TYUOKWJjJux0DmLXDApxsBQUlrgVLGve3AkvTXyXMPBiH1X4n9I0Vy~LQtzalZxyAcfwxujGbtn3Jw6-IsNc35RZvEUKUv7xs3amjRNC-ZXGLpfEYzigQvy0sPQz9opihWlI4HElJd8YzhWrH8wtuvSCugn0iXx--fqQMGMKbxLfTwpCF-hkKpPjgZCWYFvQirWqRVjB31fBVet3u~7cyTOxRisMBjh47-hvKlnm5tmgxWmexe8nus9HZHKPv9kcIvTUz0UE~6Yy44nTeEm-sk7N7fXg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
-  description: null
+  description: <i>153</i>(10), 100903 
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acs.langmuir.0c01369
@@ -341,7 +341,7 @@
   link: https://doi.org/gt4kvh
   type: null
   image: https://pubs.acs.org/cms/10.1021/acs.langmuir.0c01369/asset/images/medium/la0c01369_0007.gif
-  description: null
+  description: <i>36</i>(28), 8240–8252
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.bbabio.2020.148239
@@ -361,7 +361,7 @@
   link: https://doi.org/gt4kvj
   type: null
   image: https://ars.els-cdn.com/content/image/1-s2.0-S000527282030089X-gr1.jpg
-  description: null
+  description: <i>1861</i>(10), 148239
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acs.jpclett.9b02983
@@ -377,7 +377,7 @@
   link: https://doi.org/gt4kvk
   type: null
   image: https://pubs.acs.org/cms/10.1021/acs.jpclett.9b02983/asset/images/medium/jz9b02983_0005.gif
-  description: null
+  description: <i>10</i>(23), 7523–7530
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acs.macromol.8b01002
@@ -393,7 +393,7 @@
   link: https://doi.org/gd2twq
   type: null
   image: https://pubs.acs.org/cms/10.1021/acs.macromol.8b01002/asset/images/medium/ma-2018-010024_0013.gif
-  description: null
+  description: <i>51</i>,(14), 5336–5345
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acs.jpcb.8b04886
@@ -407,7 +407,7 @@
   link: https://doi.org/gdzwp8
   type: null
   image: https://pubs.acs.org/cms/10.1021/acs.jpcb.8b04886/asset/images/medium/jp-2018-04886z_0008.gif
-  description: null
+  description:  <i>122</i>(28), 7154–7169
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.bbabio.2018.05.010
@@ -426,7 +426,7 @@
   link: https://doi.org/gd95qd
   type: null
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0005272818301257-gr1.jpg
-  description: null
+  description: <i>1859</i>(10), 997-1005
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acs.jpcb.8b01221
@@ -441,7 +441,7 @@
   link: https://doi.org/gdgr6q
   type: null
   image: https://pubs.acs.org/cms/10.1021/acs.jpcb.8b01221/asset/images/medium/jp-2018-01221d_0014.gif
-  description: null
+  description: <i>122</i>(14), 4101–4114
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1073/pnas.1707922114
@@ -456,7 +456,7 @@
   link: https://doi.org/gcgxzs
   type: null
   image: https://songroup.github.io/sonlab-website/images/research4.png
-  description: null
+  description: <i>114</i>(42),E8830-E8836
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acs.jpcb.5b12371
@@ -473,7 +473,7 @@
   link: https://doi.org/f8n5zk
   type: null
   image: https://pubs.acs.org/cms/10.1021/acs.jpcb.5b12371/asset/images/medium/jp-2015-123714_0009.gif
-  description: null
+  description: <i>120</i>(14), 3560–3568
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acs.jpcb.6b05328
@@ -489,7 +489,7 @@
   link: https://doi.org/gt4kvm
   type: null
   image: https://pubs.acs.org/cms/10.1021/acs.jpcb.6b05328/asset/images/medium/jp-2016-05328u_0010.gif
-  description: null
+  description: <i>120</i>(28), 7024–7036
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1039/C5AN00835B
@@ -507,7 +507,7 @@
   link: https://doi.org/gt4kvn
   type: null
   image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=C5AN00835B&imageInfo.ImageIdentifier.Year=2016
-  description: null
+  description: <i>141</i>(16), 4863-4869
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acs.jpcb.5b10065
@@ -524,7 +524,7 @@
   link: https://doi.org/f78ddg
   type: null
   image: https://pubs.acs.org/cms/10.1021/acs.jpcb.5b10065/asset/images/medium/jp-2015-10065s_0013.gif
-  description: null
+  description: <i>120</i>(1), 231–243
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1063/1.4802584
@@ -541,7 +541,7 @@
   link: https://doi.org/gt4kvp
   type: null
   image: null
-  description: null
+  description: <i>138</i>(16), 164123 
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1063/1.3665415
@@ -555,7 +555,7 @@
   link: https://doi.org/fphzd6
   type: null
   image: null
-  description: null
+  description: <i>135</i>(22), 224512 
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1063/1.3565476
@@ -571,7 +571,7 @@
   link: https://doi.org/dznn3j
   type: null
   image: null
-  description: null
+  description: <i>134</i>(12),121102 
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1103/PhysRevE.83.041201
@@ -585,6 +585,6 @@
   link: https://doi.org/fbmt4j
   type: null
   image: null
-  description: null
+  description: <i>83</i>, 041201
   plugin: sources.py
   file: sources.yaml
