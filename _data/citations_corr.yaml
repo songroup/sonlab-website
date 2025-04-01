@@ -124,7 +124,7 @@
   link: https://doi.org/gt4kss
   type: null
   image: https://onlinelibrary.wiley.com/cms/asset/fdb63c21-0885-4d86-bddf-bd4ba75ed8fd/adma202303655-gra-0001-m.jpg
-  description: 35, 2303655
+  description: 35(42), 2303655
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/ange.202303890
@@ -164,7 +164,7 @@
   link: https://doi.org/gq47hf
   type: null
   image: https://www.science.org/cms/10.1126/sciadv.abq6207/asset/a61c3f68-e661-4b33-a091-465caa8bd187/assets/images/large/sciadv.abq6207-f1.jpg
-  description: null
+  description: 8(43), eabq6207
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/aelm.202201293
