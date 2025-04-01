@@ -38,7 +38,7 @@
   link: https://doi.org/10.1002/adma.202409906
   type: null
   image: https://advanced.onlinelibrary.wiley.com/cms/asset/109cb13c-dcc2-43ce-a62b-222a7af9fa72/adma202409906-fig-0001-m.jpg
-  description: 36(46), 2409906 
+  description: <i>36</i>(46), 2409906 
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/advs.202309786
@@ -65,7 +65,7 @@
   link: https://doi.org/gt9z7n
   type: null
   image: https://onlinelibrary.wiley.com/cms/asset/006fc99c-4710-4fcc-a6f5-aca78fc975e7/advs8338-fig-0007-m.jpg
-  description: 11(28), 2309786
+  description: <i>11</i>(28), 2309786
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/adma.202204272
@@ -81,7 +81,7 @@
   link: https://doi.org/grv59s
   type: Perspective article
   image: https://onlinelibrary.wiley.com/cms/asset/2cd08bb9-5475-484e-a661-128fc8de2262/adma202204272-gra-0001-m.jpg
-  description: 35(4), 2204272
+  description: <i>35</i>(4), 2204272
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/adma.202203413
