@@ -19,7 +19,7 @@
   link: https://onlinelibrary.wiley.com/doi/10.1002/smll.202410079
   type: null
   image: https://onlinelibrary.wiley.com/cms/asset/a3e30952-fe88-4e78-bb80-5708783e8d0b/smll202410079-fig-0004-m.jpg
-  description: null
+  description: 21, 2410079
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/adma.202409906
@@ -38,7 +38,7 @@
   link: https://doi.org/10.1002/adma.202409906
   type: null
   image: https://advanced.onlinelibrary.wiley.com/cms/asset/109cb13c-dcc2-43ce-a62b-222a7af9fa72/adma202409906-fig-0001-m.jpg
-  description: null
+  description: 36, 2409906 
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/advs.202309786
@@ -65,7 +65,7 @@
   link: https://doi.org/gt9z7n
   type: null
   image: https://onlinelibrary.wiley.com/cms/asset/006fc99c-4710-4fcc-a6f5-aca78fc975e7/advs8338-fig-0007-m.jpg
-  description: null
+  description: 11, 2309786
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/adma.202204272
@@ -100,7 +100,7 @@
   link: https://doi.org/gqnffn
   type: null
   image: https://onlinelibrary.wiley.com/cms/asset/950b3417-1493-489f-809c-5041f5bee2b7/adma202203413-gra-0001-m.jpg
-  description: null
+  description: 35, 2203413
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/adma.202303655
@@ -124,7 +124,7 @@
   link: https://doi.org/gt4kss
   type: null
   image: https://onlinelibrary.wiley.com/cms/asset/fdb63c21-0885-4d86-bddf-bd4ba75ed8fd/adma202303655-gra-0001-m.jpg
-  description: null
+  description: 35, 2303655
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/ange.202303890
@@ -145,7 +145,7 @@
   link: https://doi.org/gt4kst
   type: null
   image: https://onlinelibrary.wiley.com/cms/asset/61ee97e3-34c9-4678-af54-f40af80efb18/ange202303890-toc-0001-m.jpg
-  description: null
+  description: 62(28), e202303890
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1126/sciadv.abq6207
