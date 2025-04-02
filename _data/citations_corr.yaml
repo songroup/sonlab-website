@@ -1,5 +1,26 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1021/jacs.4c15674
+  title: Aptamer-Guided, Hydrolysis-Resistant Deoxyoxanosine Enables Epitope- and
+    Moiety-Selective Conjugation to Nonengineered Proteins Even in Complex Environments
+  authors:
+  - Hyesung Jo
+  - Seonmin Ju
+  - "<u>Minhye Kim</u>"
+  - Jiyun Beon
+  - Se-Young Jang
+  - Seung Pil Pack
+  - "<strong>Chang Yun Son</strong>"
+  - Jong-Seo Kim
+  - "Seung Soo Oh<sup>\u002a</sup>"
+  publisher: Journal of the American Chemical Society
+  date: '2025-02-11'
+  link: https://doi.org/g9bnph
+  type: null
+  image: https://pubs.acs.org/cms/10.1021/jacs.4c15674/asset/images/large/ja4c15674_0004.jpeg
+  description: <i>147</i> (11), 9328–9340
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1002/smll.202410079
   title: "Tailoring of Selective Chemo\u2010Responsiveness in Liquid Crystals via\
     \ Organic Ionic Plastic Crystals"
