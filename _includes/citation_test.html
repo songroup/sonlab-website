@@ -57,7 +57,7 @@
           | remove: "<br>" | remove: "\n"
           | default: "[no author info]"
         }}. </span>
-      <span class="citation-authors" 
+      <span class="citation-authors" >
           <i>{{- citation.publisher | default: "[no publisher info]" -}}</i>, <b>{{- citation.date | default: "[no date info]" | date: "%Y" -}}</b>,&nbsp;{{- citation.description | remove: "<p>" | remove: "</p>" -}}.
       </span> <span class="citation-id">
         {{- citation.id | default: "[no id info]" -}}
