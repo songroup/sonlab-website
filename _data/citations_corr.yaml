@@ -4,17 +4,17 @@
   title: Stoichiometric anion exchange by a low-dielectric-constant solvent for highly-doped
     conjugated polymers with enhanced environmental stability
   authors:
-  - Daegun Kim\u2020
-  - Jiwoo Min\u2020
-  - <u>Kyeong-Jun Jeong\u2020</u>
+  - "Daegun Kim\u2020"
+  - "Jiwoo Min\u2020"
+  - "<u>Kyeong-Jun Jeong\u2020</u>"
   - Eunsol Ok
   - Jaemin Im
   - Hyun Ho Choi
   - Giwon Lee
-  - <strong>Chang Yun Son\u002a</strong>
-  - Kilwon Cho
+  - "<strong>Chang Yun Son\u002a</strong>"
+  - "Kilwon Cho\u002a"
   publisher: Journal of Materials Chemistry A
-  date: '2025-01-01'
+  date: '2025-05-29'
   link: https://doi.org/g9mk3d
   type: null
   image: https://pubs.rsc.org/image/article/2025/ta/d5ta01703c/d5ta01703c-f4_hi-res.gif
@@ -60,7 +60,7 @@
   date: '2025-01-28'
   link: https://onlinelibrary.wiley.com/doi/10.1002/smll.202410079
   type: null
-  image: https://onlinelibrary.wiley.com/cms/asset/a3e30952-fe88-4e78-bb80-5708783e8d0b/smll202410079-fig-0004-m.jpg
+  image: https://onlinelibrary.wiley.com/cms/asset/72de61fb-a408-4737-8fe1-b03c250074ca/smll202410079-fig-0004-m.png
   description: 2410079
   plugin: sources.py
   file: sources.yaml
