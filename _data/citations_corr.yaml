@@ -1,5 +1,26 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1039/d5ta01703c
+  title: Stoichiometric anion exchange by a low-dielectric-constant solvent for highly-doped
+    conjugated polymers with enhanced environmental stability
+  authors:
+  - Daegun Kim\u2020
+  - Jiwoo Min\u2020
+  - <u>Kyeong-Jun Jeong\u2020</u>
+  - Eunsol Ok
+  - Jaemin Im
+  - Hyun Ho Choi
+  - Giwon Lee
+  - <strong>Chang Yun Son\u002a</strong>
+  - Kilwon Cho
+  publisher: Journal of Materials Chemistry A
+  date: '2025-01-01'
+  link: https://doi.org/g9mk3d
+  type: null
+  image: https://pubs.rsc.org/image/article/2025/ta/d5ta01703c/d5ta01703c-f4_hi-res.gif
+  description: <i>J. Mater. Chem. A</i>
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1021/jacs.4c15674
   title: Aptamer-Guided, Hydrolysis-Resistant Deoxyoxanosine Enables Epitope- and
     Moiety-Selective Conjugation to Nonengineered Proteins Even in Complex Environments
