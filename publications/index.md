@@ -19,8 +19,9 @@ Kim, S.H.; <ins>Kang, S.</ins>; Jeong, M.; Park, J.; <ins>Jeong, S.</ins>; **Son
 
 Son, S.-H.†; <ins>Kim, M.†</ins>; Moon, S.Y.; Oh, S.S.\*; **Son, C.Y.\***; Lee, J.Y.\* "Spatial Control of Enzyme Orientation at Lipid Droplet Interfaces Enables Regio- and Chemo-selective Metabolic Flux" submitted
 
-Kim, D.†; Kim, S.†; <ins>Hong, S.†</ins>; Kim, J.; Shin, G.; Kim, M.\*; Moon, H.C.\*; **Son, C.Y.\*** ; Park, T.\*; "Architecting Stable Percolated Spiro-OMeTAD Networks via Mutualistic Radical-Dopant Synergy" submitted
+Kim, D.†; Kim, S.†; <ins>Hong, S.†</ins>; Kim, J.; Shin, G.; Kim, M.\*; Moon, H.C.\*; **Son, C.Y.\***; Park, T.\*; "Architecting Stable Percolated Spiro-OMeTAD Networks via Mutualistic Radical-Dopant Synergy" submitted
 
+Kim, M.; Kim, J.; Kim, H.; Ahn, D.; Lee, J.; Wang, H.M.; **Son, C.Y.\***; Chung, S.J.\*; Shin, M.H.\*; Lim, H.-S.\*; "In Situ Click Chemistry Screen Facilitated by an On-Nanoparticle DNA-Encoded Library Identifies Highly Selective and Potent Peptoid Ligands for a Phosphatase" submitted
 
 ## Published
 
