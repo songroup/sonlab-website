@@ -1,7 +1,7 @@
 ---
 name: Jaehyuk Lee
 image: images/members/jaehyuk.jpg
-role: undergrad
+role: phd2025
 aliases:
   - JA
 links: 
@@ -11,4 +11,4 @@ links:
   #orcid: 0000-0002-1042-0194
 ---
 
-**Jaehyuk Lee** has joined our lab as a research participant starting in 2025! Welcome aboard! 🚀
+**Jaehyuk Lee** is a M.S-Ph.D integrated course student in the Department of Chemistry at SNU. His current researh interests focus on molecular dynamics simulation.
