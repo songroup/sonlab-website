@@ -68,7 +68,7 @@ We are a group of graduate students and post-docs with a passion for running mol
 
 {%
   include feature.html
-  image="images/group_photo.jpeg"
+  image="images/group_photo.jpg"
   link="team"
   title="Our Team"
   text=text
