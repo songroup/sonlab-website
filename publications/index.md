@@ -23,7 +23,7 @@ Kim, D.†; Kim, S.†; <ins>Hong, S.†</ins>; Kim, J.; Shin, G.; Kim, M.\*; Mo
 
 Kim, M.; Kim, J.; Kim, H.; Ahn, D.; <ins>Lee, J.</ins>; Wang, H.M.; **Son, C.Y.\***; Chung, S.J.\*; Shin, M.H.\*; Lim, H.-S.\*; "In Situ Click Chemistry Screen Facilitated by an On-Nanoparticle DNA-Encoded Library Identifies Highly Selective and Potent Peptoid Ligands for a Phosphatase" submitted
 
-Choi†, R.H.; <ins>Gurumoorthi† A.</ins>; <ins>Bae, S.</ins>; **Son, C.Y.\***; Byon, H.R.\*; "Room-Temperature Single Li+ Organic Solid-State Electrolyte with 10‒4 S cm‒1 Conductivity for Lithium-Metal Batteries" submitted
+Choi, R.H.†; <ins>Gurumoorthi A.†</ins>; <ins>Bae, S.</ins>; **Son, C.Y.\***; Byon, H.R.\*; "Room-Temperature Single Li+ Organic Solid-State Electrolyte with 10‒4 S cm‒1 Conductivity for Lithium-Metal Batteries" submitted
 
 ## Published
 
