@@ -13,8 +13,6 @@ For citation stats, click here to see [google scholar page](https://scholar.goog
 
 
 ## Submitted
-Kim, S.H.; <ins>Kang, S.</ins>; Jeong, M.; Park, J.; <ins>Jeong, S.</ins>; **Son, C.Y.**; Cho, K.\* “Effects of Energetic Disorder on Free Charge Generation in Doped Conjugated Polymers” submitted
-
 <ins>Jeong, K.-J.</ins>; **Son, C.Y\***. “Importance of Collective Ion Transport in Molecular Weight Dependence of Conductivity in Block Copolymer Electrolytes” submitted
 
 Son, S.-H.†; <ins>Kim, M.†</ins>; Moon, S.Y.; Oh, S.S.\*; **Son, C.Y.\***; Lee, J.Y.\* "Spatial Control of Enzyme Orientation at Lipid Droplet Interfaces Enables Regio- and Chemo-selective Metabolic Flux" submitted
@@ -32,6 +30,6 @@ Choi, R.H.†; <ins>Gurumoorthi A.†</ins>; <ins>Bae, S.</ins>; **Son, C.Y.\***
 {% include search-info.html %}
 
 ### Accepted
-
+Kim, S.H.; <ins>Kang, S.</ins>; Jeong, M.; Park, J.; <ins>Jeong, S.</ins>; Lee, H.;**Son, C.Y.**; Cho, K.\* "Energetic Disorder in Doped P3HT: A Crucial Factor in Overcoming Coulomb Binding For Free Charge Generation" accepted in ACS Nano
 {% include list.html data="citations_corr" component="citation_test" style="rich" %}
 
