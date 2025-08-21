@@ -17,7 +17,7 @@
   link: https://doi.org/g9wbtw
   type: null
   image: https://pubs.acs.org/cms/10.1021/acsnano.5c04666/asset/images/medium/nn5c04666_0005.gif
-  description: ASAP article
+  description: <i>19</i> (32), 29265-29275
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1039/d5ta01703c
