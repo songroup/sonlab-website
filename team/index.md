@@ -33,4 +33,7 @@ nav:
 # Alumni
 
 <p style="text-align:center">“ Just as we dread parting when we meet, we believe that we’ll meet again when we part. ”</p>
-{% include list.html data="members" component="portrait" filters="role: ^(alum-)" %}
+{% include list.html data="members" component="portrait" filters="role: alum-po" %}
+{% include list.html data="members" component="portrait" filters="role: alum-ph" %}
+{% include list.html data="members" component="portrait" filters="role: alum-ms" %}
+{% include list.html data="members" component="portrait" filters="role: alum-ug" %}
