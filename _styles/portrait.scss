@@ -72,8 +72,12 @@
 }
 
 .portrait[data-style="tiny"] {
-  .portrait-description,
+  .portrait-description {
+    color: black;
+  },
   .portrait-affiliation {
     display: none;
   }
 }
+
+
