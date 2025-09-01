@@ -8,6 +8,9 @@
 {% endif %}
 
 {% assign type = site.data.types[member.role] %}
+<p>
+  {{ member.description | default: type.description }}
+</p>
 
 <div class="portrait-wrapper">
   <a
