@@ -2,6 +2,7 @@
 name: Kyeong-jun Jeong
 image: images/members/kjeong.jpeg
 role: alum-po
+description: Assistant Professor at KGU
 aliases:
   - KJ
 links: 
