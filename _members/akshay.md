@@ -2,6 +2,7 @@
 name: Akshay Gurumoorthi
 image: images/members/akshay.png
 role: alum-m
+description: PhD student at UIUC
 aliases:
   - AK
 links: 
