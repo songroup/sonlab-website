@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Publications
 
-For citation stats, click here to see [google scholar page](https://scholar.google.com/citations?user=jxZN0mkAAAAJ&hl=en).
+For citation stats, click here to see [google scholar page](https://scholar.google.com/citations?user=jxZN0mkAAAAJ&hl=en). 
 
 *: corresponding authors, †:equal contribution, <u>name</u>: group members
 
