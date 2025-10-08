@@ -1,5 +1,23 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: https://doi.org/10.1002/aenm.202504143
+  title: "Room\u2010Temperature Single Li <sup>+</sup> Ion Conducting Organic Solid\u2010\
+    State Electrolyte with 10 <sup>\u22124</sup> S cm <sup>\u22121</sup> Conductivity\
+    \ for Lithium\u2010Metal Batteries"
+  authors:
+  - Rak Hyeon Choi
+  - Akshay Gurumoorthi
+  - Sangwon Bae
+  - Chang Yun Son
+  - Hye Ryung Byon
+  publisher: Advanced Energy Materials
+  date: '2025-10-05'
+  link: https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202504143
+  type: null
+  image: https://advanced.onlinelibrary.wiley.com/cms/asset/b47a7f56-4f4e-42e8-b59d-ad5d5dcb6f6d/aenm70300-fig-0002-m.png
+  description: null
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1021/acsnano.5c04666
   title: 'Energetic Disorder in Doped P3HT: A Crucial Factor in Overcoming Coulomb
     Binding for Free Charge Generation'
