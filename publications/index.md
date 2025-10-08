@@ -25,8 +25,6 @@ Son, S.-H.†; <ins>Kim, M.†</ins>; Moon, S.Y.; Oh, S.S.\*; **Son, C.Y.\***; L
 
 Kim, D.†; Kim, S.†; <ins>Hong, S.†</ins>; Kim, J.; Shin, G.; Kim, M.\*; Moon, H.C.\*; **Son, C.Y.\***; Park, T.\*; "Architecting Stable Percolated Spiro-OMeTAD Networks via Mutualistic Radical-Dopant Synergy" submitted
 
-Choi, R.H.†; <ins>Gurumoorthi A.†</ins>; <ins>Bae, S.</ins>; **Son, C.Y.\***; Byon, H.R.\*; "Room-Temperature Single Li+ Organic Solid-State Electrolyte with 10‒4 S cm‒1 Conductivity for Lithium-Metal Batteries" submitted
-
 Baek, S.; Lee, S.; Kang, J.; <ins>Kang, S.</ins>; Hassan, S.Z.; Oh, J.; An. S.; Park, K.; Sim, H.R.; **Son, C.Y.**; Kim, S.-J.; Chung, D.S.\*; "Perfluoroarene-based interlayers unlock high external quantum efficiency in planar heterojunction OPDs" submitted
 
 ## Published
