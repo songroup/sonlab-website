@@ -1,5 +1,27 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: https://doi.org/10.1002/anie.202511606
+  title: "In Situ Click Chemistry Screen Facilitated by an On\u2010Nanoparticle DNA\u2010\
+    Encoded Library Identifies Highly Selective and Potent Peptoid Ligands for a Phosphatase"
+  authors:
+  - Minkyung Kim
+  - Jungyeon Kim
+  - Hee Myeong Wang
+  - Hyemin Kim
+  - Dohee Ahn
+  - <u>Jeongsik Lee</u>
+  - <strong>Chang Yun Son\u002a</strong>"
+  - Sang Jeon Chung
+  - Min Hyeon Shin
+  - "Hyun\u2010Suk Lim"
+  publisher: Angewandte Chemie International Edition
+  date: '2025-10-06'
+  link: https://onlinelibrary.wiley.com/doi/10.1002/anie.202511606
+  type: null
+  image: https://onlinelibrary.wiley.com/cms/asset/314c7e14-6ad7-42c2-a88f-bb2ab18fabac/anie202511606-fig-0003-m.jpg
+  description: <i>64</i>(41), e202511606
+  plugin: sources.py
+  file: sources.yaml
 - id: https://doi.org/10.1002/aenm.202504143
   title: "Room\u2010Temperature Single Li <sup>+</sup> Ion Conducting Organic Solid\u2010\
     State Electrolyte with 10 <sup>\u22124</sup> S cm <sup>\u22121</sup> Conductivity\
