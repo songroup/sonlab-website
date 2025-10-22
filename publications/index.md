@@ -35,7 +35,5 @@ Baek, S.; Lee, S.; Kang, J.; <ins>Kang, S.</ins>; Hassan, S.Z.; Oh, J.; An. S.; 
 
 ### Accepted
 
-Kim, M.; Kim, J.; Kim, H.; Ahn, D.; <ins>Lee, J.</ins>; Wang, H.M.; **Son, C.Y.\***; Chung, S.J.\*; Shin, M.H.\*; Lim, H.-S.\*; "In Situ Click Chemistry Screen Facilitated by an On-Nanoparticle DNA-Encoded Library Identifies Highly Selective and Potent Peptoid Ligands for a Phosphatase" accepted in Angewandte Chemie
-
 {% include list.html data="citations_corr" component="citation_test" style="rich" %}
 
