@@ -40,7 +40,9 @@
   description: Early View
   plugin: sources.py
   file: sources.yaml
-  news: hello
+  news: 
+  - https://n.news.naver.com/article/001/0015722353?sid=101
+  - https://n.news.naver.com/article/016/0002552084?sid=105
 - id: doi:10.1021/acsnano.5c04666
   title: 'Energetic Disorder in Doped P3HT: A Crucial Factor in Overcoming Coulomb
     Binding for Free Charge Generation'
