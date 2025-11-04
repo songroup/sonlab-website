@@ -72,7 +72,9 @@
           {{- citation.id | default: "[no id info]" -}}
         </span>
       </div>
-
+      <div style="font-size: 10px; color: red;">
+        DEBUG news: {{ citation.news | jsonify }}
+      </div>
       {% if citation.news %}
         <div class="citation-news-links">
           {% for url in citation.news %}
