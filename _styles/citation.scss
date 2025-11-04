@@ -77,13 +77,21 @@ $wrap: 800px;
 
 .citation-news-links {
   margin-top: 0.3rem;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.25rem;
+}
+
+.citation-news-label {
+  font-size: 0.85rem;
+  margin-right: 0.25rem;
 }
 
 .citation-news-links .news-link {
   display: inline-block;
   padding: 0.1rem 0.45rem;
-  margin-right: 0.25rem;
-  border-radius: 999px;        
+  border-radius: 999px;
   border: 1px solid #0066cc;
   color: #0066cc;
   font-size: 0.85rem;
@@ -97,6 +105,7 @@ $wrap: 800px;
   color: #ffffff;
   text-decoration: none;
 }
+
 .citation-buttons {
   display: flex;
   flex-wrap: wrap;
