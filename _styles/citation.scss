@@ -75,6 +75,28 @@ $wrap: 800px;
   color: var(--gray);
 }
 
+.citation-news-links {
+  margin-top: 0.3rem;
+}
+
+.citation-news-links .news-link {
+  display: inline-block;
+  padding: 0.1rem 0.45rem;
+  margin-right: 0.25rem;
+  border-radius: 999px;        
+  border: 1px solid #0066cc;
+  color: #0066cc;
+  font-size: 0.85rem;
+  text-decoration: none;
+  line-height: 1.4;
+}
+
+.citation-news-links .news-link:hover,
+.citation-news-links .news-link:focus {
+  background-color: #0066cc;
+  color: #ffffff;
+  text-decoration: none;
+}
 .citation-buttons {
   display: flex;
   flex-wrap: wrap;
