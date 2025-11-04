@@ -62,6 +62,20 @@
       </span> <span class="citation-id">
         {{- citation.id | default: "[no id info]" -}}
       </span>
+      {% if citation.news %}
+        <div class="citation-news-links">
+          {% for url in citation.news %}
+            <a
+              href="{{ url }}"
+              class="news-link"
+              target="_blank"
+              rel="noopener"
+            >
+              [news{{ forloop.index }}]
+            </a>
+          {% endfor %}
+        </div>
+      {% endif %}
 
       {% if include.style == "rich" %}
         {% if citation.description %}
