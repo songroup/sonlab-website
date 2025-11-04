@@ -73,6 +73,16 @@
         </span>
       </div>
 
+      {% if citation.news %}
+        <div class='citation-news'>
+          {{
+            citation.news
+            | markdownify
+            | remove: "<p>"
+            | remove: "</p>"
+          }}
+        </div>
+      {% endif %}
       {% if include.style == "rich" %}
         {% if citation.description %}
           <div class="citation-description">
