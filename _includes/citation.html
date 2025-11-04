@@ -1,4 +1,4 @@
-{% if include.lookup %}
+  {% if include.lookup %}
   {% assign citation = site.data.citations
     | where_exp: "citation",
       "citation.id == include.lookup or citation.title contains include.lookup"
@@ -74,13 +74,17 @@
       </div>
 
       {% if citation.news %}
-        <div class='citation-news'>
-          {{
-            citation.news
-            | markdownify
-            | remove: "<p>"
-            | remove: "</p>"
-          }}
+        <div class="citation-news-links">
+          {% for url in citation.news %}
+            <a
+              href="{{ url }}"
+              class="news-link"
+              target="_blank"
+              rel="noopener"
+            >
+              [news{{ forloop.index }}]
+            </a>
+          {% endfor %}
         </div>
       {% endif %}
       {% if include.style == "rich" %}
