@@ -13,7 +13,6 @@ For citation stats, click here to see [google scholar page](https://scholar.goog
 
 
 ## Submitted
-<ins>Jeong, S.</ins>; <ins>Shin, D.</ins>; **Son, C. Y.\***; "From Clustered Motion to Percolation: Unveiling Correlated Lithium Ion Dynamics in Ionic Liquid Mixtures via an Ab Initio Force Field" submitted
 
 Kwon, J.†; Hassan, S. Z.†; Ham, G.; <ins>Kang, S.</ins>; An, S.; Sim, H. R.; Jang, S.; **Son, C. Y.**; Cha, H.\*; Chung, D. S.\*; "Visible-Light-Driven All-Organic Photoprogrammable Transistors Enabled by Triplet-Sensitized Diarylethene Blends" submitted
 
@@ -34,6 +33,7 @@ Baek, S.; Lee, S.; Kang, J.; <ins>Kang, S.</ins>; Hassan, S.Z.; Oh, J.; An. S.; 
 {% include search-info.html %}
 
 ### Accepted
+<ins>Jeong, S.</ins>; <ins>Shin, D.</ins>; **Son, C. Y.\***; "From Clustered Motion to Percolation: Unveiling Correlated Lithium Ion Dynamics in Ionic Liquid Mixtures via an Ab Initio Force Field" accepted in JCTC
 
 {% include list.html data="citations_corr" component="citation_test" style="rich" %}
 
