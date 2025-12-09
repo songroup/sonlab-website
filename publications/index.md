@@ -13,7 +13,7 @@ For citation stats, click here to see [google scholar page](https://scholar.goog
 
 
 ## Submitted
-Pyo, W. J.; Jeong, K.-J.; Shanahan, J.; Neu, J.; Kim, J.; **Son, C.Y.\***, You, W.\*; Chung, D.S.\*; "Molecular Structural Insights Breaking Charge Transport–Doping Capacity Trade-off in Organic Electrochemical Transistors" submitted
+Pyo, W. J.; <ins>Jeong, K.-J.</ins>; Shanahan, J.; Neu, J.; Kim, J.; **Son, C.Y.\***, You, W.\*; Chung, D.S.\*; "Molecular Structural Insights Breaking Charge Transport–Doping Capacity Trade-off in Organic Electrochemical Transistors" submitted
 
 Kwon, J.†; Hassan, S. Z.†; Ham, G.; <ins>Kang, S.</ins>; An, S.; Sim, H. R.; Jang, S.; **Son, C. Y.**; Cha, H.\*; Chung, D. S.\*; "Visible-Light-Driven All-Organic Photoprogrammable Transistors Enabled by Triplet-Sensitized Diarylethene Blends" submitted
 
