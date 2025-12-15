@@ -13,6 +13,8 @@ For citation stats, click here to see [google scholar page](https://scholar.goog
 
 
 ## Submitted
+Ham, G.†; An, S.†; Jung, W.†; Kwon, H.M.; <ins>Kang, S.</ins>; <ins>Lee, J.</ins>; Kim, S.; Park, C.; Lee, D.; Kim, Y.Y.; Jo, S.; **Son, C.Y.\***; Jo, S.B.\*; Chung, D.S.\*; Cha, H.\*; "Dual Impact of Long-Lived Localized Carriers Induced by Restricted Hole Transfer in Organic Photovoltaics and Photocatalytic Hydrogen Evolution" submitted
+
 Pyo, W. J.; <ins>Jeong, K.-J.</ins>; Shanahan, J.; Neu, J.; Kim, J.; **Son, C.Y.\***, You, W.\*; Chung, D.S.\*; "Molecular Structural Insights Breaking Charge Transport–Doping Capacity Trade-off in Organic Electrochemical Transistors" submitted
 
 Kwon, J.†; Hassan, S. Z.†; Ham, G.; <ins>Kang, S.</ins>; An, S.; Sim, H. R.; Jang, S.; **Son, C. Y.**; Cha, H.\*; Chung, D. S.\*; "Visible-Light-Driven All-Organic Photoprogrammable Transistors Enabled by Triplet-Sensitized Diarylethene Blends" submitted
