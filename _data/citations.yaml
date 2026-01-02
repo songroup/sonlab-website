@@ -1,5 +1,20 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: https://doi.org/10.1021/acs.jctc.5c01679
+  title: 'From Clustered Motion to Percolation: Unveiling Correlated Lithium Ion Dynamics
+    in Ionic Liquid Mixtures via an Ab Initio Force Field'
+  authors:
+  - Seungwon Jeong
+  - Donguk Shin
+  - Chang Yun Son
+  publisher: Journal of Chemical Theory and Computation
+  date: '2025-12-29'
+  link: https://pubs.acs.org/doi/10.1021/acs.jctc.5c01679
+  type: null
+  image: https://pubs.acs.org/cms/10.1021/acs.jctc.5c01679/asset/images/medium/ct5c01679_0006.gif
+  description: null
+  plugin: sources.py
+  file: sources.yaml
 - id: https://doi.org/10.1002/anie.202511606
   title: "In Situ Click Chemistry Screen Facilitated by an On\u2010Nanoparticle DNA\u2010\
     Encoded Library Identifies Highly Selective and Potent Peptoid Ligands for a Phosphatase"
