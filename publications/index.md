@@ -36,7 +36,6 @@ Baek, S.; Lee, S.; Kang, J.; <ins>Kang, S.</ins>; Hassan, S.Z.; Oh, J.; An. S.; 
 {% include search-info.html %}
 
 ### Accepted
-<ins>Jeong, S.</ins>; <ins>Shin, D.</ins>; **Son, C. Y.\***; "From Clustered Motion to Percolation: Unveiling Correlated Lithium Ion Dynamics in Ionic Liquid Mixtures via an Ab Initio Force Field" accepted in JCTC
 
 {% include list.html data="citations_corr" component="citation_test" style="rich" %}
 
