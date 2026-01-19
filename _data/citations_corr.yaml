@@ -11,7 +11,7 @@
   link: https://pubs.acs.org/doi/10.1021/acs.jctc.5c01679
   type: null
   image: https://pubs.acs.org/cms/10.1021/acs.jctc.5c01679/asset/images/medium/ct5c01679_0006.gif
-  description: ASAP
+  description: <i>22</i>(1), 575-587
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1002/anie.202511606
