@@ -2,6 +2,7 @@
 name: Minhye Kim
 image: images/members/minhye.png
 role: alum-m
+description: Former Student
 aliases:
   - MH
 links: 
