@@ -5,7 +5,7 @@ role: phd2026
 aliases:
   - SH
 links: 
-  email: sanghak15 (at) postech dot ac dot kr
+  email: sanghak15 (at) snu dot ac dot kr
   #home-page: https://inyong.com
   #github: inyong
   #orcid: 0000-0002-1042-0194
