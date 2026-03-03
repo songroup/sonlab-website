@@ -1,6 +1,6 @@
 ---
 name: HyunJu Song
-image: images/members/hyunju.jpeg
+image: images/members/hyunju.jpg
 role: phd2026
 aliases:
   - HJ
