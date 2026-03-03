@@ -28,6 +28,8 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: ms2024" %}
 {% include list.html data="members" component="portrait" filters="role: phd2025" %}
 {% include list.html data="members" component="portrait" filters="role: ms2025" %}
+{% include list.html data="members" component="portrait" filters="role: phd2026" %}
+{% include list.html data="members" component="portrait" filters="role: ms2026" %}
 {% include list.html data="members" component="portrait" filters="role: undergrad" %}
 
 # Alumni
@@ -36,4 +38,5 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: alum-po" %}
 {% include list.html data="members" component="portrait" filters="role: alum-ph" %}
 {% include list.html data="members" component="portrait" filters="role: alum-m" %}
+{% include list.html data="members" component="portrait" filters="role: alum" %}
 {% include list.html data="members" component="portrait" filters="role: alum-ug" %}
