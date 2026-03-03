@@ -38,5 +38,4 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: alum-po" %}
 {% include list.html data="members" component="portrait" filters="role: alum-ph" %}
 {% include list.html data="members" component="portrait" filters="role: alum-m" %}
-{% include list.html data="members" component="portrait" filters="role: alum" %}
 {% include list.html data="members" component="portrait" filters="role: alum-ug" %}
