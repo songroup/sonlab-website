@@ -33,6 +33,10 @@ phd2024:
 phd2025:
   icon: fa-solid fa-user-graduate
   description: PhD Student
+
+phd2026:
+  icon: fa-solid fa-user-graduate
+  description: PhD Student
   
 ms2020:
   icon: fa-solid fa-user-graduate
@@ -55,6 +59,10 @@ ms2024:
   description: MS Student
 
 ms2025:
+  icon: fa-solid fa-user-graduate
+  description: MS Student
+
+ms2026:
   icon: fa-solid fa-user-graduate
   description: MS Student
   
