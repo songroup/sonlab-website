@@ -1,7 +1,7 @@
 ---
 name: Minhye Kim
 image: images/members/minhye.png
-role: phd2022
+role: alum
 aliases:
   - MH
 links: 
