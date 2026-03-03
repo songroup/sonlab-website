@@ -11,4 +11,4 @@ links:
   #orcid: 0000-0002-1042-0194
 ---
 
-**HyunJu Song** is a M.S.–Ph.D. integrated course student in the Department of Chemistry at SNU. 
+**HyunJu Song** is a M.S.–Ph.D. integrated course student in the Department of Chemistry at SNU. She received her B.S. from DGIST, majoring in Computer Science and minoring in Chemistry.
