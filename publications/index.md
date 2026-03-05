@@ -17,8 +17,6 @@ Ham, G.†; An, S.†; Jung, W.†; Kwon, H.M.; <ins>Kang, S.</ins>; <ins>Lee, J
 
 Pyo, W. J.; <ins>Jeong, K.-J.</ins>; Shanahan, J.; Neu, J.; Kim, J.; **Son, C.Y.\***, You, W.\*; Chung, D.S.\*; "Molecular Structural Insights Breaking Charge Transport–Doping Capacity Trade-off in Organic Electrochemical Transistors" submitted
 
-Kwon, J.†; Hassan, S. Z.†; Ham, G.; <ins>Kang, S.</ins>; An, S.; Sim, H. R.; Jang, S.; **Son, C. Y.**; Cha, H.\*; Chung, D. S.\*; "Visible-Light-Driven All-Organic Photoprogrammable Transistors Enabled by Triplet-Sensitized Diarylethene Blends" submitted
-
 Choi, Y.†; <ins>Lee, S.†</ins>; Choi, J.-K.; Han, H.; Choi, Y.; Im, J.-H.; Kim, H.; Jeon, S.; Lee, M.\*; **Son, C. Y.\***; Kim, Y.-K.\*; “Design of Optical Transducer for Recognition of Biomolecular Interactions between Bacterial Lipopolysaccharides and Amino Acids” submitted
 
 <ins>Jeong, K.-J.</ins>; **Son, C.Y\***.; “Importance of Collective Ion Transport in Molecular Weight Dependence of Conductivity in Block Copolymer Electrolytes” submitted
@@ -36,6 +34,8 @@ Baek, S.; Lee, S.; Kang, J.; <ins>Kang, S.</ins>; Hassan, S.Z.; Oh, J.; An. S.; 
 {% include search-info.html %}
 
 ### Accepted
+
+Kwon, J.†; Hassan, S. Z.†; Ham, G.; <ins>Kang, S.</ins>; An, S.; Sim, H. R.; Jang, S.; **Son, C. Y.**; Cha, H.\*; Chung, D. S.\*; "Visible-Light-Driven All-Organic Photoprogrammable Transistors Enabled by Triplet-Sensitized Diarylethene Blends" accepted
 
 {% include list.html data="citations_corr" component="citation_test" style="rich" %}
 
