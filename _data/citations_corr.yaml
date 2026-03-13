@@ -11,14 +11,14 @@
   - "Jun\u2010Hyung Im"
   - Hyein Kim
   - Sangmin Jeon
-  - Minjae Lee\u002a
+  - "Minjae Lee\u002a"
   - "<strong>Chang Yun Son\u002a</strong>"
   - "Young\u2010Ki Kim\u002a"
   publisher: Advanced Science
   date: '2026-03-12'
   link: https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202523658
   type: null
-  image: images/members/Optical Transducer_SM_image.jpg
+  image: https://github.com/songroup/sonlab-website/blob/main/images/Optical%20Transducer_SM_image.jpg?raw=true
   description: early excess
   plugin: sources.py
   file: sources.yaml
