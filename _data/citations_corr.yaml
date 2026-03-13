@@ -160,7 +160,7 @@
   date: '2025-01-28'
   link: https://onlinelibrary.wiley.com/doi/10.1002/smll.202410079
   type: null
-  image: https://onlinelibrary.wiley.com/cms/asset/695a8bad-9974-4619-8a28-9bbe5e666f7d/smll202410079-fig-0004-m.jpg
+  image: https://github.com/songroup/sonlab-website/blob/main/images/Tailering_KJ_img.jpg?raw=true
   description: 2410079
   plugin: sources.py
   file: sources.yaml
