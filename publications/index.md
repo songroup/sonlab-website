@@ -17,8 +17,6 @@ Ham, G.†; An, S.†; Jung, W.†; Kwon, H.M.; <ins>Kang, S.</ins>; <ins>Lee, J
 
 Pyo, W. J.; <ins>Jeong, K.-J.</ins>; Shanahan, J.; Neu, J.; Kim, J.; **Son, C.Y.\***, You, W.\*; Chung, D.S.\*; "Molecular Structural Insights Breaking Charge Transport–Doping Capacity Trade-off in Organic Electrochemical Transistors" submitted
 
-Choi, Y.†; <ins>Lee, S.†</ins>; Choi, J.-K.; Han, H.; Choi, Y.; Im, J.-H.; Kim, H.; Jeon, S.; Lee, M.\*; **Son, C. Y.\***; Kim, Y.-K.\*; “Design of Optical Transducer for Recognition of Biomolecular Interactions between Bacterial Lipopolysaccharides and Amino Acids” submitted
-
 <ins>Jeong, K.-J.</ins>; **Son, C.Y\***.; “Importance of Collective Ion Transport in Molecular Weight Dependence of Conductivity in Block Copolymer Electrolytes” submitted
 
 Son, S.-H.†; <ins>Kim, M.†</ins>; Moon, S.Y.; Oh, S.S.\*; **Son, C.Y.\***; Lee, J.Y.\*; "Spatial Control of Enzyme Orientation at Lipid Droplet Interfaces Enables Regio- and Chemo-selective Metabolic Flux" submitted
