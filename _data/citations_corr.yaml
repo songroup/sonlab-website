@@ -1,4 +1,27 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
+- id: https://doi.org/10.1002/advs.202523658
+  title: Design of Optical Transducer for Recognition of Biomolecular Interactions
+    between Bacterial Lipopolysaccharides and Amino Acids
+  authors:
+  - Yena Choi†
+  - <u>Sangmin Lee†</u>
+  - "Jin\u2010Kang Choi"
+  - Hyunsoo Han
+  - Yeongseon Choi
+  - "Jun\u2010Hyung Im"
+  - Hyein Kim
+  - Sangmin Jeon
+  - Minjae Lee\u002a
+  - <strong>Chang Yun Son\u002a</strong>
+  - "Young\u2010Ki Kim"\u002a
+  publisher: Advanced Science
+  date: '2026-03-12'
+  link: https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202523658
+  type: null
+  image: https://advanced.onlinelibrary.wiley.com/cms/asset/857f6d7c-662e-4697-999a-c731f9c9fb44/advs74816-fig-0005-m.jpg
+  description: null
+  plugin: sources.py
+  file: sources.yaml
 - id: https://doi.org/10.1021/acs.jctc.5c01679
   title: 'From Clustered Motion to Percolation: Unveiling Correlated Lithium Ion Dynamics
     in Ionic Liquid Mixtures via an Ab Initio Force Field'
