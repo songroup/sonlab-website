@@ -1,4 +1,27 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
+- id: https://doi.org/10.1002/adom.202503525
+  title: "Visible\u2010Light Photoprogrammable Transistors Enabled by an All\u2010\
+    Organic Triplet\u2010Sensitized Diarylethene Channel Layer"
+  authors:
+  - Jieun Kwon†
+  - Syed Zahid Hassan†
+  - Gayoung Ham
+  - <u>Seonghyeon Kang</u>
+  - Geoneop Choi
+  - Sanghyeok An
+  - Hye Ryun Sim
+  - Suryeon Jang
+  - "<strong>Chang Yun Son\u002a</strong>"
+  - "Hyojung Cha\u002a"
+  - "Dae Sung Chung\u002a"
+  publisher: Advanced Optical Materials
+  date: '2026-03-16'
+  link: https://advanced.onlinelibrary.wiley.com/doi/10.1002/adom.202503525
+  type: null
+  image: https://advanced.onlinelibrary.wiley.com/cms/asset/03aeecd1-bb8a-47dd-a8c8-944a200c46c9/adom71128-fig-0001-m.jpg
+  description: Early View
+  plugin: sources.py
+  file: sources.yaml
 - id: https://doi.org/10.1002/advs.202523658
   title: Design of Optical Transducer for Recognition of Biomolecular Interactions
     between Bacterial Lipopolysaccharides and Amino Acids
@@ -19,7 +42,7 @@
   link: https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202523658
   type: null
   image: https://github.com/songroup/sonlab-website/blob/main/images/Optical_Transducer_SM_img.png?raw=true
-  description: early excess
+  description: Early View
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1021/acs.jctc.5c01679
