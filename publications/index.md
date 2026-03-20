@@ -33,7 +33,5 @@ Baek, S.; Lee, S.; Kang, J.; <ins>Kang, S.</ins>; Hassan, S.Z.; Oh, J.; An. S.; 
 
 ### Accepted
 
-Kwon, J.†; Hassan, S. Z.†; Ham, G.; <ins>Kang, S.</ins>; An, S.; Sim, H. R.; Jang, S.; **Son, C. Y.**; Cha, H.\*; Chung, D. S.\*; "Visible-Light-Driven All-Organic Photoprogrammable Transistors Enabled by Triplet-Sensitized Diarylethene Blends" accepted
-
 {% include list.html data="citations_corr" component="citation_test" style="rich" %}
 
