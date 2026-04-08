@@ -13,7 +13,6 @@ For citation stats, click here to see [google scholar page](https://scholar.goog
 
 
 ## Submitted
-Ham, G.†; An, S.†; Jung, W.†; Kwon, H.M.; <ins>Kang, S.</ins>; <ins>Lee, J.</ins>; Kim, S.; Park, C.; Lee, D.; Kim, Y.Y.; Jo, S.; **Son, C.Y.\***; Jo, S.B.\*; Chung, D.S.\*; Cha, H.\*; "Dual Impact of Long-Lived Localized Carriers Induced by Restricted Hole Transfer in Organic Photovoltaics and Photocatalytic Hydrogen Evolution" submitted
 
 Pyo, W. J.; <ins>Jeong, K.-J.</ins>; Shanahan, J.; Neu, J.; Kim, J.; **Son, C.Y.\***, You, W.\*; Chung, D.S.\*; "Molecular Structural Insights Breaking Charge Transport–Doping Capacity Trade-off in Organic Electrochemical Transistors" submitted
 
@@ -23,7 +22,6 @@ Son, S.-H.†; <ins>Kim, M.†</ins>; Moon, S.Y.; Oh, S.S.\*; **Son, C.Y.\***; L
 
 Kim, D.†; Kim, S.†; <ins>Hong, S.†</ins>; Kim, J.; Shin, G.; Kim, M.\*; Moon, H.C.\*; **Son, C.Y.\***; Park, T.\*; "Architecting Stable Percolated Spiro-OMeTAD Networks via Mutualistic Radical-Dopant Synergy" submitted
 
-Baek, S.; Lee, S.; Kang, J.; <ins>Kang, S.</ins>; Hassan, S.Z.; Oh, J.; An. S.; Park, K.; Sim, H.R.; **Son, C.Y.**; Kim, S.-J.; Chung, D.S.\*; "Perfluoroarene-based interlayers unlock high external quantum efficiency in planar heterojunction OPDs" submitted
 
 ## Published
 
@@ -32,6 +30,9 @@ Baek, S.; Lee, S.; Kang, J.; <ins>Kang, S.</ins>; Hassan, S.Z.; Oh, J.; An. S.; 
 {% include search-info.html %}
 
 ### Accepted
+Ham, G.†; An, S.†; Jung, W.†; Kwon, H.M.; <ins>Kang, S.</ins>; <ins>Lee, J.</ins>; Kim, S.; Park, C.; Lee, D.; Kim, Y.Y.; Jo, S.; **Son, C.Y.\***; Jo, S.B.\*; Chung, D.S.\*; Cha, H.\*; "Dual Impact of Long-Lived Localized Carriers Induced by Restricted Hole Transfer in Organic Photovoltaics and Photocatalytic Hydrogen Evolution" accepted
+
+Baek, S.; Lee, S.; Kang, J.; <ins>Kang, S.</ins>; Hassan, S.Z.; Oh, J.; An. S.; Park, K.; Sim, H.R.; **Son, C.Y.**; Kim, S.-J.; Chung, D.S.\*; "Perfluoroarene-based interlayers unlock high external quantum efficiency in planar heterojunction OPDs" aceepted
 
 {% include list.html data="citations_corr" component="citation_test" style="rich" %}
 
