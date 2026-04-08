@@ -30,9 +30,9 @@ Kim, D.†; Kim, S.†; <ins>Hong, S.†</ins>; Kim, J.; Shin, G.; Kim, M.\*; Mo
 {% include search-info.html %}
 
 ### Accepted
-Ham, G.†; An, S.†; Jung, W.†; Kwon, H.M.; <ins>Kang, S.</ins>; <ins>Lee, J.</ins>; Kim, S.; Park, C.; Lee, D.; Kim, Y.Y.; Jo, S.; **Son, C.Y.\***; Jo, S.B.\*; Chung, D.S.\*; Cha, H.\*; "Dual Impact of Long-Lived Localized Carriers Induced by Restricted Hole Transfer in Organic Photovoltaics and Photocatalytic Hydrogen Evolution" accepted
+Ham, G.†; An, S.†; Jung, W.†; Kwon, H.M.; <ins>Kang, S.</ins>; <ins>Lee, J.</ins>; Kim, S.; Park, C.; Lee, D.; Kim, Y.Y.; Jo, S.; **Son, C.Y.\***; Jo, S.B.\*; Chung, D.S.\*; Cha, H.\*; "Dual Impact of Long-Lived Localized Carriers Induced by Restricted Hole Transfer in Organic Photovoltaics and Photocatalytic Hydrogen Evolution" accepted in Advanced Energy Materials
 
-Baek, S.; Lee, S.; Kang, J.; <ins>Kang, S.</ins>; Hassan, S.Z.; Oh, J.; An. S.; Park, K.; Sim, H.R.; **Son, C.Y.**; Kim, S.-J.; Chung, D.S.\*; "Perfluoroarene-based interlayers unlock high external quantum efficiency in planar heterojunction OPDs" aceepted
+Baek, S.; Lee, S.; Kang, J.; <ins>Kang, S.</ins>; Hassan, S.Z.; Oh, J.; An. S.; Park, K.; Sim, H.R.; **Son, C.Y.**; Kim, S.-J.; Chung, D.S.\*; "Perfluoroarene-based interlayers unlock high external quantum efficiency in planar heterojunction OPDs" accepted in Advanced Functional Materials
 
 {% include list.html data="citations_corr" component="citation_test" style="rich" %}
 
