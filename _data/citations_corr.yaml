@@ -1,4 +1,28 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
+- id: https://doi.org/10.1002/adfm.202517827
+  title: "Perfluoroarene\u2010Based Interlayers Unlock High External Quantum Efficiency\
+    \ in Planar Heterojunction OPDs"
+  authors:
+  - Seyeon Baek
+  - Sangjun Lee
+  - Jubin Kang
+  - <u>Seonghyeon Kang</u>
+  - Syed Zahid Hassan
+  - Jungmin Oh
+  - Sanghyeok An
+  - Kyo Bin Park
+  - Hye Ryun Sim
+  - <strong>Chang Yun Son</strong>
+  - "Seong\u2010Jin Kim"
+  - "Dae Sung Chung\u002a"
+  publisher: Advanced Functional Materials
+  date: '2026-04-13'
+  link: https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.202517827
+  type: null
+  image: https://github.com/songroup/sonlab-website/blob/main/images/Perfluoroarene_SH_img.png?raw=true
+  description: Early View
+  plugin: sources.py
+  file: sources.yaml
 - id: https://doi.org/10.1002/adom.202503525
   title: "Visible\u2010Light Photoprogrammable Transistors Enabled by an All\u2010\
     Organic Triplet\u2010Sensitized Diarylethene Channel Layer"
