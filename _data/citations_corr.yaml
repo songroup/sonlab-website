@@ -1,4 +1,31 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
+- id: https://doi.org/10.1002/aenm.70952
+  title: "Dual Impact of Long\u2010Lived Localized Carriers Induced by Restricted\
+    \ Hole Transfer in Organic Photovoltaics and Photocatalytic Hydrogen Evolution"
+  authors:
+  - Gayoung Ham
+  - Sanghyeok An
+  - Wooteak Jung
+  - Hyun Min Kwon
+  - <i>Seonghyeon Kang</i>
+  - <i>Jaehyuk Lee</i>
+  - Sowon Kim
+  - Changwoo Park
+  - Damin Lee
+  - Young Yong Kim
+  - Sungjin Jo
+  - "<strong>Chang Yun Son\u002a</strong>"
+  - "Sae Byeok Jo\u002a"
+  - "Dae Sung Chung\u002a"
+  - "Hyojung Cha\u002a"
+  publisher: Advanced Energy Materials
+  date: '2026-04-16'
+  link: https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.70952
+  type: null
+  image: https://advanced.onlinelibrary.wiley.com/cms/asset/220665d1-9758-4aa9-aa2b-7c2971be287e/aenm70952-fig-0003-m.jpg
+  description: Early View
+  plugin: sources.py
+  file: sources.yaml
 - id: https://doi.org/10.1002/adfm.202517827
   title: "Perfluoroarene\u2010Based Interlayers Unlock High External Quantum Efficiency\
     \ in Planar Heterojunction OPDs"
