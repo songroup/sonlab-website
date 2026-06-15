@@ -20,8 +20,6 @@ Pyo, W. J.; <ins>Jeong, K.-J.</ins>; Shanahan, J.; Neu, J.; Kim, J.; **Son, C.Y.
 
 Son, S.-H.†; <ins>Kim, M.†</ins>; Moon, S.Y.; Oh, S.S.\*; **Son, C.Y.\***; Lee, J.Y.\*; "Spatial Control of Enzyme Orientation at Lipid Droplet Interfaces Enables Regio- and Chemo-selective Metabolic Flux" submitted
 
-Kim, D.†; Kim, S.†; <ins>Hong, S.†</ins>; Kim, J.; Shin, G.; Kim, M.\*; Moon, H.C.\*; **Son, C.Y.\***; Park, T.\*; "Architecting Stable Percolated Spiro-OMeTAD Networks via Mutualistic Radical-Dopant Synergy" submitted
-
 
 ## Published
 
@@ -31,6 +29,7 @@ Kim, D.†; Kim, S.†; <ins>Hong, S.†</ins>; Kim, J.; Shin, G.; Kim, M.\*; Mo
 
 ### Accepted
 
+Kim, D.†; Kim, S.†; <ins>Hong, S.†</ins>; Kim, J.; Shin, G.; Kim, M.\*; Moon, H.C.\*; **Son, C.Y.\***; Park, T.\*; "Architecting Stable Percolated Spiro-OMeTAD Networks via Mutualistic Radical-Dopant Synergy" accepted in ACS Energy Letters.
 
 {% include list.html data="citations_corr" component="citation_test" style="rich" %}
 
