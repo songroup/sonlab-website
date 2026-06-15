@@ -20,6 +20,7 @@ Pyo, W. J.; <ins>Jeong, K.-J.</ins>; Shanahan, J.; Neu, J.; Kim, J.; **Son, C.Y.
 
 Son, S.-H.†; <ins>Kim, M.†</ins>; Moon, S.Y.; Oh, S.S.\*; **Son, C.Y.\***; Lee, J.Y.\*; "Spatial Control of Enzyme Orientation at Lipid Droplet Interfaces Enables Regio- and Chemo-selective Metabolic Flux" submitted
 
+Kang, T.†; Park, C. B.†; Lim, Y.†; **Son, C. Y.\***; Kang, J.\*; "Chiral Chain Rotation Amplifies Fracture Resistance and Induces Mechanical Anisotropy in Supramolecular Elastomers" submitted
 
 ## Published
 
