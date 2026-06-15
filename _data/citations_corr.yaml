@@ -47,7 +47,7 @@
   link: https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.202517827
   type: null
   image: https://github.com/songroup/sonlab-website/blob/main/images/Perfluoroarene_SH_img.png?raw=true
-  description: Early View
+  description: <i>36</i>(46), e17827
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1002/adom.202503525
