@@ -98,9 +98,9 @@
   file: sources.yaml
   news: 
   - outlet: 매일경제
-   url: https://www.mk.co.kr/news/it/12018569
+    url: https://www.mk.co.kr/news/it/12018569
   - outlet: BRIC
-   url: https://www.ibric.org/s.do?JxWIninFkv
+    url: https://www.ibric.org/s.do?JxWIninFkv
 - id: https://doi.org/10.1021/acs.jctc.5c01679
   title: 'From Clustered Motion to Percolation: Unveiling Correlated Lithium Ion Dynamics
     in Ionic Liquid Mixtures via an Ab Initio Force Field'
