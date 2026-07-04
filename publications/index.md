@@ -14,8 +14,6 @@ For citation stats, click here to see [google scholar page](https://scholar.goog
 
 ## Submitted
 
-Pyo, W. J.; <ins>Jeong, K.-J.</ins>; Shanahan, J.; Neu, J.; Kim, J.; **Son, C.Y.\***, You, W.\*; Chung, D.S.\*; "Molecular Structural Insights Breaking Charge Transport–Doping Capacity Trade-off in Organic Electrochemical Transistors" submitted
-
 <ins>Jeong, K.-J.</ins>; **Son, C.Y\***.; “Importance of Collective Ion Transport in Molecular Weight Dependence of Conductivity in Block Copolymer Electrolytes” submitted
 
 Son, S.-H.†; <ins>Kim, M.†</ins>; Moon, S.Y.; Oh, S.S.\*; **Son, C.Y.\***; Lee, J.Y.\*; "Spatial Control of Enzyme Orientation at Lipid Droplet Interfaces Enables Regio- and Chemo-selective Metabolic Flux" submitted
@@ -31,6 +29,9 @@ Kang, T.†; Park, C. B.†; <ins>Lim, Y.†</ins>; **Son, C. Y.\***; Kang, J.\*
 ### Accepted
 
 Kim, D.†; Kim, S.†; <ins>Hong, S.†</ins>; Kim, J.; Shin, G.; Kim, M.\*; Moon, H.C.\*; **Son, C.Y.\***; Park, T.; "Architecting Stable Percolated Spiro-OMeTAD Networks via Mutualistic Radical-Dopant Synergy" accepted in <i>ACS Energy Letters</i>.
+
+Pyo, W. J.†; <ins>Jeong, K.-J.†</ins>; Shanahan, J.; Neu, J.; Kim, J.; Zhong, X.; **Son, C.Y.\***, You, W.\*; Chung, D.S.\*; "Ion–Backbone Accessibility Enables Unity Doping Efficiency in Organic Electrochemical
+2 Transistors" accepted in <i>Nature Communications</i>.
 
 {% include list.html data="citations_corr" component="citation_test" style="rich" %}
 
