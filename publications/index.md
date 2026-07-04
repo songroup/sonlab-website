@@ -30,7 +30,7 @@ Kang, T.†; Park, C. B.†; <ins>Lim, Y.†</ins>; **Son, C. Y.\***; Kang, J.\*
 
 ### Accepted
 
-Kim, D.†; Kim, S.†; <ins>Hong, S.†</ins>; Kim, J.; Shin, G.; Kim, M.\*; Moon, H.C.\*; **Son, C.Y.\***; Park, T.\*; "Architecting Stable Percolated Spiro-OMeTAD Networks via Mutualistic Radical-Dopant Synergy" accepted in <i>ACS Energy Letters</i>.
+Kim, D.†; Kim, S.†; <ins>Hong, S.†</ins>; Kim, J.; Shin, G.; Kim, M.\*; Moon, H.C.\*; **Son, C.Y.\***; Park, T.; "Architecting Stable Percolated Spiro-OMeTAD Networks via Mutualistic Radical-Dopant Synergy" accepted in <i>ACS Energy Letters</i>.
 
 {% include list.html data="citations_corr" component="citation_test" style="rich" %}
 
