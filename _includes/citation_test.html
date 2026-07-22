@@ -51,7 +51,7 @@
           citation.authors
           | join: ","
           | split: ","
-          | array_carve: 5
+          | array_carve: 6
           | join: ", "
           | remove: "<p>" | remove: "</p>"
           | remove: "<br>" | remove: "\n"
