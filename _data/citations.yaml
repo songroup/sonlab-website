@@ -1,5 +1,26 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: https://doi.org/10.1038/s41467-026-75568-7
+  title: "Ion\u2013backbone accessibility enables unity doping efficiency in organic\
+    \ electrochemical transistors"
+  authors:
+  - Won Jun Pyo
+  - Kyeong-Jun Jeong
+  - Jordan Shanahan
+  - Justin Neu
+  - Junseo Kim
+  - Xiaowei Zhong
+  - Chang Yun Son
+  - Wei You
+  - Dae Sung Chung
+  publisher: Nature Communications
+  date: '2026-07-14'
+  link: https://www.nature.com/articles/s41467-026-75568-7
+  type: null
+  image: null
+  description: null
+  plugin: sources.py
+  file: sources.yaml
 - id: https://doi.org/10.1002/aenm.70952
   title: "Dual Impact of Long\u2010Lived Localized Carriers Induced by Restricted\
     \ Hole Transfer in Organic Photovoltaics and Photocatalytic Hydrogen Evolution"
