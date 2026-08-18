@@ -1,4 +1,25 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
+- id: https://doi.org/10.1021/acsenergylett.6c01191
+  title: Architecting Percolating Ionic Networks in Spiro-OMeTAD via Radical-Dopant
+    Cooperation for Enhanced Hole Transport and Stability
+  authors:
+  - Dohyun Kim†
+  - Sungryong Kim†
+  - <u>Seungbin Hong†</u>
+  - Jeongsu Kim
+  - Giwon Shin
+  - Minjun Kim
+  - "Hong Chul Moon\u002a"
+  - "<strong>Chang Yun Son\u002a</strong>"
+  - Taiho Park‡
+  publisher: ACS Energy Letters
+  date: '2026-08-14'
+  link: https://pubs.acs.org/aelccp/article/doi/10.1021/acsenergylett.6c01191/5255068/Architecting-Percolating-Ionic-Networks-in-Spiro
+  type: null
+  image: null
+  description: null
+  plugin: sources.py
+  file: sources.yaml
 - id: https://doi.org/10.1002/aenm.70952
   title: "Dual Impact of Long\u2010Lived Localized Carriers Induced by Restricted\
     \ Hole Transfer in Organic Photovoltaics and Photocatalytic Hydrogen Evolution"
