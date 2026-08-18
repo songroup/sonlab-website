@@ -1,4 +1,4 @@
-# DO NOT EDIT, GENERATED AUTOMATICALLY
+# DO NOT EDIT, GATED AUTOMATICALLY
 - id: https://doi.org/10.1021/acsenergylett.6c01191
   title: Architecting Percolating Ionic Networks in Spiro-OMeTAD via Radical-Dopant
     Cooperation for Enhanced Hole Transport and Stability
@@ -198,7 +198,7 @@
   date: '2025-08-05'
   link: https://doi.org/g9wbtw
   type: null
-  image: https://pubs.acs.org/cms/10.1021/acsnano.5c04666/asset/images/medium/nn5c04666_0005.gif
+  image: https://acs.silverchair-cdn.com/acs/content_public/journal/ancac3/19/32/10.1021_acsnano.5c04666/2/m_nn5c04666_0008.png
   description: <i>19</i> (32), 29265-29275
   plugin: sources.py
   file: sources.yaml
@@ -600,7 +600,7 @@
   - Umesh Khaniya
   - Qiang Cui
   - M.R. Gunner
-  publisher: Biochimica et Biophysica Acta (BBA) - Bioenergetics
+  publisher: Biochimica et Biophysica Acta (BBA) - Biogetics
   date: '2020-10-01'
   link: https://doi.org/gt4kvj
   type: null
@@ -665,7 +665,7 @@
   - "<strong>Chang Yun Son</strong>"
   - Qiang Cui
   - M.R. Gunner
-  publisher: Biochimica et Biophysica Acta (BBA) - Bioenergetics
+  publisher: Biochimica et Biophysica Acta (BBA) - Biogetics
   date: '2018-10-01'
   link: https://doi.org/gd95qd
   type: null
