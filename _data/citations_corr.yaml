@@ -133,7 +133,7 @@
   date: '2026-01-01'
   link: https://pubs.acs.org/doi/10.1021/acs.jctc.5c01679
   type: null
-  image: https://pubs.acs.org/view-large/figure/246505976/ct5c01679_0003.tif
+  image: https://acs.silverchair-cdn.com/acs/content_public/journal/jctcce/22/1/10.1021_acs.jctc.5c01679/3/m_ct5c01679_0003.png
   description: <i>22</i>(1), 575-587
   plugin: sources.py
   file: sources.yaml
