@@ -1,5 +1,26 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: https://doi.org/10.1021/acsenergylett.6c01191
+  title: Architecting Percolating Ionic Networks in Spiro-OMeTAD via Radical-Dopant
+    Cooperation for Enhanced Hole Transport and Stability
+  authors:
+  - Dohyun Kim
+  - Sungryong Kim
+  - Seungbin Hong
+  - Jeongsu Kim
+  - Giwon Shin
+  - Minjun Kim
+  - Hong Chul Moon
+  - Chang Yun Son
+  - Taiho Park
+  publisher: ACS Energy Letters
+  date: '2026-08-14'
+  link: https://pubs.acs.org/aelccp/article/doi/10.1021/acsenergylett.6c01191/5255068/Architecting-Percolating-Ionic-Networks-in-Spiro
+  type: null
+  image: null
+  description: null
+  plugin: sources.py
+  file: sources.yaml
 - id: https://doi.org/10.1038/s41467-026-75568-7
   title: "Ion\u2013backbone accessibility enables unity doping efficiency in organic\
     \ electrochemical transistors"
