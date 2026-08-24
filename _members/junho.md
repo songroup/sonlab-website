@@ -2,6 +2,7 @@
 name: Junho Lim
 image: images/members/junho.jpg
 role: alum-ug
+description: PhD student at UC Berkeley
 aliases:
   - JH
 links: 
