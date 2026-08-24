@@ -28,7 +28,5 @@ Kang, T.†; Park, C. B.†; <ins>Lim, Y.†</ins>; **Son, C. Y.\***; Kang, J.\*
 
 ### Accepted
 
-Pyo, W. J.†; <ins>Jeong, K.-J.†</ins>; Shanahan, J.; Neu, J.; Kim, J.; Zhong, X.; **Son, C.Y.\***, You, W.\*; Chung, D.S.\*; "Ion–Backbone Accessibility Enables Unity Doping Efficiency in Organic Electrochemical Transistors" accepted in <i>Nature Communications</i>.
-
 {% include list.html data="citations_corr" component="citation_test" style="rich" %}
 
