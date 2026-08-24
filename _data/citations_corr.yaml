@@ -1,4 +1,25 @@
 # DO NOT EDIT, GATED AUTOMATICALLY
+- id: https://doi.org/10.1038/s41467-026-75568-7
+  title: "Ion\u2013backbone accessibility enables unity doping efficiency in organic\
+    \ electrochemical transistors"
+  authors:
+  - Won Jun Pyo
+  - <u>Kyeong-Jun Jeong</u>
+  - Jordan Shanahan
+  - Justin Neu
+  - Junseo Kim
+  - Xiaowei Zhong
+  - "<strong>Chang Yun Son\u002a</strong>"
+  - "Wei You\u002a"
+  - "Dae Sung Chung\u002a"
+  publisher: Nature Communications
+  date: '2026-07-14'
+  link: https://www.nature.com/articles/s41467-026-75568-7
+  type: null
+  image: null
+  description: <i>17</i>, 8644
+  plugin: sources.py
+  file: sources.yaml
 - id: https://doi.org/10.1021/acsenergylett.6c01191
   title: Architecting Percolating Ionic Networks in Spiro-OMeTAD via Radical-Dopant
     Cooperation for Enhanced Hole Transport and Stability
