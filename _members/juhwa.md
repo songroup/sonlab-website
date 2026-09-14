@@ -1,6 +1,6 @@
 ---
 name: Juhwa Lee
-image: images/members/juhwa.png
+image: images/members/juhwa.jpg
 role: phd2022
 aliases:
   - JH
