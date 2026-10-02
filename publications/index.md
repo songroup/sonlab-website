@@ -16,8 +16,6 @@ For citation stats, click here to see [google scholar page](https://scholar.goog
 
 <ins>Jeong, K.-J.</ins>; **Son, C.Y\***.; “Importance of Collective Ion Transport in Molecular Weight Dependence of Conductivity in Block Copolymer Electrolytes” submitted
 
-Son, S.-H.†; <ins>Kim, M.†</ins>; Moon, S.Y.; Oh, S.S.\*; **Son, C.Y.\***; Lee, J.Y.\*; "Spatial Control of Enzyme Orientation at Lipid Droplet Interfaces Enables Regio- and Chemo-selective Metabolic Flux" submitted
-
 Kang, T.†; Park, C. B.†; <ins>Lim, Y.†</ins>; **Son, C. Y.\***; Kang, J.\*; "Chiral Chain Rotation Amplifies Fracture Resistance and Induces Mechanical Anisotropy in Supramolecular Elastomers" submitted
 
 ## Published
@@ -30,3 +28,4 @@ Kang, T.†; Park, C. B.†; <ins>Lim, Y.†</ins>; **Son, C. Y.\***; Kang, J.\*
 
 {% include list.html data="citations_corr" component="citation_test" style="rich" %}
 
+Son, S.-H.†; <ins>Bae S.†</ins>; Moon, S.Y.; <ins>Kim, M.</ins>;  Oh, S.S.\*; **Son, C.Y.\***; Lee, J.Y.\*; "Spatial Control of Enzyme Orientation at Lipid Droplet Interfaces Enables Regio- and Chemo-selective Metabolic Flux" accepted in Science Advances
