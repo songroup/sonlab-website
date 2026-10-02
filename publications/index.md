@@ -26,6 +26,7 @@ Kang, T.†; Park, C. B.†; <ins>Lim, Y.†</ins>; **Son, C. Y.\***; Kang, J.\*
 
 ### Accepted
 
+Son, S.-H.†; <ins>Bae S.†</ins>; Moon, S.Y.; <ins>Kim, M.</ins>;  Oh, S.S.\*; **Son, C.Y.\***; Lee, J.Y.\*; "Spatial Control of Enzyme Orientation at Lipid Droplet Interfaces Enables Regio- and Chemo-selective Metabolic Flux" accepted in Science Advances
+
 {% include list.html data="citations_corr" component="citation_test" style="rich" %}
 
-Son, S.-H.†; <ins>Bae S.†</ins>; Moon, S.Y.; <ins>Kim, M.</ins>;  Oh, S.S.\*; **Son, C.Y.\***; Lee, J.Y.\*; "Spatial Control of Enzyme Orientation at Lipid Droplet Interfaces Enables Regio- and Chemo-selective Metabolic Flux" accepted in Science Advances
