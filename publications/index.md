@@ -18,7 +18,7 @@ For citation stats, click here to see [google scholar page](https://scholar.goog
 
 Kang, T.†; Park, C. B.†; <ins>Lim, Y.†</ins>; **Son, C. Y.\***; Kang, J.\*; "Chiral Chain Rotation Amplifies Fracture Resistance and Induces Mechanical Anisotropy in Supramolecular Elastomers" submitted
 
-Choi, J.†; Lee, S.†; Faleti, A.I.†; Son, C.Y.\*; Hwang, D.S.\*; "Unveiling Intrinsic Wet-Adhesive Roles of Human Epidermal Growth Factor for Translatable Bioadhesives and Ligand-Sequestration Therapy" submitted
+Choi, J.†; Lee, S.†; <ins>Faleti, A.I.†</ins>; **Son, C.Y.\***; Hwang, D.S.\*; "Unveiling Intrinsic Wet-Adhesive Roles of Human Epidermal Growth Factor for Translatable Bioadhesives and Ligand-Sequestration Therapy" submitted
 
 ## Published
 
