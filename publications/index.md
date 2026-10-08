@@ -20,6 +20,9 @@ Kang, T.†; Park, C. B.†; <ins>Lim, Y.†</ins>; **Son, C. Y.\***; Kang, J.\*
 
 Choi, J.†; Lee, S.†; <ins>Faleti, A.I.†</ins>; **Son, C.Y.\***; Hwang, D.S.\*; "Unveiling Intrinsic Wet-Adhesive Roles of Human Epidermal Growth Factor for Translatable Bioadhesives and Ligand-Sequestration Therapy" submitted
 
+Lee, M.; Kang, T.; <ins>Lee, J.</ins>; <ins>Kang, S.</ins>; **Son, C. Y.**; Kang, J.\*; "On-Demand Self-Healing via Molecular Photoswitching" submitted
+
+
 ## Published
 
 {% include search-box.html %}
