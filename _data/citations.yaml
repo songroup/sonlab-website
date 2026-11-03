@@ -62,7 +62,7 @@
   - Dae Sung Chung
   - Hyojung Cha
   publisher: Advanced Energy Materials
-  date: '2026-04-16'
+  date: '2026-10-01'
   link: https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.70952
   type: null
   image: https://advanced.onlinelibrary.wiley.com/cms/asset/220665d1-9758-4aa9-aa2b-7c2971be287e/aenm70952-fig-0003-m.jpg
@@ -718,8 +718,10 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acs.jpcb.5b12371
-  title: "First-Principles United Atom Force Field for the Ionic Liquid BMIM<sup>+</sup>BF<sub>4</sub><sup>\u2013\
-    </sup>: An Alternative to Charge Scaling"
+  title: "First-Principles United Atom Force Field for the Ionic Liquid BMIM\n   \
+    \                 <sup>+</sup>\n                    BF\n                    <sub>4</sub>\n\
+    \                    <sup>\u2013</sup>\n                    : An Alternative to\
+    \ Charge Scaling"
   authors:
   - Chang Yun Son
   - Jesse G. McDaniel
