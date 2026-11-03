@@ -1,5 +1,5 @@
 ---
-name: HyunJu Song
+name: Hyunju Song
 image: images/members/hyunju.jpg
 role: phd2026
 aliases:
