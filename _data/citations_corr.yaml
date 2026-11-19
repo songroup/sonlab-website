@@ -1,4 +1,23 @@
 # DO NOT EDIT, GATED AUTOMATICALLY
+- id: https://doi.org/10.1126/sciadv.aeg5924
+  title: Spatial control of enzyme orientation at the lipid droplet interface enables
+    regio- and chemoselective metabolic flux
+  authors:
+  - So-Hee Son†
+  - <u>Sangwon Bae†</u>
+  - Soo Young Moon
+  - <u>Minhye Kim</u>
+  - "Seung Soo Oh\u002a"
+  - "<strong>Chang Yun Son\u002a</strong>"
+  - "Ju Young Lee\u002a"
+  publisher: Science Advances
+  date: '2026-11-06'
+  link: https://www.science.org/doi/10.1126/sciadv.aeg5924
+  type: null
+  image: null
+  description: <i>12</i>(45), eaeg5924
+  plugin: sources.py
+  file: sources.yaml
 - id: https://doi.org/10.1038/s41467-026-75568-7
   title: "Ion\u2013backbone accessibility enables unity doping efficiency in organic\
     \ electrochemical transistors"
