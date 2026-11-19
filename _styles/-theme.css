@@ -22,9 +22,9 @@
 }
 
 :root {
-  --title: "Arial", sans-serif;
-  --heading: "Arial", sans-serif;
-  --body: "Arial", sans-serif;
+  --title: "DM Sans", sans-serif;
+  --heading: "DM Sans", sans-serif;
+  --body: "Source Sans 3", sans-serif;
   --code: "Roboto Mono", monospace;
   --xs: 12px;
   --small: 16px;
