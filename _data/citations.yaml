@@ -1,5 +1,24 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: https://doi.org/10.1126/sciadv.aeg5924
+  title: Spatial control of enzyme orientation at the lipid droplet interface enables
+    regio- and chemoselective metabolic flux
+  authors:
+  - So-Hee Son
+  - Sangwon Bae
+  - Soo Young Moon
+  - Minhye Kim
+  - Seung Soo Oh
+  - Chang Yun Son
+  - Ju Young Lee
+  publisher: Science Advances
+  date: '2026-11-06'
+  link: https://www.science.org/doi/10.1126/sciadv.aeg5924
+  type: null
+  image: null
+  description: null
+  plugin: sources.py
+  file: sources.yaml
 - id: https://doi.org/10.1021/acsenergylett.6c01191
   title: Architecting Percolating Ionic Networks in Spiro-OMeTAD via Radical-Dopant
     Cooperation for Enhanced Hole Transport and Stability
