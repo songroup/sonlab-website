@@ -31,8 +31,6 @@ Lee, M.; Kang, T.; <ins>Lee, J.</ins>; <ins>Kang, S.</ins>; **Son, C. Y.**; Kang
 
 ### Accepted
 
-Son, S.-H.†; <ins>Bae S.†</ins>; Moon, S.Y.; <ins>Kim, M.</ins>;  Oh, S.S.\*; **Son, C.Y.\***; Lee, J.Y.\*; "Spatial Control of Enzyme Orientation at Lipid Droplet Interfaces Enables Regio- and Chemo-selective Metabolic Flux" accepted in Science Advances
-
 Kwon, H.-Y.; Cho, H.; Lee, S. H.; Kim, S.; <ins>Faleti, A. I.</ins>; <ins>Song, H.</ins>; **Son, C.Y.**; Kang* N.-Y,; and Chang Y.-T.*; "A Fatty-Acid-Uptake-Based Fluorescent Probe for Cross-Species Detection of M2 Macrophages" accepted in Smart Molecules 
 
 {% include list.html data="citations_corr" component="citation_test" style="rich" %}
