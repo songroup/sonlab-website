@@ -22,6 +22,8 @@ Choi, J.†; Lee, S.†; <ins>Faleti, A.I.†</ins>; **Son, C.Y.\***; Hwang, D.S
 
 Lee, M.; Kang, T.; <ins>Lee, J.</ins>; <ins>Kang, S.</ins>; **Son, C. Y.**; Kang, J.\*; "On-Demand Self-Healing via Molecular Photoswitching" submitted
 
+Park, C.; <ins>Lee, J.</ins>; <ins>Kang, S.</ins>; Lee, D.; Ham, G.; Kim, S.; Kim, M.; **Son, C.Y.\***; Cha, H.\*; "Mechanistic Understanding of Organic Photovoltaic Degradation through the Interplay of Structural Evolution, Electronic States, and Charge-Carrier Dynamics" submitted
+
 
 ## Published
 
